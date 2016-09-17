@@ -1,4 +1,4 @@
 # Summary
 
 + [September](2016_September/README.md)
-    + [#1](2016_September/#1.md)
+    + [.NET Weekly #1](2016_September/number-1.md)
