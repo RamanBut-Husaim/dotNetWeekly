@@ -22,6 +22,7 @@
 
 1. [The F# Path to Relaxation](https://www.youtube.com/watch?v=ZTbyKsw7uIU)
 1. [But why is the iterator operating in multiple threads](https://colinmackay.scot/2016/09/12/but-why-is-the-iterator-operating-in-multiple-threads/)
+1. [Channels API](http://blog.marcgravell.com/2016/09/channelling-my-inner-geek.html)
 
 ## Runtime
 
