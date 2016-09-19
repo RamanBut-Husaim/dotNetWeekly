@@ -19,3 +19,4 @@
 ## Other
 
 1. [DeepMind Unveils WaveNet - A Deep Neural Network for Speech and Audio Synthesis](https://www.infoq.com/news/2016/09/deepmind-wavenet)
+1. [On knowledge sharing](http://sergeyteplyakov.blogspot.dk/2016/09/on-knowledge-sharing.html)
