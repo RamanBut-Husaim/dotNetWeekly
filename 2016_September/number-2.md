@@ -22,6 +22,8 @@
 ## Runtime
 
 1. [Compact string in CLR](http://mattwarren.org/2016/09/19/Compact-strings-in-the-CLR/)
+1. [When a disk cache performs better than an in-memory cache (befriending the .net GC)](http://www.productiverage.com/when-a-disk-cache-performs-better-than-an-inmemory-cache-befriending-the-net-gc)
+1. [Why isn’t F# the King of .NET?](https://www.reddit.com/r/programming/comments/53h8u8/why_isnt_f_the_king_of_net/d7t1fwd)
 
 ## Other
 
