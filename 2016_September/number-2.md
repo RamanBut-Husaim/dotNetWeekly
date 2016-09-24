@@ -10,6 +10,7 @@
 1. [Marten 1.0 is Here!](https://jeremydmiller.com/2016/09/14/marten-1-0-is-here/)
 1. [PerfView is now Open Source On GitHub](https://blogs.msdn.microsoft.com/vancem/2016/09/18/perfview-is-now-open-source-on-github/)
 1. [New experience for NuGet Documentation](http://blog.nuget.org/20160920/NuGet-Docs-GoLive.html)
+1. JetBrains Rider - a new build is available ([macOS](http://download.jetbrains.com/resharper/riderRS-163.5065.dmg), [Windows](http://download.jetbrains.com/resharper/riderRS-163.5065.exe), [Linux](http://download.jetbrains.com/resharper/riderRS-163.5065.tar.gz))
 
 ## Architecture & Databases
 
