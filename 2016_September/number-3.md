@@ -4,6 +4,8 @@
 
 ## Tooling & Libraries
 
+1. [GitHub rebase and merge pull requests](https://github.com/blog/2243-rebase-and-merge-pull-requests)
+
 ## Architecture & Databases
 
 1. [Introducing the GitHub Load Balancer](http://githubengineering.com/introducing-glb/)
@@ -13,5 +15,7 @@
 ## Programming Languages
 
 ## Runtime
+
+1. [Introducing .NET Standard](https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard/)
 
 ## Other
