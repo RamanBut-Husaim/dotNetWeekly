@@ -15,6 +15,7 @@
 ## Architecture & Databases
 
 1. [API Stylebook: A Collections Of Resources For API Designers](http://apievangelist.com/2016/09/12/api-stylebook-a-collections-of-resources-for-api-designers/)
+1. [Distributed Systems in Practice, in Theory](https://www.infoq.com/presentations/patterns-distributed-systems)
 
 ## Programming Languages
 
