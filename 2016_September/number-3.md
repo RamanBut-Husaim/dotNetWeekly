@@ -6,7 +6,6 @@
 1. [Announcing the public preview of Azure Monitor](https://azure.microsoft.com/en-us/blog/announcing-the-public-preview-of-azure-monitor/)
 1. [External Network Access to Kestrel and IIS Express in ASP.NET Core](https://weblog.west-wind.com/posts/2016/Sep/28/External-Network-Access-to-Kestrel-and-IIS-Express-in-ASPNET-Core)
 
-
 ## Tooling & Libraries
 
 1. [GitHub rebase and merge pull requests](https://github.com/blog/2243-rebase-and-merge-pull-requests)
@@ -18,10 +17,12 @@
 1. [Why you should give Marten a look before adopting an ORM like EF](https://jeremydmiller.com/2016/09/23/why-you-should-give-marten-a-look-before-adopting-an-orm/)
 1. [Open Sourcing Twitter Heron](https://blog.twitter.com/2016/open-sourcing-twitter-heron)
 1. [Evolutionary Database Design](http://martinfowler.com/articles/evodb.html)
+1. [Microservices - please don't](https://blog.komand.com/microservices-please-dont)
 
 ## Programming Languages
 
 1. [Using F# and Canopy for UI Testing](http://www.jeremybellows.com/blog/Using-Fsharp-and-Canopy-for-UI-Testing)
+1. [ES proposal: global](http://www.2ality.com/2016/09/global.html)
 
 ## Runtime
 
