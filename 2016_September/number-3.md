@@ -23,6 +23,7 @@
 
 1. [Using F# and Canopy for UI Testing](http://www.jeremybellows.com/blog/Using-Fsharp-and-Canopy-for-UI-Testing)
 1. [ES proposal: global](http://www.2ality.com/2016/09/global.html)
+1. [Does Elm harmonize with F#](http://lucasmreis.github.io/blog/does-elm-harmonize-with-f/)
 
 ## Runtime
 
@@ -36,3 +37,4 @@
 
 1. [Hero Pattern](http://sergeyteplyakov.blogspot.com.by/2016/09/hero-pattern.html)
 1. [Announcing Rust 1.12](https://blog.rust-lang.org/2016/09/29/Rust-1.12.html)
+1. [Ahead-Of-Time (AOT) Compilation May Come to OpenJDK HotSpot in Java 9](https://www.infoq.com/news/2016/10/AOT-HotSpot-OpenJDK-9)
