@@ -6,6 +6,8 @@
 
 ## Architecture & Databases
 
+1. [The cost of StackOverflow indexes](https://ayende.com/blog/175649/performance-analysis-the-cost-of-stackoverflow-indexes)
+
 ## Programming Languages
 
 1. [Dynamically extending F# applications](http://kcieslak.io/Dynamically-extending-F-applications)
@@ -19,3 +21,4 @@
 ## Other
 
 1. [Windows 10 Memory Compression And More](https://aloiskraus.wordpress.com/2016/10/03/windows-10-memory-compression-and-more/)
+1. [IBM Announces Kitura 1.0 and Bluemix Runtime for Swift 3](https://www.infoq.com/news/2016/10/ibm-kitura-10-bluemix-swift-3)
