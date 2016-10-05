@@ -8,6 +8,7 @@
 
 1. [Cake for Visual Studio released](http://cakebuild.net/blog/2016/09/cake-for-visual-studio)
 1. [Visual Studio "15" Preview 5](https://blogs.msdn.microsoft.com/visualstudio/2016/10/05/announcing-visual-studio-15-preview-5/)
+1. [Microsoft IIS Administration Preview](https://blogs.iis.net/adminapi/microsoft-iis-administration-api-preview)
 
 ## Architecture & Databases
 
