@@ -7,6 +7,7 @@
 ## Tooling & Libraries
 
 1. [Cake for Visual Studio released](http://cakebuild.net/blog/2016/09/cake-for-visual-studio)
+1. [Visual Studio "15" Preview 5](https://blogs.msdn.microsoft.com/visualstudio/2016/10/05/announcing-visual-studio-15-preview-5/)
 
 ## Architecture & Databases
 
