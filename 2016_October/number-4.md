@@ -3,6 +3,7 @@
 ## Cloud & Web
 
 1. [Controlling exposure through feature flags in VS Team Services](https://blogs.msdn.microsoft.com/buckh/2016/09/30/controlling-exposure-through-feature-flags-in-vs-team-services/)
+1. [p2pcopy: C# console app to transfer files peer to peer](http://blog.plasticscm.com/2016/10/p2pcopy-c-console-app-to-transfer-files.html)
 
 ## Tooling & Libraries
 
@@ -14,6 +15,7 @@
 
 1. [The cost of StackOverflow indexes](https://ayende.com/blog/175649/performance-analysis-the-cost-of-stackoverflow-indexes)
 1. [Which Edition of SQL Server is Best for Development Work?](https://www.simple-talk.com/sql/sql-development/edition-sql-server-best-development-work/)
+1. [Integers vs GUIDs - The Great Primary Key Debate](https://www.exceptionnotfound.net/integers-vs-guids-the-great-primary-key-debate/)
 
 ## Programming Languages
 
