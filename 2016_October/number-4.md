@@ -23,14 +23,15 @@
 1. [ES proposal: Rest/Spread Properties](http://www.2ality.com/2016/10/rest-spread-properties.html)
 1. [Function Application and Composition](http://sidburn.github.io/blog/2016/09/25/function-application-and-composition)
 1. [The Troubles With JavaScript Modules](http://odetocode.com/blogs/scott/archive/2016/10/04/the-troubles-with-javascript-modules.aspx)
+1. [C#/VB/F# Sprint 107 Summary](https://github.com/dotnet/roslyn/issues/14378)
 
 ## Runtime
 
 1. [Adding a verb to the dotnet CLI tooling](http://mattwarren.org/2016/10/03/Adding-a-verb-to-the-dotnet-CLI-tooling/)
+1. [Immo Landwerth on NetStandard 2.0](https://www.youtube.com/watch?v=eCEczPk0qkc&t=0s)
 
 ## Other
 
 1. [Windows 10 Memory Compression And More](https://aloiskraus.wordpress.com/2016/10/03/windows-10-memory-compression-and-more/)
 1. [IBM Announces Kitura 1.0 and Bluemix Runtime for Swift 3](https://www.infoq.com/news/2016/10/ibm-kitura-10-bluemix-swift-3)
 1. [BEAM Wisdoms](http://beam-wisdoms.clau.se/en/latest/)
-1. [Elixir Maintainability](http://tech.findmypast.com/elixir-maintainability/)
