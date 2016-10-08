@@ -29,6 +29,7 @@
 
 1. [Adding a verb to the dotnet CLI tooling](http://mattwarren.org/2016/10/03/Adding-a-verb-to-the-dotnet-CLI-tooling/)
 1. [Immo Landwerth on NetStandard 2.0](https://www.youtube.com/watch?v=eCEczPk0qkc&t=0s)
+1. [Debugging high memory usage. Part 2 - .NET Memory Profiler](http://indexoutofrange.com/Debugging-high-memory-usage.Part-2-DotNetMemoryProfiler/)
 
 ## Other
 
