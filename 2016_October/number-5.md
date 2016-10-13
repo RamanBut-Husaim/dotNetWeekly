@@ -10,14 +10,17 @@
 
 1. [Faster Visual Studio “15” Startup](https://blogs.msdn.microsoft.com/visualstudio/2016/10/10/faster-visual-studio-15-startup/)
 1. [Shorter Solution Load Time in Visual Studio “15”](https://blogs.msdn.microsoft.com/visualstudio/2016/10/11/shorter-solution-load-time-in-visual-studio-15/)
+1. [Reduced Out of Memory Crashes in Visual Studio “15”](https://blogs.msdn.microsoft.com/visualstudio/2016/10/12/reduced-out-of-memory-crashes-in-visual-studio-15/)
 
 ## Architecture & Databases
 
 1. [RavenDB 3.5 Release Candidate 3 (and final) is out](https://ayende.com/blog/175809/ravendb-3-5-release-candidate-3-and-final-is-out)
+1. [Temporal Tables are generally available in Azure SQL Database](https://azure.microsoft.com/en-us/blog/general-availability-temporal-tables-in-azure-sql-database/)
 
 ## Programming Languages
 
 1. [Microsoft Open-Sources P Language for Safe Async Event-Driven Programming](https://www.infoq.com/news/2016/10/microsoft-p-language-opensourced)
+1. [ES proposal: asynchronous iteration](http://www.2ality.com/2016/10/asynchronous-iteration.html)
 
 ## Runtime
 

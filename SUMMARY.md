@@ -7,3 +7,4 @@
     + [.NET Weekly #3](2016_September/number-3.md)
 + [October](2016_October/README.md)
     + [.NET Weekly #4](2016_October/number-4.md)
+    + [.NET Weekly #5](2016_October/number-5.md)
