@@ -25,6 +25,7 @@
 ## Runtime
 
 1. [Fall cleaning: Optimizing V8 memory consumption](http://v8project.blogspot.com.by/2016/10/fall-cleaning-optimizing-v8-memory.html)
+1. [Timing the time it takes to parse time: Part II](https://ayende.com/blog/175714/timing-the-time-it-takes-to-parse-time-part-ii)
 
 ## Other
 
