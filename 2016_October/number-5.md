@@ -11,11 +11,13 @@
 1. [Faster Visual Studio “15” Startup](https://blogs.msdn.microsoft.com/visualstudio/2016/10/10/faster-visual-studio-15-startup/)
 1. [Shorter Solution Load Time in Visual Studio “15”](https://blogs.msdn.microsoft.com/visualstudio/2016/10/11/shorter-solution-load-time-in-visual-studio-15/)
 1. [Reduced Out of Memory Crashes in Visual Studio “15”](https://blogs.msdn.microsoft.com/visualstudio/2016/10/12/reduced-out-of-memory-crashes-in-visual-studio-15/)
+1. [Visual Studio Code 1.6.1](https://code.visualstudio.com/updates/v1_6)
 
 ## Architecture & Databases
 
 1. [RavenDB 3.5 Release Candidate 3 (and final) is out](https://ayende.com/blog/175809/ravendb-3-5-release-candidate-3-and-final-is-out)
 1. [Temporal Tables are generally available in Azure SQL Database](https://azure.microsoft.com/en-us/blog/general-availability-temporal-tables-in-azure-sql-database/)
+1. [Implementation Strategies for the Repository Pattern with Entity Framework, Dapper, and Chain](https://www.infoq.com/articles/repository-implementation-strategies)
 
 ## Programming Languages
 
@@ -26,6 +28,8 @@
 
 1. [Fall cleaning: Optimizing V8 memory consumption](http://v8project.blogspot.com.by/2016/10/fall-cleaning-optimizing-v8-memory.html)
 1. [Timing the time it takes to parse time: Part II](https://ayende.com/blog/175714/timing-the-time-it-takes-to-parse-time-part-ii)
+1. [More details on Span<T>](https://github.com/dotnet/corefxlab/blob/master/docs/Span.md)
+1. [Native Compilation – Why JIT when you can CodeGen!](https://blogs.msdn.microsoft.com/alphageek/2016/10/13/native-compilation-why-jit-when-you-can-codegen/)
 
 ## Other
 
