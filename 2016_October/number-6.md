@@ -7,11 +7,21 @@
 ## Tooling & Libraries
 
 1. [Improved overall Visual Studio “15” Responsiveness](https://blogs.msdn.microsoft.com/visualstudio/2016/10/14/improved-overall-visual-studio-15-responsiveness/)
+1. [ReSharper Ultimate 2016.3 EAP 4](https://blog.jetbrains.com/dotnet/2016/10/14/resharper-ultimate-2016-3-eap4/)
+1. [Introducing Fiddler for OS X Beta 1](http://www.telerik.com/blogs/introducing-fiddler-for-os-x-beta-1)
 
 ## Architecture & Databases
 
 ## Programming Languages
 
+1. [Using F# with .NET Core](https://medium.com/real-world-fsharp/using-f-with-net-core-aa6cfc9ef547#.ga7bhcpzj)
+
 ## Runtime
 
+1. [Interception in .NET – Part 3: Static Interception](https://weblogs.asp.net/ricardoperes/interception-in-net-part-3-static-interception)
+1. [Introducing C# script runner for .NET Core and .NET CLI](http://www.strathweb.com/2016/10/introducing-c-script-runner-for-net-core-and-net-cli/)
+
 ## Other
+
+1. [Swift 4.0 roadmap](https://github.com/apple/swift-evolution/blob/master/README.md)
+1. [Introducing Rust Language Server, source release](https://internals.rust-lang.org/t/introducing-rust-language-server-source-release/4209)
