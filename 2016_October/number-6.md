@@ -15,6 +15,8 @@
 ## Architecture & Databases
 
 1. [An Authentication and Authorization Architecture for a Microservices World](https://www.infoq.com/presentations/forgerock-security)
+1. [Accessing SQL from Entity Framework Core Queries in ASP.NET Core](http://rion.io/2016/10/19/accessing-entity-framework-core-queries-behind-the-scenes-in-asp-net-core/)
+1. [Rowan Miller - Entity Framework Core 1.1](https://www.youtube.com/watch?v=bMR6zx84TGk)
 
 ## Programming Languages
 
