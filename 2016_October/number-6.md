@@ -32,3 +32,5 @@
 
 1. [Swift 4.0 roadmap](https://github.com/apple/swift-evolution/blob/master/README.md)
 1. [Introducing Rust Language Server, source release](https://internals.rust-lang.org/t/introducing-rust-language-server-source-release/4209)
+1. [Windows Subsystem for Linux: Windows and Ubuntu Interoperability](https://channel9.msdn.com/Blogs/Seth-Juarez/Windows-Subsystem-for-Linux-Windows-and-Ubuntu-Interoperability)
+1. [Rust roadmap for 2017](https://github.com/aturon/rfcs/blob/roadmap-2017/text/0000-roadmap-2017.md)
