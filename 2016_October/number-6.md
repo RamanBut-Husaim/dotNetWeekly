@@ -21,6 +21,7 @@
 ## Programming Languages
 
 1. [Using F# with .NET Core](https://medium.com/real-world-fsharp/using-f-with-net-core-aa6cfc9ef547#.ga7bhcpzj)
+1. [Functional programming is a tool for thought, imperative programming is a tool for hacking](http://hotforknowledge.com/2016/10/19/4-functional-for-thought-imperative-for-hacking/)
 
 ## Runtime
 
