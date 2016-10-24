@@ -9,3 +9,4 @@
     + [.NET Weekly #4](2016_October/number-4.md)
     + [.NET Weekly #5](2016_October/number-5.md)
     + [.NET Weekly #6](2016_October/number-6.md)
+    + [.NET Weekly #7](2016_October/number-7.md)
