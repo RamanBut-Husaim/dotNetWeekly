@@ -15,3 +15,5 @@
 ## Runtime
 
 ## Other
+
+1. [Language-Level Reactivity with Elm](https://www.infoq.com/articles/language-reactivity-with-elm)
