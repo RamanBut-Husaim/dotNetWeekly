@@ -25,6 +25,7 @@
 
 1. [Interception in .NET – Part 4: An Interception Framework](https://weblogs.asp.net/ricardoperes/interception-in-net-part-4-an-interception-framework)
 1. [Announcing .NET Core 1.1 Preview 1](https://blogs.msdn.microsoft.com/dotnet/2016/10/25/announcing-net-core-1-1-preview-1/)
+1. [How does the 'fixed' keyword work?](http://mattwarren.org/2016/10/26/How-does-the-fixed-keyword-work/)
 
 ## Other
 
