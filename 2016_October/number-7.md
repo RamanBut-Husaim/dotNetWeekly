@@ -3,11 +3,13 @@
 ## Cloud & Web
 
 1. [Getting Started with HTTP/2 and Server Push](http://www.deanhume.com/Home/BlogPost/getting-started-with-http-2-and-server-push/10152)
+1. [Automating Installation Builds and Chocolatey Packaging](https://weblog.west-wind.com/posts/2016/Oct/25/Automating-Installation-Builds-and-Chocolatey-Packaging)
 
 ## Tooling & Libraries
 
 1. [ReSharper Ultimate 2016.3 EAP 5](https://blog.jetbrains.com/dotnet/2016/10/25/resharper-ultimate-2016-3-eap-5/)
 1. [Node.js v7 ChangeLog](https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V7.md#7.0.0)
+1. [What's new in Serilog? (October 2016)](https://nblumhardt.com/2016/10/october-serilog-update/)
 
 ## Architecture & Databases
 
