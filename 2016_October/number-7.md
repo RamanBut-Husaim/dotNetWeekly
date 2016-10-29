@@ -10,6 +10,8 @@
 1. [ReSharper Ultimate 2016.3 EAP 5](https://blog.jetbrains.com/dotnet/2016/10/25/resharper-ultimate-2016-3-eap-5/)
 1. [Node.js v7 ChangeLog](https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V7.md#7.0.0)
 1. [What's new in Serilog? (October 2016)](https://nblumhardt.com/2016/10/october-serilog-update/)
+1. [Announcing NuGet 3.5 RTM](http://blog.nuget.org/20161027/Announcing-NuGet-3.5-RTM.html)
+1. [RavenDB 3.5 RTM released](https://ayende.com/blog/175937/ravendb-3-5-rtm-released)
 
 ## Architecture & Databases
 
@@ -17,6 +19,7 @@
 1. [Introduction to the 'Fail Fast!' Principle in Software Development](http://www.codeproject.com/Articles/1138445/Introduction-to-the-Fail-Fast-Principle-in-Softwar)
 1. [When variable names are in the way](http://blog.ploeh.dk/2016/10/25/when-variable-names-are-in-the-way/)
 1. [Elements of Helpful Code Documentation](http://submain.com/blog/ElementsOfHelpfulCodeDocumentation.aspx)
+1. [CQRS/MediatR implementation patterns](https://lostechies.com/jimmybogard/2016/10/27/cqrsmediatr-implementation-patterns/)
 
 ## Programming Languages
 
