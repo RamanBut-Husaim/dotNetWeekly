@@ -25,6 +25,7 @@
 
 1. [Tips for using async functions (ES2017)](http://www.2ality.com/2016/10/async-function-tips.html)
 1. [Tuples with C# 7.0](https://csharp.christiannagel.com/2016/10/11/tuples/)
+1. [C#/VB/F# Sprint 108 Summary](https://github.com/dotnet/roslyn/issues/14804)
 
 ## Runtime
 
