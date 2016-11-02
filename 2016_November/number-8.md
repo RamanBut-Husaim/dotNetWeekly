@@ -2,19 +2,31 @@
 
 ## Cloud & Web
 
+1. [Resource-based authorisation in ASP.NET Core](https://andrewlock.net/resource-specific-authorisation-in-asp-net-core/)
+1. [ASP.NET Core and the Enterprise Part 2: Hosting](http://odetocode.com/blogs/scott/archive/2016/10/25/asp-net-core-and-the-enterprise-part-2-hosting.aspx)
+
 ## Tooling & Libraries
 
 1. [.NET Core + RabbitMQ = RawRabbit](http://piotrgankiewicz.com/2016/10/31/net-core-rabbitmq-rawrabbit/)
+1. [ReSharper Ultimate 2016.3 EAP 6](https://blog.jetbrains.com/dotnet/2016/11/01/resharper-ultimate-2016-3-eap-6/)
+1. [Using NDepend to Help Improve Architecture](https://stevedesmond.ca/blog/using-ndepend-to-help-improve-architecture)
 
 ## Architecture & Databases
 
 1. [The Laws of Distributed Systems](http://www.dylanbeattie.net/2016/10/the-laws-of-distributed-systems.html)
 1. [Distributed Systems Materials from GeekNight](http://malisancubeblog.azurewebsites.net/distributed-systems-materials/)
+1. [Keeping Your Code Clean while Logging](http://www.daedtech.com/keeping-code-clean-logging/)
 
 ## Programming Languages
 
+1. [Computing tag functions for ES6 template literals](http://www.2ality.com/2016/11/computing-tag-functions.html)
+1. [Efficient discriminated unions in C#](http://xoofx.com/blog/2016/10/28/efficient-discriminated-unions-in-csharp/)
+
 ## Runtime
+
+1. [Idle memory GC memory yanking](https://ayende.com/blog/175970/idle-memory-gc-memory-yanking)
 
 ## Other
 
 1. [Announcing RStudio v1.0!](https://blog.rstudio.org/2016/11/01/announcing-rstudio-v1-0/)
+1. [A peek into the WebAssembly Browser Preview](https://blogs.windows.com/msedgedev/2016/10/31/webassembly-browser-preview/)
