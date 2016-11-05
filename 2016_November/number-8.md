@@ -10,6 +10,7 @@
 1. [.NET Core + RabbitMQ = RawRabbit](http://piotrgankiewicz.com/2016/10/31/net-core-rabbitmq-rawrabbit/)
 1. [ReSharper Ultimate 2016.3 EAP 6](https://blog.jetbrains.com/dotnet/2016/11/01/resharper-ultimate-2016-3-eap-6/)
 1. [Using NDepend to Help Improve Architecture](https://stevedesmond.ca/blog/using-ndepend-to-help-improve-architecture)
+1. JetBrains Rider: a new build is available - [macOS](https://download.jetbrains.com/resharper/riderRS-163.7608.dmg), [Windows](https://download.jetbrains.com/resharper/riderRS-163.7608.exe), [Linux](https://download.jetbrains.com/resharper/riderRS-163.7608.tar.gz)
 
 ## Architecture & Databases
 
@@ -30,3 +31,4 @@
 
 1. [Announcing RStudio v1.0!](https://blog.rstudio.org/2016/11/01/announcing-rstudio-v1-0/)
 1. [A peek into the WebAssembly Browser Preview](https://blogs.windows.com/msedgedev/2016/10/31/webassembly-browser-preview/)
+1. [OCaml version 4.04.0 is released](https://sympa.inria.fr/sympa/arc/caml-list/2016-11/msg00010.html)
