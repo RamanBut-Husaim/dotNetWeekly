@@ -11,6 +11,7 @@
 1. [ReSharper Ultimate 2016.3 EAP 6](https://blog.jetbrains.com/dotnet/2016/11/01/resharper-ultimate-2016-3-eap-6/)
 1. [Using NDepend to Help Improve Architecture](https://stevedesmond.ca/blog/using-ndepend-to-help-improve-architecture)
 1. JetBrains Rider: a new build is available - [macOS](https://download.jetbrains.com/resharper/riderRS-163.7608.dmg), [Windows](https://download.jetbrains.com/resharper/riderRS-163.7608.exe), [Linux](https://download.jetbrains.com/resharper/riderRS-163.7608.tar.gz)
+1. [Visual Studio Code 1.7.1 is out](http://code.visualstudio.com/updates)
 
 ## Architecture & Databases
 
@@ -22,10 +23,12 @@
 
 1. [Computing tag functions for ES6 template literals](http://www.2ality.com/2016/11/computing-tag-functions.html)
 1. [Efficient discriminated unions in C#](http://xoofx.com/blog/2016/10/28/efficient-discriminated-unions-in-csharp/)
+1. [Using F# on Azure](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/using-fsharp-on-azure/)
 
 ## Runtime
 
 1. [Idle memory GC memory yanking](https://ayende.com/blog/175970/idle-memory-gc-memory-yanking)
+1. [Mei-Chin Tsai & Jan Kotas - CoreRT & .NET Native](https://www.youtube.com/watch?v=6ypNZ3FFHQg)
 
 ## Other
 
