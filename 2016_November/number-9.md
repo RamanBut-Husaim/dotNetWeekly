@@ -9,10 +9,10 @@
 
 ## Tooling & Libraries
 
-1. [Jot – a .NET library for managing application state](http://www.codeproject.com/Articles/1152831/Jot-a-NET-library-for-managing-application-state)
 1. [ReSharper Ultimate 2016.3 EAP 7](https://blog.jetbrains.com/dotnet/2016/11/08/resharper-ultimate-2016-3-eap-7/)
 1. [Enums.NET - a high-performance type-safe .NET enum utility library](https://github.com/TylerBrinkley/Enums.NET)
 1. [Welcome BenchmarkDotNet](http://dotnetfoundation.org/blog/welcome-benchmarkdotnet)
+1. [NServiceBus on .NET Core - Why not?](https://particular.net/blog/nservicebus-on-net-core-why-not)
 
 ## Architecture & Databases
 
