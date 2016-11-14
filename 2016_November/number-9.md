@@ -13,6 +13,7 @@
 1. [Enums.NET - a high-performance type-safe .NET enum utility library](https://github.com/TylerBrinkley/Enums.NET)
 1. [Welcome BenchmarkDotNet](http://dotnetfoundation.org/blog/welcome-benchmarkdotnet)
 1. [NServiceBus on .NET Core - Why not?](https://particular.net/blog/nservicebus-on-net-core-why-not)
+1. [Microsoft will release Visual Studio for the Mac](https://webcache.googleusercontent.com/search?q=cache:Vk2On-9psscJ:https://msdn.microsoft.com/en-us/magazine/mt790182.aspx+&cd=1&hl=en&ct=clnk&gl=uk)
 
 ## Architecture & Databases
 
@@ -24,6 +25,8 @@
 ## Programming Languages
 
 1. [TypeScript 2.1 RC: Better Inference, Async Functions, and More](https://blogs.msdn.microsoft.com/typescript/2016/11/08/typescript-2-1-rc-better-inference-async-functions-and-more/)
+1. [Implementing message queue patterns using F# and actor model](http://www.channel64.net/2016/11/implementing-message-queue-patterns.html)
+1. [FSharp Error Handling Compared](https://medium.com/@dogwith1eye/fsharp-error-handling-compared-bef0516a449#.aslfzsuhm)
 
 ## Runtime
 
