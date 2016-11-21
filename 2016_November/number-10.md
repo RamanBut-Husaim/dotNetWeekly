@@ -18,6 +18,7 @@
 1. [ValueObject](http://martinfowler.com/bliki/ValueObject.html)
 1. [Fat Controller CQRS Diet: Command Pipeline](http://codeopinion.com/fat-controller-cqrs-diet-command-pipeline/)
 1. [SQL Server vNext Evaluation Edition Now Available](http://sqlblog.com/blogs/andy_leonard/archive/2016/11/16/sql-server-vnext-evaluation-edition-now-available.aspx)
+1. [Горизонтальные и вертикальные слои приложения](http://sergeyteplyakov.blogspot.de/2016/11/horizontal-and-vertical-architectural.html)
 
 ## Programming Languages
 
