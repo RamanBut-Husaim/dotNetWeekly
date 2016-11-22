@@ -11,5 +11,6 @@
 ## Runtime
 
 1. [SuperCharged MemoryPoolIterator](https://github.com/aspnet/KestrelHttpServer/pull/1138)
+1. [CoreCLR ARM 32-bit progress](https://github.com/dotnet/coreclr/issues/3977)
 
 ## Other
