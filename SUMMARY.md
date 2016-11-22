@@ -14,3 +14,4 @@
     + [.NET Weekly #8](2016_November/number-8.md)
     + [.NET Weekly #9](2016_November/number-9.md)
     + [.NET Weekly #10](2016_November/number-10.md)
+    + [.NET Weekly #11](2016_November/number-11.md)
