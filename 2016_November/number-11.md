@@ -11,11 +11,13 @@
 1. [JetBrains Rider Early Access Program is now public](https://blog.jetbrains.com/dotnet/2016/11/21/jetbrains-rider-public-preview/)
 1. [.NET Standard based Windows Service support for .NET](https://github.com/dasMulli/dotnet-win32-service)
 1. [Using Paket with Azure Functions](http://kcieslak.io/Using-Paket-with-Azure-Functions)
+1. [.NET Standard 2.0 - Making Sense of .NET Again](https://weblog.west-wind.com/posts/2016/Nov/23/NET-Standard-20-Making-Sense-of-NET-Again)
 
 ## Architecture & Databases
 
 1. [Encapsulation Covers Up Naked Data](http://www.yegor256.com/2016/11/21/naked-data.html)
 1. [Chad Z. Hower a.k.a. Kudzu - Cosmos](https://www.youtube.com/watch?v=wgEBo-u19Wc&feature=em-lss)
+1. [Webhooks do’s and dont’s: what we learned after integrating +100 APIs](https://restful.io/webhooks-dos-and-dont-s-what-we-learned-after-integrating-100-apis-d567405a3671#.xl2opkxl8)
 
 ## Programming Languages
 
@@ -27,8 +29,11 @@
 1. [CoreCLR ARM 32-bit progress](https://github.com/dotnet/coreclr/issues/3977)
 1. [Making code faster Streamlining the output](https://ayende.com/blog/176097/making-code-faster-streamlining-the-output)
 1. [.NET Core SDK preview3](https://github.com/dotnet/netcorecli-fsc/wiki/.NET-Core-SDK-preview3)
+1. [Problems with AsParallel](http://indexoutofrange.com/Problems_with_AsParallel/)
 
 ## Other
 
 1. [New App Service MVA course now available](https://azure.microsoft.com/en-us/updates/new-app-servie-mva-course-now-available/)
 1. [GitLab 8.14 Released with Time Tracking Beta and Chat Commands](https://about.gitlab.com/2016/11/22/gitlab-8-14-released/)
+1. [Open Source .NET – 2 years later](http://mattwarren.org/2016/11/23/open-source-net-2-years-later/)
+1. [NIST’s new password rules – what you need to know](https://nakedsecurity.sophos.com/2016/08/18/nists-new-password-rules-what-you-need-to-know/)
