@@ -22,6 +22,8 @@
 ## Programming Languages
 
 1. [F# Suave app on dotnet core on Kubernetes on Google Cloud](http://blog.2mas.xyz/fsharp-suave-app-on-dotnet-core-on-kubernetes-on-google-cloud/)
+1. [Understanding Monads](https://medium.com/real-world-fsharp/understanding-monads-db30eeadf2bf#.e4mf5495o)
+1. [F# Pain Points](http://www.colinbellmore.work/post/fsharp-pain/)
 
 ## Runtime
 
