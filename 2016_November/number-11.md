@@ -1,4 +1,4 @@
-# .NET Weekly #10 (21.11 - 27.11)
+# .NET Weekly #11 (21.11 - 27.11)
 
 ## Cloud & Web
 
