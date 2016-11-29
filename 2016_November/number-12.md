@@ -12,6 +12,8 @@
 
 ## Architecture & Databases
 
+1. [Easy domain modelling with types](http://blog.ploeh.dk/2016/11/28/easy-domain-modelling-with-types/)
+
 ## Programming Languages
 
 ## Runtime
@@ -22,3 +24,4 @@
 
 1. [Couchbase 4.6 Developer Preview Released, Adds Real-Time Connectors for Apache Spark 2.0 and Kafka](https://www.infoq.com/news/2016/11/couchbase-4.6-developer-preview)
 1. [EO lang](http://www.yegor256.com/2016/11/29/eolang.html)
+1. [TensorFlow 0.12 adds support for Windows](https://developers.googleblog.com/2016/11/tensorflow-0-12-adds-support-for-windows.html)
