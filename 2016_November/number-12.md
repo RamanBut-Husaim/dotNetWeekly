@@ -3,6 +3,7 @@
 ## Cloud & Web
 
 1. [ASP.NET Core Authentication in a Load Balanced Environment with HAProxy and Redis](http://www.tugberkugurlu.com/archive/asp-net-core-authentication-in-a-load-balanced-environment-with-haproxy-and-redis)
+1. [Exploring Middleware as MVC Filters in ASP.NET Core 1.1](https://andrewlock.net/exploring-middleware-as-mvc-filters-in-asp-net-core-1-1/)
 
 ## Tooling & Libraries
 
@@ -13,6 +14,7 @@
 ## Architecture & Databases
 
 1. [Easy domain modelling with types](http://blog.ploeh.dk/2016/11/28/easy-domain-modelling-with-types/)
+1. [Entity Framework Core – Unit Testing](https://csharp.christiannagel.com/2016/11/22/efcoreunittesting/)
 
 ## Programming Languages
 
@@ -25,3 +27,4 @@
 1. [Couchbase 4.6 Developer Preview Released, Adds Real-Time Connectors for Apache Spark 2.0 and Kafka](https://www.infoq.com/news/2016/11/couchbase-4.6-developer-preview)
 1. [EO lang](http://www.yegor256.com/2016/11/29/eolang.html)
 1. [TensorFlow 0.12 adds support for Windows](https://developers.googleblog.com/2016/11/tensorflow-0-12-adds-support-for-windows.html)
+1. [Git 2.11 has been released](https://github.com/blog/2288-git-2-11-has-been-released)
