@@ -18,6 +18,8 @@
 
 ## Programming Languages
 
+1. [Standardized ladder of functional programming](http://lambdaconf.us/downloads/documents/lambdaconf_slfp.pdf)
+
 ## Runtime
 
 1. [Digging into the CoreCLR: Some bashing on the cost of hashing](https://ayende.com/blog/176161/digging-into-the-coreclr-some-bashing-on-the-cost-of-hashing)
