@@ -4,6 +4,7 @@
 
 1. [ASP.NET Core Authentication in a Load Balanced Environment with HAProxy and Redis](http://www.tugberkugurlu.com/archive/asp-net-core-authentication-in-a-load-balanced-environment-with-haproxy-and-redis)
 1. [Exploring Middleware as MVC Filters in ASP.NET Core 1.1](https://andrewlock.net/exploring-middleware-as-mvc-filters-in-asp-net-core-1-1/)
+1. [New in IdentityServer4: Resource-based Configuration](https://leastprivilege.com/2016/12/01/new-in-identityserver4-resource-based-configuration/)
 
 ## Tooling & Libraries
 
