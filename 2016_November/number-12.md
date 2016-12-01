@@ -15,6 +15,7 @@
 
 1. [Easy domain modelling with types](http://blog.ploeh.dk/2016/11/28/easy-domain-modelling-with-types/)
 1. [Entity Framework Core – Unit Testing](https://csharp.christiannagel.com/2016/11/22/efcoreunittesting/)
+1. [15 Years of Concurrency](http://joeduffyblog.com/2016/11/30/15-years-of-concurrency/)
 
 ## Programming Languages
 
