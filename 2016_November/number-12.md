@@ -11,16 +11,20 @@
 1. [Enforcing Immutability in Multi-Threaded Projects with NDepend](http://www.daedtech.com/enforcing-mutability-multi-threaded-projects-ndepend/)
 1. [Introducing Rider, the New .NET IDE webinar: recording and Q&A](https://blog.jetbrains.com/dotnet/2016/11/28/introducing-rider-the-new-net-ide-webinar-recording-and-qa/)
 1. [Do not misuse or over abstract AutoMapper](http://andriybuday.com/2016/11/do-not-misuse-or-over-abstract-automapper.html)
+1. [The first release candidate of Redis 4.0 is out](http://www.antirez.com/news/110)
 
 ## Architecture & Databases
 
 1. [Easy domain modelling with types](http://blog.ploeh.dk/2016/11/28/easy-domain-modelling-with-types/)
 1. [Entity Framework Core – Unit Testing](https://csharp.christiannagel.com/2016/11/22/efcoreunittesting/)
 1. [15 Years of Concurrency](http://joeduffyblog.com/2016/11/30/15-years-of-concurrency/)
+1. [Designing Akka.NET Applications from Scratch Part 2: Hierarchies and SOLID Principles](https://petabridge.com/blog/akkadotnet-application-design-part2/)
 
 ## Programming Languages
 
 1. [Standardized ladder of functional programming](http://lambdaconf.us/downloads/documents/lambdaconf_slfp.pdf)
+1. [F# in Production](http://www.kreutz.us/2016/12/02/f-in-production/)
+1. [Eliding Async and Await](http://blog.stephencleary.com/2016/12/eliding-async-await.html)
 
 ## Runtime
 
