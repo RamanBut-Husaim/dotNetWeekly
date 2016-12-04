@@ -5,6 +5,7 @@
 1. [ASP.NET Core Authentication in a Load Balanced Environment with HAProxy and Redis](http://www.tugberkugurlu.com/archive/asp-net-core-authentication-in-a-load-balanced-environment-with-haproxy-and-redis)
 1. [Exploring Middleware as MVC Filters in ASP.NET Core 1.1](https://andrewlock.net/exploring-middleware-as-mvc-filters-in-asp-net-core-1-1/)
 1. [New in IdentityServer4: Resource-based Configuration](https://leastprivilege.com/2016/12/01/new-in-identityserver4-resource-based-configuration/)
+1. [AWS Lambda Supports C#](https://aws.amazon.com/de/about-aws/whats-new/2016/12/aws-lambda-supports-c-sharp/)
 
 ## Tooling & Libraries
 
@@ -25,10 +26,13 @@
 1. [Standardized ladder of functional programming](http://lambdaconf.us/downloads/documents/lambdaconf_slfp.pdf)
 1. [F# in Production](http://www.kreutz.us/2016/12/02/f-in-production/)
 1. [Eliding Async and Await](http://blog.stephencleary.com/2016/12/eliding-async-await.html)
+1. [Introducing Stream Processing in F#](http://mikhail.io/2016/11/introducing-stream-processing-in-fsharp/)
 
 ## Runtime
 
 1. [Digging into the CoreCLR: Some bashing on the cost of hashing](https://ayende.com/blog/176161/digging-into-the-coreclr-some-bashing-on-the-cost-of-hashing)
+1. [Benchmark.NET 0.10.1 has been released: .NET Core 1.1 support + high-precision MemoryDiagnoser](https://github.com/dotnet/BenchmarkDotNet)
+1. [Mono’s use of Reference Source Code](http://www.mono-project.com/news/2016/11/29/mono-code-sharing/)
 
 ## Other
 
