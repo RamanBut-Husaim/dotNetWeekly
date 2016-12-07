@@ -12,9 +12,12 @@
 
 ## Programming Languages
 
+1. [Announcing TypeScript 2.1](https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/)
+
 ## Runtime
 
 ## Other
 
 1. [Measuring GC latencies in Haskell, OCaml, Racket](http://prl.ccs.neu.edu/blog/2016/05/24/measuring-gc-latencies-in-haskell-ocaml-racket/)
 1. [Symlinks in Windows 10!](https://blogs.windows.com/buildingapps/2016/12/02/symlinks-windows-10/#uJAvfC1AmXcoG48o.97)
+1. [Project Jigsaw in JDK 9: Modularity Comes to Java](https://www.infoq.com/presentations/java9-jigsaw)
