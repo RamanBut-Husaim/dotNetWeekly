@@ -10,6 +10,8 @@
 
 ## Architecture & Databases
 
+1. [Domain modelling with REST](http://blog.ploeh.dk/2016/12/07/domain-modelling-with-rest/)
+
 ## Programming Languages
 
 1. [Announcing TypeScript 2.1](https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/)
