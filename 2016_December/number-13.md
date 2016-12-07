@@ -2,7 +2,11 @@
 
 ## Cloud & Web
 
+1. [10x speedup utilizing Nagle Algorithm in business application](https://ayende.com/blog/176257/10x-speedup-utilizing-nagle-algorithm-in-business-application)
+
 ## Tooling & Libraries
+
+1. [Writing C# build scripts with FAKE, OmniSharp and VS Code](http://www.strathweb.com/2016/12/writing-c-build-scripts-with-fake-omnisharp-and-vs-code/)
 
 ## Architecture & Databases
 
