@@ -4,6 +4,7 @@
 
 1. [10x speedup utilizing Nagle Algorithm in business application](https://ayende.com/blog/176257/10x-speedup-utilizing-nagle-algorithm-in-business-application)
 1. [Fun with the HttpClient pipeline](http://www.thomaslevesque.com/2016/12/08/fun-with-the-httpclient-pipeline/)
+1. [Introducing Microsoft R Server 9.0](https://blogs.technet.microsoft.com/machinelearning/2016/12/07/introducing-microsoft-r-server-9-0/)
 
 ## Tooling & Libraries
 
@@ -21,6 +22,8 @@
 1. [Announcing TypeScript 2.1](https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/)
 
 ## Runtime
+
+1. [What is this race condition that the OpenMutex documentation is trying to warn me about?](https://blogs.msdn.microsoft.com/oldnewthing/20161208-00/?p=94885)
 
 ## Other
 
