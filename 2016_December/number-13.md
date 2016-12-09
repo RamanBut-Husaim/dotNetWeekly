@@ -10,6 +10,7 @@
 1. [Writing C# build scripts with FAKE, OmniSharp and VS Code](http://www.strathweb.com/2016/12/writing-c-build-scripts-with-fake-omnisharp-and-vs-code/)
 1. [Orleans 2.0 Tech Preview supporting .NET Core](https://blogs.msdn.microsoft.com/orleans/2016/12/05/orleans-20-tech-preview-net-core/)
 1. [IdentityServer4 and ASP.NET Core 1.1](https://leastprivilege.com/2016/12/08/identityserver4-and-asp-net-core-1-1/)
+1. [ReSharper Ultimate 2016.3 Release Candidate](https://blog.jetbrains.com/dotnet/2016/12/08/resharper-ultimate-2016-3-release-candidate/)
 
 ## Architecture & Databases
 
