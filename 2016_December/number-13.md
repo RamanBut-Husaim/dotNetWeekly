@@ -16,6 +16,7 @@
 ## Architecture & Databases
 
 1. [Domain modelling with REST](http://blog.ploeh.dk/2016/12/07/domain-modelling-with-rest/)
+1. [Observations on Porting from .NET Framework to .NET Core](http://developerblog.redhat.com/2016/12/08/observations-porting-from-net-framework-to-net-core/)
 
 ## Programming Languages
 
