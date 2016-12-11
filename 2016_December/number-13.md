@@ -27,6 +27,7 @@
 ## Runtime
 
 1. [What is this race condition that the OpenMutex documentation is trying to warn me about?](https://blogs.msdn.microsoft.com/oldnewthing/20161208-00/?p=94885)
+1. [Immo Landwerth - .NET Standard - Checking Compatibilty](https://www.youtube.com/watch?v=rzs_FGPyAlY&list=PLRAdsfhKI4OWx321A_pr-7HhRNk7wOLLY&index=3)
 
 ## Other
 
