@@ -21,6 +21,8 @@
 ## Programming Languages
 
 1. [Announcing TypeScript 2.1](https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/)
+1. [Excessive explanation, part two](https://ericlippert.com/2016/12/05/excessive-explanation-part-two/)
+1. [Excessive explanation, part three](https://ericlippert.com/2016/12/08/excessive-explanation-part-three/)
 
 ## Runtime
 
@@ -32,3 +34,4 @@
 1. [Symlinks in Windows 10!](https://blogs.windows.com/buildingapps/2016/12/02/symlinks-windows-10/#uJAvfC1AmXcoG48o.97)
 1. [Project Jigsaw in JDK 9: Modularity Comes to Java](https://www.infoq.com/presentations/java9-jigsaw)
 1. [Comparing Haskell and Node concurrency performance](https://www.fpcomplete.com/blog/2016/12/concurrency-and-node)
+1. [Microsoft is about to turn a phone into a real PC](http://www.theverge.com/2016/12/8/13881930/microsoft-turn-a-phone-into-a-pc-arm-continuum)
