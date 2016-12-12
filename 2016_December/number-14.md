@@ -12,6 +12,8 @@
 
 ## Programming Languages
 
+1. [Excessive explanation, part four](https://ericlippert.com/2016/12/12/excessive-explanation-part-four/)
+
 ## Runtime
 
 1. [Immo Landwerth - .NET Standard - Under the Hood](https://www.youtube.com/watch?v=vg6nR7hS2lI&feature=youtu.be)
