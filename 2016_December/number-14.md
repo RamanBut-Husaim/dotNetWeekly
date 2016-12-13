@@ -23,3 +23,4 @@
 ## Other
 
 1. [Release for CentOS Linux 7 (1611) on x86_64](https://lists.centos.org/pipermail/centos-announce/2016-December/022172.html)
+2. [What Makes A Senior Software Developer?](http://blog.professorbeekums.com/2016/12/what-makes-senior-software-developer.html)
