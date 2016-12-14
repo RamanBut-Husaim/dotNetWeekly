@@ -6,6 +6,7 @@
 
 1. [Updating Visual Studio 2017 RC – .NET Core Tooling improvements](https://blogs.msdn.microsoft.com/dotnet/2016/12/12/updating-visual-studio-2017-rc-net-core-tooling-improvements/)
 1. [.NET Profilers – Early Access Program release](http://www.red-gate.com/blog/redgate-products/net-profilers-early-access-program)
+1. [Angular 4 will be the next version of Angular](http://angularjs.blogspot.de/2016/12/ok-let-me-explain-its-going-to-be.html)
 
 ## Architecture & Databases
 
