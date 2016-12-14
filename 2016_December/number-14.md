@@ -24,6 +24,7 @@
 1. [Immo Landwerth - .NET Standard - Under the Hood](https://www.youtube.com/watch?v=vg6nR7hS2lI&feature=youtu.be)
 1. [Research papers in the .NET source](http://mattwarren.org/2016/12/12/Research-papers-in-the-.NET-source/)
 1. [A different sort of cross platform bug](https://ayende.com/blog/176290/a-different-sort-of-cross-platform-bug)
+1. [Using bit masks for high-performance calculations](http://indexoutofrange.com/Using-bit-operations-for-performance-optimizations/)
 
 ## Other
 
