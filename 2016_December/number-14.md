@@ -17,6 +17,7 @@
 
 1. [Excessive explanation, part four](https://ericlippert.com/2016/12/12/excessive-explanation-part-four/)
 1. [Loading .NET Assemblies out of Seperate Folders](https://weblog.west-wind.com/posts/2016/Dec/12/Loading-NET-Assemblies-out-of-Seperate-Folders)
+1. [Project Springfield: a Cloud Service Built Entirely in F#](https://blogs.msdn.microsoft.com/dotnet/2016/12/13/project-springfield-a-cloud-service-built-entirely-in-f/)
 
 ## Runtime
 
