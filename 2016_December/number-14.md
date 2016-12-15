@@ -2,6 +2,8 @@
 
 ## Cloud & Web
 
+1. [Announcing Microsoft ASP.NET WebHooks V1](https://blogs.msdn.microsoft.com/webdev/2016/12/14/introducing-microsoft-asp-net-webhooks-preview-2/)
+
 ## Tooling & Libraries
 
 1. [Updating Visual Studio 2017 RC – .NET Core Tooling improvements](https://blogs.msdn.microsoft.com/dotnet/2016/12/12/updating-visual-studio-2017-rc-net-core-tooling-improvements/)
@@ -23,13 +25,15 @@
 1. [Excessive explanation, part four](https://ericlippert.com/2016/12/12/excessive-explanation-part-four/)
 1. [Loading .NET Assemblies out of Seperate Folders](https://weblog.west-wind.com/posts/2016/Dec/12/Loading-NET-Assemblies-out-of-Seperate-Folders)
 1. [Project Springfield: a Cloud Service Built Entirely in F#](https://blogs.msdn.microsoft.com/dotnet/2016/12/13/project-springfield-a-cloud-service-built-entirely-in-f/)
+1. [Using bit masks for high-performance calculations](http://indexoutofrange.com/Using-bit-operations-for-performance-optimizations/)
 
 ## Runtime
 
 1. [Immo Landwerth - .NET Standard - Under the Hood](https://www.youtube.com/watch?v=vg6nR7hS2lI&feature=youtu.be)
 1. [Research papers in the .NET source](http://mattwarren.org/2016/12/12/Research-papers-in-the-.NET-source/)
 1. [A different sort of cross platform bug](https://ayende.com/blog/176290/a-different-sort-of-cross-platform-bug)
-1. [Using bit masks for high-performance calculations](http://indexoutofrange.com/Using-bit-operations-for-performance-optimizations/)
+1. [Why is reflection slow?](http://mattwarren.org/2016/12/14/Why-is-Reflection-slow/)
+1. [Why ref locals allow only a single binding?](http://mustoverride.com/ref-locals_single-assignment/)
 
 ## Other
 
