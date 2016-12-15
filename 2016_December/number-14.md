@@ -3,6 +3,7 @@
 ## Cloud & Web
 
 1. [Announcing Microsoft ASP.NET WebHooks V1](https://blogs.msdn.microsoft.com/webdev/2016/12/14/introducing-microsoft-asp-net-webhooks-preview-2/)
+1. [Accessing HttpContext outside of framework components in ASP.NET Core](http://www.strathweb.com/2016/12/accessing-httpcontext-outside-of-framework-components-in-asp-net-core/)
 
 ## Tooling & Libraries
 
