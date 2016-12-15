@@ -7,11 +7,16 @@
 1. [Updating Visual Studio 2017 RC – .NET Core Tooling improvements](https://blogs.msdn.microsoft.com/dotnet/2016/12/12/updating-visual-studio-2017-rc-net-core-tooling-improvements/)
 1. [.NET Profilers – Early Access Program release](http://www.red-gate.com/blog/redgate-products/net-profilers-early-access-program)
 1. [Angular 4 will be the next version of Angular](http://angularjs.blogspot.de/2016/12/ok-let-me-explain-its-going-to-be.html)
+1. [Monitoring Real-Time Uber Data Using Spark Machine Learning, Streaming, and the Kafka API](https://www.mapr.com/blog/monitoring-real-time-uber-data-using-spark-machine-learning-streaming-and-kafka-api-part-1)
+1. [Tracing is the new Debugging in Distributed App Development](http://apmblog.dynatrace.com/2016/12/13/tracing-is-the-new-debugging-in-distributed-app-development/)
+1. [Convert ASP.NET Web Servers To Docker With Image2Docker](https://blog.docker.com/2016/12/convert-asp-net-web-servers-docker-image2docker/)
 
 ## Architecture & Databases
 
 1. [Orleans and Midori](https://blogs.msdn.microsoft.com/orleans/2016/12/11/orleans-and-midori/)
 1. [MVC vs. OOP](http://www.yegor256.com/2016/12/13/mvc-vs-oop.html)
+1. [Event Sourcing: CQRS and querying using read models](https://www.erikheemskerk.nl/event-sourcing-cqrs-querying-read-models/)
+1. [How Small Should Microservices Be?](https://dzone.com/articles/how-small-should-microservices-be)
 
 ## Programming Languages
 
@@ -30,3 +35,4 @@
 
 1. [Release for CentOS Linux 7 (1611) on x86_64](https://lists.centos.org/pipermail/centos-announce/2016-December/022172.html)
 1. [What Makes A Senior Software Developer?](http://blog.professorbeekums.com/2016/12/what-makes-senior-software-developer.html)
+1. [How to Pay Programmers Less](https://www.javacodegeeks.com/2016/12/pay-programmers-less.html)
