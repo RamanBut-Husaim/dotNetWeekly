@@ -27,6 +27,7 @@
 1. [Loading .NET Assemblies out of Seperate Folders](https://weblog.west-wind.com/posts/2016/Dec/12/Loading-NET-Assemblies-out-of-Seperate-Folders)
 1. [Project Springfield: a Cloud Service Built Entirely in F#](https://blogs.msdn.microsoft.com/dotnet/2016/12/13/project-springfield-a-cloud-service-built-entirely-in-f/)
 1. [Using bit masks for high-performance calculations](http://indexoutofrange.com/Using-bit-operations-for-performance-optimizations/)
+1. [C#/F#/VB.NET Sprint 110 Summary](https://github.com/dotnet/roslyn/issues/15938)
 
 ## Runtime
 
