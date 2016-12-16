@@ -5,6 +5,8 @@
 1. [Announcing Microsoft ASP.NET WebHooks V1](https://blogs.msdn.microsoft.com/webdev/2016/12/14/introducing-microsoft-asp-net-webhooks-preview-2/)
 1. [Accessing HttpContext outside of framework components in ASP.NET Core](http://www.strathweb.com/2016/12/accessing-httpcontext-outside-of-framework-components-in-asp-net-core/)
 1. [Convert ASP.NET Web Servers To Docker With Image2Docker](https://blog.docker.com/2016/12/convert-asp-net-web-servers-docker-image2docker/)
+1. [Tools to Monitor and Visualize Microservices Architecture](http://www.programmableweb.com/news/tools-to-monitor-and-visualize-microservices-architecture/analysis/2016/12/14)
+
 
 ## Tooling & Libraries
 
@@ -13,6 +15,7 @@
 1. [Angular 4 will be the next version of Angular](http://angularjs.blogspot.de/2016/12/ok-let-me-explain-its-going-to-be.html)
 1. [Monitoring Real-Time Uber Data Using Spark Machine Learning, Streaming, and the Kafka API](https://www.mapr.com/blog/monitoring-real-time-uber-data-using-spark-machine-learning-streaming-and-kafka-api-part-1)
 1. [Tracing is the new Debugging in Distributed App Development](http://apmblog.dynatrace.com/2016/12/13/tracing-is-the-new-debugging-in-distributed-app-development/)
+1. [RxCookbook - Collection of recipes and snippets helping you create useful Rx code](https://github.com/LeeCampbell/RxCookbook)
 
 ## Architecture & Databases
 
@@ -20,6 +23,8 @@
 1. [MVC vs. OOP](http://www.yegor256.com/2016/12/13/mvc-vs-oop.html)
 1. [Event Sourcing: CQRS and querying using read models](https://www.erikheemskerk.nl/event-sourcing-cqrs-querying-read-models/)
 1. [How Small Should Microservices Be?](https://dzone.com/articles/how-small-should-microservices-be)
+1. [EquinoxProject - Full ASP.NET Core application with DDD, CQRS and Event Sourcing](https://github.com/EduardoPires/EquinoxProject)
+1. [Microservices: Rethinking the Way We Treat Data and Services](https://www.confluent.io/blog/data-dichotomy-rethinking-the-way-we-treat-data-and-services/)
 
 ## Programming Languages
 
