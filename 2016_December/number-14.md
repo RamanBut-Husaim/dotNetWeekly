@@ -25,6 +25,7 @@
 1. [How Small Should Microservices Be?](https://dzone.com/articles/how-small-should-microservices-be)
 1. [EquinoxProject - Full ASP.NET Core application with DDD, CQRS and Event Sourcing](https://github.com/EduardoPires/EquinoxProject)
 1. [Microservices: Rethinking the Way We Treat Data and Services](https://www.confluent.io/blog/data-dichotomy-rethinking-the-way-we-treat-data-and-services/)
+1. [Announcing SQL Server on Linux public preview, first preview of next release of SQL Server](https://blogs.technet.microsoft.com/dataplatforminsider/2016/11/16/announcing-sql-server-on-linux-public-preview-first-preview-of-next-release-of-sql-server/)
 
 ## Programming Languages
 
