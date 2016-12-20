@@ -23,6 +23,7 @@
 1. [Visual Studio Debugging and 64 Bit .NET Applications](https://weblog.west-wind.com/posts/2016/Dec/19/Visual-Studio-Debugging-and-64-Bit-NET-Applications)
 1. [Why Exceptions should be Exceptional](http://mattwarren.org/2016/12/20/Why-Exceptions-should-be-Exceptional/)
 1. [Performance comparison of different data pipelines in .NET](https://gist.github.com/mrange/09ba6d7541468de49426eeb81a8b660c)
+1. [Performance exercise: Minimum](http://aakinshin.net/en/blog/dotnet/perfex-min/)
 
 ## Other
 
