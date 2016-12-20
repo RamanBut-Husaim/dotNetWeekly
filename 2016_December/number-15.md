@@ -21,6 +21,7 @@
 ## Runtime
 
 1. [Visual Studio Debugging and 64 Bit .NET Applications](https://weblog.west-wind.com/posts/2016/Dec/19/Visual-Studio-Debugging-and-64-Bit-NET-Applications)
+1. [Why Exceptions should be Exceptional](http://mattwarren.org/2016/12/20/Why-Exceptions-should-be-Exceptional/)
 
 ## Other
 
