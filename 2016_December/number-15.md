@@ -5,6 +5,7 @@
 ## Tooling & Libraries
 
 1. [Rider - A new build is available](https://twitter.com/jetbrainsrider/status/810926202110222336)
+1. [IdentityServer4 is now OpenID Certified](https://leastprivilege.com/2016/12/20/identityserver4-is-now-openid-certified/)
 
 ## Architecture & Databases
 
@@ -13,8 +14,14 @@
 
 ## Programming Languages
 
+1. [Excessive explanation, part five](https://ericlippert.com/2016/12/15/excessive-explanation-part-five/)
+1. [Excessive explanation, part six](https://ericlippert.com/2016/12/19/excessive-explanation-part-six/)
+
 ## Runtime
+
+1. [Visual Studio Debugging and 64 Bit .NET Applications](https://weblog.west-wind.com/posts/2016/Dec/19/Visual-Studio-Debugging-and-64-Bit-NET-Applications)
 
 ## Other
 
 1. [Amazon Preview FPGA Enabled EC2 Instances](https://www.infoq.com/news/2016/12/AWS-F1-Instances)
+1. [Free Intermediate ASP.NET Core 1.0 Training on Microsoft Virtual Academy](http://www.hanselman.com/blog/FreeIntermediateASPNETCore10TrainingOnMicrosoftVirtualAcademy.aspx)
