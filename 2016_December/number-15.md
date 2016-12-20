@@ -16,6 +16,7 @@
 
 1. [Excessive explanation, part five](https://ericlippert.com/2016/12/15/excessive-explanation-part-five/)
 1. [Excessive explanation, part six](https://ericlippert.com/2016/12/19/excessive-explanation-part-six/)
+1. [reF#actoring: rewriting an actor in F#](https://miles.no/blogg/refactoring-rewriting-an-actor-in-f)
 
 ## Runtime
 
