@@ -1,6 +1,7 @@
 # .NET Weekly #15 (19.12 - 25.12)
 
 ## Cloud & Web
+
 1. [Using Web Sockets with ASP.NET Core](http://www.softfluent.com/blog/dev/2016/12/11/Using-Web-Sockets-with-ASP-NET-Core)
 1. [ASP.NET Core response optimization](https://ievangelist.github.io/blog/asp-net-core-optimization/)
 1. [The ASP.NET Web API 2 HTTP Message Lifecycle in 43 Easy Steps](https://www.exceptionnotfound.net/the-asp-net-web-api-2-http-message-lifecycle-in-43-easy-steps-2/)
@@ -35,3 +36,5 @@
 
 1. [Amazon Preview FPGA Enabled EC2 Instances](https://www.infoq.com/news/2016/12/AWS-F1-Instances)
 1. [Free Intermediate ASP.NET Core 1.0 Training on Microsoft Virtual Academy](http://www.hanselman.com/blog/FreeIntermediateASPNETCore10TrainingOnMicrosoftVirtualAcademy.aspx)
+1. [Four years with Rust](http://words.steveklabnik.com/four-years-with-rust)
+1. [Kotlin 1.1-M04 is here!](https://blog.jetbrains.com/kotlin/2016/12/kotlin-1-1-m04-is-here/)
