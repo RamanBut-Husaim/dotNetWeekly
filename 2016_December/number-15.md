@@ -39,3 +39,4 @@
 1. [Free Intermediate ASP.NET Core 1.0 Training on Microsoft Virtual Academy](http://www.hanselman.com/blog/FreeIntermediateASPNETCore10TrainingOnMicrosoftVirtualAcademy.aspx)
 1. [Four years with Rust](http://words.steveklabnik.com/four-years-with-rust)
 1. [Kotlin 1.1-M04 is here!](https://blog.jetbrains.com/kotlin/2016/12/kotlin-1-1-m04-is-here/)
+1. [Announcing Rust 1.14](https://blog.rust-lang.org/2016/12/22/Rust-1.14.html)
