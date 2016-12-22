@@ -5,6 +5,7 @@
 1. [Using Web Sockets with ASP.NET Core](http://www.softfluent.com/blog/dev/2016/12/11/Using-Web-Sockets-with-ASP-NET-Core)
 1. [ASP.NET Core response optimization](https://ievangelist.github.io/blog/asp-net-core-optimization/)
 1. [The ASP.NET Web API 2 HTTP Message Lifecycle in 43 Easy Steps](https://www.exceptionnotfound.net/the-asp-net-web-api-2-http-message-lifecycle-in-43-easy-steps-2/)
+1. [ChakraCore 1.4](https://github.com/Microsoft/ChakraCore/wiki/Release-Notes#v140)
 
 ## Tooling & Libraries
 
