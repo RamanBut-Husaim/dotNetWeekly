@@ -12,6 +12,7 @@
 1. [Rider - A new build is available](https://twitter.com/jetbrainsrider/status/810926202110222336)
 1. [IdentityServer4 is now OpenID Certified](https://leastprivilege.com/2016/12/20/identityserver4-is-now-openid-certified/)
 1. [Reactive extension wrappers for *hot* observables of Entity Framework](https://github.com/NickStrupat/EntityFramework.Rx)
+1. [GitLab 8.15 Released with Auto Deploy and Web Terminal](https://about.gitlab.com/2016/12/22/gitlab-8-15-released)
 
 ## Architecture & Databases
 
