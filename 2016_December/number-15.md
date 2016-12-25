@@ -20,6 +20,7 @@
 1. [SQL Server on Linux: How? Introduction](https://blogs.technet.microsoft.com/dataplatforminsider/2016/12/16/sql-server-on-linux-how-introduction/)
 1. [SQL Server next version Community Technology Preview 1.1 now available](https://blogs.technet.microsoft.com/dataplatforminsider/2016/12/16/sql-server-next-version-community-technology-preview-1-1-now-available/)
 1. [Scaling Dropbox](https://www.infoq.com/presentations/dropbox-infrastructure)
+1. [Functional approaches to dependency injection](http://fsharpforfunandprofit.com/posts/dependency-injection-1/)
 
 ## Programming Languages
 
