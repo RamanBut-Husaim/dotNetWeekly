@@ -18,11 +18,9 @@
 ## Programming Languages
 1. [Getting started with ANTLR in C#](https://tomassetti.me/getting-started-with-antlr-in-csharp/)
 1. [Functional approaches to dependency injection](http://fsharpforfunandprofit.com/posts/dependency-injection-1/)
-1. [reF#actoring: rewriting an actor in F#](https://miles.no/blogg/refactoring-rewriting-an-actor-in-f)
 1. [Understanding Monads in F#](https://fsharpn00b.blogspot.com.by/2016/12/understanding-monads-in-f.html)
 
 ## Runtime
-1. [How does Object.GetType() really work?](http://tooslowexception.com/how-does-gettype-work/)
 
 ## Other
 1. [The Traveling Santa Problem… a Neural Network solution](http://www.rickyterrell.com/?p=97)
