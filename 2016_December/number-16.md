@@ -21,6 +21,7 @@
 1. [Understanding Monads in F#](https://fsharpn00b.blogspot.com.by/2016/12/understanding-monads-in-f.html)
 
 ## Runtime
+1. [Performance exercise: Division](http://aakinshin.net/en/blog/dotnet/perfex-div/)
 
 ## Other
 1. [The Traveling Santa Problem… a Neural Network solution](http://www.rickyterrell.com/?p=97)
