@@ -20,3 +20,4 @@
     + [.NET Weekly #13](2016_December/number-13.md)
     + [.NET Weekly #14](2016_December/number-14.md)
     + [.NET Weekly #15](2016_December/number-15.md)
+    + [.NET Weekly #16](2016_December/number-16.md)
