@@ -24,10 +24,12 @@
 1. [Getting started with ANTLR in C#](https://tomassetti.me/getting-started-with-antlr-in-csharp/)
 1. [Functional approaches to dependency injection](http://fsharpforfunandprofit.com/posts/dependency-injection-1/)
 1. [Understanding Monads in F#](https://fsharpn00b.blogspot.com.by/2016/12/understanding-monads-in-f.html)
+1. [When Playstation meets F#, PSX |> Pi](https://github.com/ChipmunkHand/ChipmunkHand/blob/master/blog/psx.md)
 
 ## Runtime
 
 1. [Performance exercise: Division](http://aakinshin.net/en/blog/dotnet/perfex-div/)
+1. [Back to Basics: String Interpolation in C#](https://weblog.west-wind.com/posts/2016/Dec/27/Back-to-Basics-String-Interpolation-in-C)
 
 ## Other
 
