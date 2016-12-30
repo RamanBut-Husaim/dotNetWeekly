@@ -29,6 +29,7 @@
 
 1. [Performance exercise: Division](http://aakinshin.net/en/blog/dotnet/perfex-div/)
 1. [Back to Basics: String Interpolation in C#](https://weblog.west-wind.com/posts/2016/Dec/27/Back-to-Basics-String-Interpolation-in-C)
+1. [In-memory C# compilation (and .dll generation) using Roslyn](http://josephwoodward.co.uk/2016/12/in-memory-c-sharp-compilation-using-roslyn)
 
 ## Other
 
