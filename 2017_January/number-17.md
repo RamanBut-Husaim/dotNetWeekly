@@ -2,9 +2,13 @@
 
 ## Cloud & Web
 
+1. [Streaming files with httpclient and multiple controllers](http://blog.bennymichielsen.be/2017/01/03/streaming-files-with-httpclient-and-multiple-controllers/)
+
 ## Tooling & Libraries
 
 ## Architecture & Databases
+
+1. [Decoupling application errors from domain models](http://blog.ploeh.dk/2017/01/03/decoupling-application-errors-from-domain-models/)
 
 ## Programming Languages
 
