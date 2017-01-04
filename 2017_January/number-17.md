@@ -17,7 +17,7 @@
 ## Runtime
 
 1. [Exploring .NET managed heap with ClrMD](https://blog.maartenballiauw.be/post/2017/01/03/exploring-.net-managed-heap-with-clrmd.html)
-1. [Understanding OutOfMemoryException](http://indexoutofrange.com/Understanding-OutOfMemoryException/)
+1. [Understanding OutOfMemoryException](http://indexoutofrange.com/Understanding-OutOfMemoryException)
 
 ## Other
 
