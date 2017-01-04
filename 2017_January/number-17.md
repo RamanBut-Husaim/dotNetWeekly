@@ -14,6 +14,8 @@
 
 ## Runtime
 
+1. [Exploring .NET managed heap with ClrMD](https://blog.maartenballiauw.be/post/2017/01/03/exploring-.net-managed-heap-with-clrmd.html)
+
 ## Other
 
 1. [How Much Do You Love Conflict?](http://www.yegor256.com/2017/01/03/how-much-you-love-conflicts.html)
