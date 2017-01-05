@@ -26,3 +26,4 @@
 1. [How Much Do You Love Conflict?](http://www.yegor256.com/2017/01/03/how-much-you-love-conflicts.html)
 1. [5 things to watch in Go programming in 2017](https://www.oreilly.com/ideas/5-things-to-watch-in-go-programming)
 1. [Introducing Kotlin support in Spring Framework 5.0](https://spring.io/blog/2017/01/04/introducing-kotlin-support-in-spring-framework-5-0)
+1. [Elixir 1.4.0 released](https://github.com/elixir-lang/elixir/releases/tag/v1.4.0)
