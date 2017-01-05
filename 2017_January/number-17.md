@@ -14,6 +14,8 @@
 ## Architecture & Databases
 
 1. [Decoupling application errors from domain models](http://blog.ploeh.dk/2017/01/03/decoupling-application-errors-from-domain-models/)
+1. [Rx over the wire](https://sachabarbs.wordpress.com/2016/12/23/rx-over-the-wire/)
+1. [An efficient filtering DSL for Serilog](https://nblumhardt.com/2017/01/serilog-filtering-dsl/)
 
 ## Programming Languages
 
@@ -21,6 +23,7 @@
 
 1. [Exploring .NET managed heap with ClrMD](https://blog.maartenballiauw.be/post/2017/01/03/exploring-.net-managed-heap-with-clrmd.html)
 1. [Understanding OutOfMemoryException](http://indexoutofrange.com/Understanding-OutOfMemoryException)
+1. [Understanding different GC modes with Concurrency Visualizer](https://blogs.msdn.microsoft.com/seteplia/2017/01/05/understanding-different-gc-modes-with-concurrency-visualizer/)
 
 ## Other
 
