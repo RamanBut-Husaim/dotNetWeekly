@@ -21,6 +21,7 @@
 1. [An efficient filtering DSL for Serilog](https://nblumhardt.com/2017/01/serilog-filtering-dsl/)
 
 ## Programming Languages
+
 1. [End to End F# with the Elm Architecture](https://medium.com/@dogwith1eye/introducing-the-elm-architecture-with-suave-fable-and-arch-a0ffea40e13f#.z16awm2j6)
 1. [More Simple Mocking in F# with Object Expressions](https://jeremybytes.blogspot.com.by/2016/12/more-simple-mocking-in-f-with-object.html)
 
