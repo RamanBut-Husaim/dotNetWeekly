@@ -3,6 +3,9 @@
 ## Cloud & Web
 
 1. [Streaming files with httpclient and multiple controllers](http://blog.bennymichielsen.be/2017/01/03/streaming-files-with-httpclient-and-multiple-controllers/)
+1. [Creating a WebSockets middleware for ASP .NET Core](https://radu-matei.github.io/blog/aspnet-core-websockets-middleware/)
+1. [Change primary key for ASP.NET Core Identity and more](http://thienn.com/change-primary-key-aspnetcore-identity-and-more/)
+1. [DocumentDB: Database-as-a-Service for MongoDB Developers](https://channel9.msdn.com/Shows/Azure-Friday/DocumentDB-Database-as-a-Service-for-MongoDB-Developers)
 
 ## Tooling & Libraries
 
@@ -10,14 +13,16 @@
 1. [Suave 2.0 Goes Live!](https://github.com/SuaveIO/suave/releases/tag/v2.0.0)
 1. [Multi-targeting the world: a single project to rule them all](https://oren.codes/2017/01/04/multi-targeting-the-world-a-single-project-to-rule-them-all/)
 1. [A lightweight ASP.NET profiler helping you write better software](http://stackify.com/asp-net-profiler/)
+1. [Implementing the retry pattern in c sharp using Polly](https://alastaircrabtree.com/implementing-the-retry-pattern-using-polly/)
 
 ## Architecture & Databases
 
 1. [Decoupling application errors from domain models](http://blog.ploeh.dk/2017/01/03/decoupling-application-errors-from-domain-models/)
-1. [Rx over the wire](https://sachabarbs.wordpress.com/2016/12/23/rx-over-the-wire/)
 1. [An efficient filtering DSL for Serilog](https://nblumhardt.com/2017/01/serilog-filtering-dsl/)
 
 ## Programming Languages
+1. [End to End F# with the Elm Architecture](https://medium.com/@dogwith1eye/introducing-the-elm-architecture-with-suave-fable-and-arch-a0ffea40e13f#.z16awm2j6)
+1. [More Simple Mocking in F# with Object Expressions](https://jeremybytes.blogspot.com.by/2016/12/more-simple-mocking-in-f-with-object.html)
 
 ## Runtime
 
