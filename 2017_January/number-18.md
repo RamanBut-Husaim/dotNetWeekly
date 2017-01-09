@@ -8,6 +8,9 @@
 
 ## Programming Languages
 
+1. [C# Tuples. Why mutable structs?](http://mustoverride.com/tuples_structs/)
+1. [From F# to Scala – type inference](http://theburningmonk.com/2017/01/from-fsharp-to-scala-type-inference/)
+
 ## Runtime
 
 ## Other
