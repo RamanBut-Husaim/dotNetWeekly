@@ -3,6 +3,7 @@
 ## Cloud & Web
 
 1. [Create and deploy an ASP.NET Core Web API to Azure Windows](https://blogs.msdn.microsoft.com/benjaminperkins/2017/01/03/create-and-deploy-an-asp-net-core-web-api-to-azure-windows/)
+1. [Not your grandad’s .net - Pipes Part 1](https://cetus.io/tim/Part-1-Not-your-grandads-dotnet/)
 
 ## Tooling & Libraries
 
