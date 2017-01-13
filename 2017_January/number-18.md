@@ -17,6 +17,7 @@
 
 1. [SQL Server on Linux: The HOW](https://channel9.msdn.com/Shows/Data-Exposed/SQL-Server-on-Linux-The-HOW)
 1. [MongoDB vs. Couchbase (Part 2): JSON, Tooling, and Indexes](https://dzone.com/articles/mongodb-vs-couchbase-part-2-json-tooling-and-more)
+1. [From MQTT to AMQP and back](http://vasters.com/blog/From-MQTT-to-AMQP-and-back/)
 
 ## Programming Languages
 
@@ -34,3 +35,4 @@
 ## Other
 
 1. [How to Teach a Customer](http://www.yegor256.com/2017/01/10/how-to-teach-customers.html)
+1. [Bing Maps .NET REST Toolkit Made Open Source](https://blogs.msdn.microsoft.com/rbrundritt/2017/01/12/bing-maps-net-rest-toolkit-made-open-source/)
