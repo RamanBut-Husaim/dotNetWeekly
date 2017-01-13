@@ -29,6 +29,7 @@
 
 1. [Faking out the .NET Runtime Version](https://weblog.west-wind.com/posts/2017/Jan/09/Faking-out-the-NET-Runtime-Version)
 1. [Announcement: Engineering changes for corefx](https://github.com/dotnet/corefx/issues/15135)
+1. [Analysing Pause times in the .NET GC](http://mattwarren.org/2017/01/13/Analysing-Pause-times-in-the-.NET-GC/)
 
 ## Other
 
