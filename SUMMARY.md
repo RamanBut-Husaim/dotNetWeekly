@@ -26,3 +26,4 @@
     + [January](2017_January/README.md)
         + [.NET Weekly #17](2017_January/number-17.md)
         + [.NET Weekly #18](2017_January/number-18.md)
+        + [.NET Weekly #19](2017_January/number-19.md)
