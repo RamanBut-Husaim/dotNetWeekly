@@ -5,6 +5,7 @@
 1. [Create and deploy an ASP.NET Core Web API to Azure Windows](https://blogs.msdn.microsoft.com/benjaminperkins/2017/01/03/create-and-deploy-an-asp-net-core-web-api-to-azure-windows/)
 1. [Not your grandad’s .net - Pipes Part 1](https://cetus.io/tim/Part-1-Not-your-grandads-dotnet/)
 1. [Azure Virtual Machine Internals – Part 1](https://azure.microsoft.com/en-us/blog/azure-virtual-machine-internals-part-1/)
+1. [SignalR Core Part 1/3: Design Considerations](https://blog.3d-logic.com/2017/01/15/signalr-core-part-13-design-considerations/)
 
 ## Tooling & Libraries
 
