@@ -6,6 +6,9 @@
 
 ## Tooling & Libraries
 
+1. [JetBrains Rider - A New Build Available](https://twitter.com/jetbrainsrider/status/821410686110724097)
+1. [Introduction to Akka.Cluster.Sharding in Akka.NET](https://petabridge.com/blog/introduction-to-cluster-sharding-akkadotnet/)
+
 ## Architecture & Databases
 
 ## Programming Languages
