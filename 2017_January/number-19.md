@@ -8,8 +8,11 @@
 
 1. [JetBrains Rider - A New Build Available](https://twitter.com/jetbrainsrider/status/821410686110724097)
 1. [Introduction to Akka.Cluster.Sharding in Akka.NET](https://petabridge.com/blog/introduction-to-cluster-sharding-akkadotnet/)
+1. [Open Sourcing Screwdriver, Yahoo’s Continuous Delivery Build System for Dynamic Infrastructure](https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous)
 
 ## Architecture & Databases
+
+1. [Rethinkdb Postmortem](https://github.com/coffeemug/defstartup/blob/master/_drafts/why-rethinkdb-failed.md)
 
 ## Programming Languages
 
@@ -19,3 +22,5 @@
 ## Runtime
 
 ## Other
+
+1. [Announcing Rust Language Server Alpha Release](http://www.jonathanturner.org/2017/01/rls-alpha-release.html)
