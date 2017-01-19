@@ -4,6 +4,7 @@
 
 1. [Communicating between Web Workers via MessageChannel](http://www.2ality.com/2017/01/messagechannel.html)
 1. [.NET Core Image Processing](https://blogs.msdn.microsoft.com/dotnet/2017/01/19/net-core-image-processing/)
+1. [Webpack 2 Finalized with Focus on Improved Documentation](https://www.infoq.com/news/2017/01/webpack-2-final-documentation)
 
 ## Tooling & Libraries
 
