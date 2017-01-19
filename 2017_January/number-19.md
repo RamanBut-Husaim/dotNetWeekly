@@ -3,6 +3,7 @@
 ## Cloud & Web
 
 1. [Communicating between Web Workers via MessageChannel](http://www.2ality.com/2017/01/messagechannel.html)
+1. [.NET Core Image Processing](https://blogs.msdn.microsoft.com/dotnet/2017/01/19/net-core-image-processing/)
 
 ## Tooling & Libraries
 
@@ -16,12 +17,14 @@
 1. [Rethinkdb Postmortem](https://github.com/coffeemug/defstartup/blob/master/_drafts/why-rethinkdb-failed.md)
 1. [ContinuousIntegrationCertification](https://martinfowler.com/bliki/ContinuousIntegrationCertification.html)
 1. [Synchronized Decorators to Replace Thread-Safe Classes](http://www.yegor256.com/2017/01/17/synchronized-decorators.html)
+1. [How does the SQL Server Query Optimizer Works](http://xameeramir.github.io/How-SQL-Server-Query-Optimizer-Works/)
 
 ## Programming Languages
 
 1. [From F# to Scala – case class/object (ADTs)](http://theburningmonk.com/2017/01/from-f-to-scala-case-class-and-case-object/)
 1. [From F# to Scala – traits](http://theburningmonk.com/2017/01/from-fsharp-to-scala-traits/)
 1. [C# Tuples. How tuples are related to ValueTuple.](http://mustoverride.com/tuples_valuetuple/)
+1. [The Stark Programming Language Experiment](http://xoofx.com/blog/2017/01/17/the-stark-programming-language-experiment/)
 
 ## Runtime
 
@@ -29,3 +32,4 @@
 
 1. [Announcing Rust Language Server Alpha Release](http://www.jonathanturner.org/2017/01/rls-alpha-release.html)
 1. [Introducing PIX on Windows (beta)](https://blogs.msdn.microsoft.com/pix/2017/01/17/introducing-pix-on-windows-beta/)
+1. [Kotlin 1.1 Beta Is Here!](https://blog.jetbrains.com/kotlin/2017/01/kotlin-1-1-beta-is-here/)
