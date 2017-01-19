@@ -21,6 +21,7 @@
 
 1. [From F# to Scala – case class/object (ADTs)](http://theburningmonk.com/2017/01/from-f-to-scala-case-class-and-case-object/)
 1. [From F# to Scala – traits](http://theburningmonk.com/2017/01/from-fsharp-to-scala-traits/)
+1. [C# Tuples. How tuples are related to ValueTuple.](http://mustoverride.com/tuples_valuetuple/)
 
 ## Runtime
 
