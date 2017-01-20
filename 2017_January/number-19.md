@@ -30,8 +30,8 @@
 ## Runtime
 
 1. [Project.json to MSBuild conversion guide](http://www.natemcmaster.com/blog/2017/01/19/project-json-to-csproj/)
-1. [Essential .NET - Essential MSBuild: A Build Engine Overview for .NET Tooling](https://msdn.microsoft.com/en-us/magazine/mt791801.aspx)
 1. [On the topic of 2D array performance in .NET](https://gist.github.com/mrange/b5c39c4fb6eabd9e35e429fe7a464453)
+1. [The new MemoryDiagnoser is now better than ever!](http://adamsitnik.com/the-new-Memory-Diagnoser/)
 
 ## Other
 
