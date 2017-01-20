@@ -30,6 +30,8 @@
 ## Runtime
 
 1. [Project.json to MSBuild conversion guide](http://www.natemcmaster.com/blog/2017/01/19/project-json-to-csproj/)
+1. [Essential .NET - Essential MSBuild: A Build Engine Overview for .NET Tooling](https://msdn.microsoft.com/en-us/magazine/mt791801.aspx)
+1. [On the topic of 2D array performance in .NET](https://gist.github.com/mrange/b5c39c4fb6eabd9e35e429fe7a464453)
 
 ## Other
 
@@ -37,3 +39,4 @@
 1. [Introducing PIX on Windows (beta)](https://blogs.msdn.microsoft.com/pix/2017/01/17/introducing-pix-on-windows-beta/)
 1. [Kotlin 1.1 Beta Is Here!](https://blog.jetbrains.com/kotlin/2017/01/kotlin-1-1-beta-is-here/)
 1. [The Visual Studio Test Platform is now Open Source!](https://github.com/Microsoft/vstest)
+1. [Virtual Panel: What's Next for .NET?](https://www.infoq.com/articles/virtual-panel-dotnet-future)
