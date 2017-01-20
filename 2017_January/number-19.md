@@ -12,6 +12,7 @@
 1. [Introduction to Akka.Cluster.Sharding in Akka.NET](https://petabridge.com/blog/introduction-to-cluster-sharding-akkadotnet/)
 1. [Open Sourcing Screwdriver, Yahoo’s Continuous Delivery Build System for Dynamic Infrastructure](https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous)
 1. [Announcement for VS2017 RC3](https://github.com/Microsoft/visualfsharp/issues/2276)
+1. [Introducing Docker 1.13](https://blog.docker.com/2017/01/whats-new-in-docker-1-13/)
 
 ## Architecture & Databases
 
