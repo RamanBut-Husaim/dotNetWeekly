@@ -29,8 +29,11 @@
 
 ## Runtime
 
+1. [Project.json to MSBuild conversion guide](http://www.natemcmaster.com/blog/2017/01/19/project-json-to-csproj/)
+
 ## Other
 
 1. [Announcing Rust Language Server Alpha Release](http://www.jonathanturner.org/2017/01/rls-alpha-release.html)
 1. [Introducing PIX on Windows (beta)](https://blogs.msdn.microsoft.com/pix/2017/01/17/introducing-pix-on-windows-beta/)
 1. [Kotlin 1.1 Beta Is Here!](https://blog.jetbrains.com/kotlin/2017/01/kotlin-1-1-beta-is-here/)
+1. [The Visual Studio Test Platform is now Open Source!](https://github.com/Microsoft/vstest)
