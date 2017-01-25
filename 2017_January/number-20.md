@@ -12,9 +12,15 @@
 
 ## Programming Languages
 
+1. [From F# to Scala – apply & unapply functions](http://theburningmonk.com/2017/01/from-f-to-scala-extractors/)
+
 ## Runtime
+
+1. [Significant Garbage Collector Changes in .NET 4.6.2](https://blogs.msdn.microsoft.com/alphageek/2017/01/24/significant-garbage-collector-changes-in-net-4-6-2/)
+1. [On the cost of being lazy](https://gist.github.com/mrange/aa82d33e94ad76d0f33ed86e704d7492)
 
 ## Other
 
 1. [16 Don'ts of Career Growth](http://www.yegor256.com/2017/01/24/career-advice.html)
 1. [New DirectX Shader Compiler based on Clang/LLVM now available as Open Source](https://blogs.msdn.microsoft.com/directx/2017/01/23/new-directx-shader-compiler-based-on-clangllvm-now-available-as-open-source/)
+1. [Kotlin - Experimental status of coroutines in 1.1 and related compatibility concerns](https://discuss.kotlinlang.org/t/experimental-status-of-coroutines-in-1-1-and-related-compatibility-concerns/2236)
