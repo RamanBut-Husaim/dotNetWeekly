@@ -7,6 +7,7 @@
 1. [GitLab 8.16 Released with auto deploy on Google Container Engine and Prometheus monitoring as part of GitLab](https://about.gitlab.com/2017/01/22/gitlab-8-16-released/)
 1. [The OpenAPI Spec Reaches 3.0](https://www.infoq.com/news/2017/01/openapi-3)
 1. [TensorFlow 1.0.0-rc0](https://github.com/tensorflow/tensorflow/releases/tag/v1.0.0-rc0)
+1. [The Angara math/stats/workflow/chart packages from Microsoft Russia and MSR Cambridge](https://github.com/Microsoft/?utf8=✓&q=Angara&type=&language=)
 
 ## Architecture & Databases
 
