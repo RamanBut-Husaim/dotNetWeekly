@@ -5,11 +5,15 @@
 ## Tooling & Libraries
 
 1. [GitLab 8.16 Released with auto deploy on Google Container Engine and Prometheus monitoring as part of GitLab](https://about.gitlab.com/2017/01/22/gitlab-8-16-released/)
+1. [The OpenAPI Spec Reaches 3.0](https://www.infoq.com/news/2017/01/openapi-3)
+1. [TensorFlow 1.0.0-rc0](https://github.com/tensorflow/tensorflow/releases/tag/v1.0.0-rc0)
 
 ## Architecture & Databases
 
 1. [Achieving 100,000,000 database inserts per second using Accumulo and D4M](http://www.ieee-hpec.org/2014/CD/index_htm_files/FinalPapers/31.pdf)
 1. [SyntheticMonitoring](https://martinfowler.com/bliki/SyntheticMonitoring.html)
+1. [From dependency injection to dependency rejection](http://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/)
+1. [Dependency injection is passing an argument](http://blog.ploeh.dk/2017/01/27/dependency-injection-is-passing-an-argument/)
 
 ## Programming Languages
 
@@ -27,3 +31,4 @@
 1. [New DirectX Shader Compiler based on Clang/LLVM now available as Open Source](https://blogs.msdn.microsoft.com/directx/2017/01/23/new-directx-shader-compiler-based-on-clangllvm-now-available-as-open-source/)
 1. [Kotlin - Experimental status of coroutines in 1.1 and related compatibility concerns](https://discuss.kotlinlang.org/t/experimental-status-of-coroutines-in-1-1-and-related-compatibility-concerns/2236)
 1. [Making the move from Scala to Go, and why we’re not going back](https://movio.co/blog/migrate-Scala-to-Go/)
+1. [Comparing Elixir and Go](https://blog.codeship.com/comparing-elixir-go/)
