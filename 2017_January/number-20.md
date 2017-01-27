@@ -2,6 +2,8 @@
 
 ## Cloud & Web
 
+1. [Inside compiled views in the Razor view engine](https://aspnetmonsters.com/2017/01/monsters-weekly/ep88/)
+
 ## Tooling & Libraries
 
 1. [GitLab 8.16 Released with auto deploy on Google Container Engine and Prometheus monitoring as part of GitLab](https://about.gitlab.com/2017/01/22/gitlab-8-16-released/)
