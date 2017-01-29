@@ -3,6 +3,7 @@
 ## Cloud & Web
 
 1. [Inside compiled views in the Razor view engine](https://aspnetmonsters.com/2017/01/monsters-weekly/ep88/)
+1. [Authentication for WebSharper sitelet with Jwt token in F#](https://kimsereyblog.blogspot.de/2017/01/authentication-for-websharper-sitelet.html)
 
 ## Tooling & Libraries
 
@@ -21,6 +22,8 @@
 ## Programming Languages
 
 1. [From F# to Scala – apply & unapply functions](http://theburningmonk.com/2017/01/from-f-to-scala-extractors/)
+1. [F# 4.1 Brings Improvements and Interoperation with C# 7](https://www.infoq.com/news/2017/01/fsharp-4-1)
+1. [Recursion and Pattern Matching](http://www.jason-down.com/2016/09/02/recursion-and-pattern-matching/)
 
 ## Runtime
 
