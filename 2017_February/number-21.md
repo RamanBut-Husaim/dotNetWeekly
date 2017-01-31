@@ -1,0 +1,34 @@
+# .NET Weekly #21 (30.01 - 05.02)
+
+## Cloud & Web
+
+1. [Build Your Own ASP.NET Cache with WeakReferences](https://visualstudiomagazine.com/articles/2017/01/27/asp-net-cache-weakreferences.aspx)
+1. [Building DockNetFiddle using Docker and .NET Core](http://www.dotnetcurry.com/windows-azure/1339/docknetfiddle-using-docker-dotnet-core)
+
+## Tooling & Libraries
+
+1. [Updates to Web Tools in Visual Studio 2017 RC](https://blogs.msdn.microsoft.com/webdev/2017/01/27/updates-to-web-tools-in-visual-studio-2017-rc/)
+1. [Announcing .NET Core, .NET Native and NuGet Updates in VS 2017 RC](https://blogs.msdn.microsoft.com/dotnet/2017/01/30/announcing-net-core-net-native-and-nuget-updates-in-vs-2017-rc/)
+1. [Debugging .NET Core on Unix over SSH](https://blogs.msdn.microsoft.com/visualstudioalm/2017/01/26/debugging-net-core-on-unix-over-ssh/)
+1. [ASP.NET Core Authentication with IdentityServer4](https://blogs.msdn.microsoft.com/webdev/2017/01/23/asp-net-core-authentication-with-identityserver4/)
+1. [C# IL Viewer for Visual Studio Code using Roslyn side project](http://josephwoodward.co.uk/2017/01/c-sharp-il-viewer-vs-code-using-roslyn)
+1. [Technical Overview of Akka.Cluster.Sharding in Akka.NET](https://petabridge.com/blog/cluster-sharding-technical-overview-akkadotnet/)
+
+## Architecture & Databases
+
+
+## Programming Languages
+
+1. [Partial application is dependency injection](http://blog.ploeh.dk/2017/01/30/partial-application-is-dependency-injection/)
+
+## Runtime
+
+1. [Sharing code across .NET platforms with .NET Standard](https://blogs.infosupport.com/sharing-code-across-net-platforms-with-net-standard/)
+
+## Other
+
+1. [What .NET Developers ought to know to start in 2017](http://www.hanselman.com/blog/WhatNETDevelopersOughtToKnowToStartIn2017.aspx)
+1. [Monitoring Real-Time Uber Data Using Spark Machine Learning, Streaming, and the Kafka API (Part 2)](https://www.mapr.com/blog/monitoring-real-time-uber-data-using-spark-machine-learning-streaming-and-kafka-api-part-2)
+1. [Real-time Smart City Traffic Monitoring Using Microservices-based Streaming Architecture (Part 2)](https://www.mapr.com/blog/real-time-smart-city-traffic-monitoring-using-microservices-based-streaming-architecture-part-2)
+1. [Performance Tuning of an Apache Kafka/Spark Streaming System](https://www.mapr.com/blog/performance-tuning-apache-kafkaspark-streaming-system)
+1. [Better Complex Event Processing at Scale Using a Microservices-based Streaming Architecture (Part 1)](https://www.mapr.com/blog/better-complex-event-processing-scale-using-microservices-based-streaming-architecture-part-1)
