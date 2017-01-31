@@ -4,6 +4,7 @@
 
 1. [Build Your Own ASP.NET Cache with WeakReferences](https://visualstudiomagazine.com/articles/2017/01/27/asp-net-cache-weakreferences.aspx)
 1. [Building DockNetFiddle using Docker and .NET Core](http://www.dotnetcurry.com/windows-azure/1339/docknetfiddle-using-docker-dotnet-core)
+1. [HTTPS adoption has reached the tipping point](https://www.troyhunt.com/https-adoption-has-reached-the-tipping-point/)
 
 ## Tooling & Libraries
 
@@ -16,10 +17,14 @@
 
 ## Architecture & Databases
 
+1. [Decorating Envelopes](http://www.yegor256.com/2017/01/31/decorating-envelopes.html)
+1. [Continuous Delivery Anti-Patterns](https://dzone.com/articles/continuous-delivery-anti-patterns)
+
 
 ## Programming Languages
 
 1. [Partial application is dependency injection](http://blog.ploeh.dk/2017/01/30/partial-application-is-dependency-injection/)
+1. [C# 7.0 Expression Bodied Members](https://csharp.christiannagel.com/2017/01/25/expressionbodiedmembers/)
 
 ## Runtime
 
@@ -32,3 +37,4 @@
 1. [Real-time Smart City Traffic Monitoring Using Microservices-based Streaming Architecture (Part 2)](https://www.mapr.com/blog/real-time-smart-city-traffic-monitoring-using-microservices-based-streaming-architecture-part-2)
 1. [Performance Tuning of an Apache Kafka/Spark Streaming System](https://www.mapr.com/blog/performance-tuning-apache-kafkaspark-streaming-system)
 1. [Better Complex Event Processing at Scale Using a Microservices-based Streaming Architecture (Part 1)](https://www.mapr.com/blog/better-complex-event-processing-scale-using-microservices-based-streaming-architecture-part-1)
+1. [Google open-sources Chrome for iOS](https://techcrunch.com/2017/01/31/google-open-sources-chrome-for-ios/)
