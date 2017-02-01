@@ -25,6 +25,7 @@
 
 1. [Partial application is dependency injection](http://blog.ploeh.dk/2017/01/30/partial-application-is-dependency-injection/)
 1. [C# 7.0 Expression Bodied Members](https://csharp.christiannagel.com/2017/01/25/expressionbodiedmembers/)
+1. [The .NET Language Strategy](https://blogs.msdn.microsoft.com/dotnet/2017/02/01/the-net-language-strategy/)
 
 ## Runtime
 
