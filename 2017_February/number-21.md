@@ -5,15 +5,16 @@
 1. [Build Your Own ASP.NET Cache with WeakReferences](https://visualstudiomagazine.com/articles/2017/01/27/asp-net-cache-weakreferences.aspx)
 1. [Building DockNetFiddle using Docker and .NET Core](http://www.dotnetcurry.com/windows-azure/1339/docknetfiddle-using-docker-dotnet-core)
 1. [HTTPS adoption has reached the tipping point](https://www.troyhunt.com/https-adoption-has-reached-the-tipping-point/)
+1. [ASP.NET Core Authentication with IdentityServer4](https://blogs.msdn.microsoft.com/webdev/2017/01/23/asp-net-core-authentication-with-identityserver4/)
 
 ## Tooling & Libraries
 
 1. [Updates to Web Tools in Visual Studio 2017 RC](https://blogs.msdn.microsoft.com/webdev/2017/01/27/updates-to-web-tools-in-visual-studio-2017-rc/)
 1. [Announcing .NET Core, .NET Native and NuGet Updates in VS 2017 RC](https://blogs.msdn.microsoft.com/dotnet/2017/01/30/announcing-net-core-net-native-and-nuget-updates-in-vs-2017-rc/)
 1. [Debugging .NET Core on Unix over SSH](https://blogs.msdn.microsoft.com/visualstudioalm/2017/01/26/debugging-net-core-on-unix-over-ssh/)
-1. [ASP.NET Core Authentication with IdentityServer4](https://blogs.msdn.microsoft.com/webdev/2017/01/23/asp-net-core-authentication-with-identityserver4/)
 1. [C# IL Viewer for Visual Studio Code using Roslyn side project](http://josephwoodward.co.uk/2017/01/c-sharp-il-viewer-vs-code-using-roslyn)
 1. [Technical Overview of Akka.Cluster.Sharding in Akka.NET](https://petabridge.com/blog/cluster-sharding-technical-overview-akkadotnet/)
+1. [Visual Studio Code 1.9](https://code.visualstudio.com/updates/v1_9)
 
 ## Architecture & Databases
 
