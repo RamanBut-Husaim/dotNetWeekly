@@ -19,7 +19,7 @@
 
 1. [Decorating Envelopes](http://www.yegor256.com/2017/01/31/decorating-envelopes.html)
 1. [Continuous Delivery Anti-Patterns](https://dzone.com/articles/continuous-delivery-anti-patterns)
-
+1. [GraphQL vs. REST APIs](https://dzone.com/articles/6-reasons-to-prefer-graphql-to-rest)
 
 ## Programming Languages
 
