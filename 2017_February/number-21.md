@@ -26,10 +26,12 @@
 1. [Partial application is dependency injection](http://blog.ploeh.dk/2017/01/30/partial-application-is-dependency-injection/)
 1. [C# 7.0 Expression Bodied Members](https://csharp.christiannagel.com/2017/01/25/expressionbodiedmembers/)
 1. [The .NET Language Strategy](https://blogs.msdn.microsoft.com/dotnet/2017/02/01/the-net-language-strategy/)
+1. [C# 7.0 Out Vars and Ref Returns](https://csharp.christiannagel.com/2017/02/01/refreturns/)
 
 ## Runtime
 
 1. [Sharing code across .NET platforms with .NET Standard](https://blogs.infosupport.com/sharing-code-across-net-platforms-with-net-standard/)
+1. [.NET Core on ARM](https://stevedesmond.ca/blog/net-core-on-arm)
 
 ## Other
 
@@ -39,3 +41,4 @@
 1. [Performance Tuning of an Apache Kafka/Spark Streaming System](https://www.mapr.com/blog/performance-tuning-apache-kafkaspark-streaming-system)
 1. [Better Complex Event Processing at Scale Using a Microservices-based Streaming Architecture (Part 1)](https://www.mapr.com/blog/better-complex-event-processing-scale-using-microservices-based-streaming-architecture-part-1)
 1. [Google open-sources Chrome for iOS](https://techcrunch.com/2017/01/31/google-open-sources-chrome-for-ios/)
+1. [Announcing Rust 1.15](https://blog.rust-lang.org/2017/02/02/Rust-1.15.html)
