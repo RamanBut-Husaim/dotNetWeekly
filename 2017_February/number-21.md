@@ -22,6 +22,7 @@
 1. [Continuous Delivery Anti-Patterns](https://dzone.com/articles/continuous-delivery-anti-patterns)
 1. [GraphQL vs. REST APIs](https://dzone.com/articles/6-reasons-to-prefer-graphql-to-rest)
 1. [Beringei: A high-performance time series storage engine](https://code.facebook.com/posts/952820474848503/beringei-a-high-performance-time-series-storage-engine)
+1. [Dependency rejection](http://blog.ploeh.dk/2017/02/02/dependency-rejection/)
 
 ## Programming Languages
 
