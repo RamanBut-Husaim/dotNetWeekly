@@ -21,6 +21,7 @@
 1. [Decorating Envelopes](http://www.yegor256.com/2017/01/31/decorating-envelopes.html)
 1. [Continuous Delivery Anti-Patterns](https://dzone.com/articles/continuous-delivery-anti-patterns)
 1. [GraphQL vs. REST APIs](https://dzone.com/articles/6-reasons-to-prefer-graphql-to-rest)
+1. [Beringei: A high-performance time series storage engine](https://code.facebook.com/posts/952820474848503/beringei-a-high-performance-time-series-storage-engine)
 
 ## Programming Languages
 
@@ -28,6 +29,7 @@
 1. [C# 7.0 Expression Bodied Members](https://csharp.christiannagel.com/2017/01/25/expressionbodiedmembers/)
 1. [The .NET Language Strategy](https://blogs.msdn.microsoft.com/dotnet/2017/02/01/the-net-language-strategy/)
 1. [C# 7.0 Out Vars and Ref Returns](https://csharp.christiannagel.com/2017/02/01/refreturns/)
+1. [C# Tuples. More about element names.](http://mustoverride.com/tuples_names/)
 
 ## Runtime
 
@@ -43,3 +45,4 @@
 1. [Better Complex Event Processing at Scale Using a Microservices-based Streaming Architecture (Part 1)](https://www.mapr.com/blog/better-complex-event-processing-scale-using-microservices-based-streaming-architecture-part-1)
 1. [Google open-sources Chrome for iOS](https://techcrunch.com/2017/01/31/google-open-sources-chrome-for-ios/)
 1. [Announcing Rust 1.15](https://blog.rust-lang.org/2017/02/02/Rust-1.15.html)
+1. [Announcing GVFS (Git Virtual File System)](https://blogs.msdn.microsoft.com/visualstudioalm/2017/02/03/announcing-gvfs-git-virtual-file-system/)
