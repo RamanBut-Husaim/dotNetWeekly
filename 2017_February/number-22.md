@@ -21,3 +21,4 @@
 
 1. [MIT Extended LLVM IR to Enable Better Optimization of Parallel Programs](https://www.infoq.com/news/2017/02/mit-llvm-parallel-programs)
 1. [How is Facebook Deploying Big Data?](https://dzone.com/articles/how-is-facebook-deploying-big-data)
+1. [Rust's 2017 roadmap](https://blog.rust-lang.org/2017/02/06/roadmap.html)
