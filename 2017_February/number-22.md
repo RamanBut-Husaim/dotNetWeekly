@@ -8,6 +8,8 @@
 
 ## Architecture & Databases
 
+1. [Why Databases Are Not for Docker Containers](https://myopsblog.wordpress.com/2017/02/06/why-databases-is-not-for-containers/)
+
 ## Programming Languages
 
 1. [Type Driven Domain Modelling, part 1](http://lucasmreis.github.io/blog/type-driven-domain-modelling-part-1/)
