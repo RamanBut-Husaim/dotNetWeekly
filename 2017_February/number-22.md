@@ -4,6 +4,8 @@
 
 ## Tooling & Libraries
 
+1. [NuGet2 and a DirectorySeparatorChar bug](http://aakinshin.net/en/blog/dotnet/nuget2-and-directoryseparatorchar/)
+
 ## Architecture & Databases
 
 ## Programming Languages
@@ -14,7 +16,6 @@
 ## Runtime
 
 1. [Introducing Portable PDB](https://www.infoq.com/news/2017/02/Portable-PDB)
-1. [NuGet2 and a DirectorySeparatorChar bug](http://aakinshin.net/en/blog/dotnet/nuget2-and-directoryseparatorchar/)
 
 ## Other
 
