@@ -2,6 +2,8 @@
 
 ## Cloud & Web
 
+1. [GitLab – Going Forward with Vue and Webpack](https://about.gitlab.com/2017/02/06/vue-big-plan/)
+
 ## Tooling & Libraries
 
 1. [NuGet2 and a DirectorySeparatorChar bug](http://aakinshin.net/en/blog/dotnet/nuget2-and-directoryseparatorchar/)
