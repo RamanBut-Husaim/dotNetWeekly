@@ -7,10 +7,13 @@
 ## Tooling & Libraries
 
 1. [NuGet2 and a DirectorySeparatorChar bug](http://aakinshin.net/en/blog/dotnet/nuget2-and-directoryseparatorchar/)
+1. [Rider front end plugin development](https://blog.jetbrains.com/dotnet/2017/02/07/rider-front-end-plugin-development/)
 
 ## Architecture & Databases
 
 1. [Why Databases Are Not for Docker Containers](https://myopsblog.wordpress.com/2017/02/06/why-databases-is-not-for-containers/)
+1. [What do you mean by “Event-Driven”](https://martinfowler.com/articles/201701-event-driven.html)
+1. [Each Private Static Method Is a Candidate for a New Class](http://www.yegor256.com/2017/02/07/private-method-is-new-class.html)
 
 ## Programming Languages
 
@@ -20,6 +23,7 @@
 ## Runtime
 
 1. [Introducing Portable PDB](https://www.infoq.com/news/2017/02/Portable-PDB)
+1. [О «маркировке» объекта во время сборки мусора или Рихтер был не прав](http://sergeyteplyakov.blogspot.de/2017/02/marking-phase-implementation-details.html)
 
 ## Other
 
