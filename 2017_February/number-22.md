@@ -35,3 +35,4 @@
 1. [How is Facebook Deploying Big Data?](https://dzone.com/articles/how-is-facebook-deploying-big-data)
 1. [Rust's 2017 roadmap](https://blog.rust-lang.org/2017/02/06/roadmap.html)
 1. [More on GVFS](https://blogs.msdn.microsoft.com/bharry/2017/02/07/more-on-gvfs/)
+1. [Hazelcast Release Jet, Open-Source Stream Processing Engine](https://www.infoq.com/news/2017/02/HazlecastJetOSS)
