@@ -27,12 +27,14 @@
 1. [Type Driven Domain Modelling, part 2](http://lucasmreis.github.io/blog/type-driven-domain-modelling-part-2/)
 1. [Dissecting the new() constraint in C#: a perfect example of a leaky abstraction](https://blogs.msdn.microsoft.com/seteplia/2017/02/01/dissecting-the-new-constraint-in-c-a-perfect-example-of-a-leaky-abstraction/)
 1. [Status and Roadmap for F# and the Visual F# Tools 2017](https://github.com/Microsoft/visualfsharp/issues/2400)
+1. [C#/VB/F# Sprint 111-113 Summary](https://github.com/dotnet/roslyn/issues/17096)
 
 ## Runtime
 
 1. [Introducing Portable PDB](https://www.infoq.com/news/2017/02/Portable-PDB)
 1. [О «маркировке» объекта во время сборки мусора или Рихтер был не прав](http://sergeyteplyakov.blogspot.de/2017/02/marking-phase-implementation-details.html)
 1. [The 68 things the CLR does before executing a single line of your code (*)](http://mattwarren.org/2017/02/07/The-68-things-the-CLR-does-before-executing-a-single-line-of-your-code/)
+1. [InvalidDataException in Process.GetProcesses](http://aakinshin.net/en/blog/dotnet/invaliddataexception-in-getprocesses/)
 
 ## Other
 
