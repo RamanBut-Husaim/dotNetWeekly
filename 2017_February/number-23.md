@@ -8,6 +8,7 @@
 ## Tooling & Libraries
 
 1. [Introduction to Distributed Publish-Subscribe in Akka.NET](https://petabridge.com/blog/distributed-pub-sub-intro-akkadotnet/)
+1. [Refactoring Towards Resilience: Evaluating Coupling](https://jimmybogard.com/refactoring-towards-resilience-evaluating-coupling/)
 
 ## Architecture & Databases
 
@@ -28,3 +29,4 @@
 
 1. [StackOverflow Is Your Mandatory Tool](http://www.yegor256.com/2017/02/14/stackoverflow-is-your-tool.html)
 1. [Introducing Haskelly – Haskell extension for Visual Studio Code](https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/02/13/introducing-haskelly-extension-for-visual-studio-code/)
+1. [Google releases TensorFlow 1.0 with new machine learning tools](http://venturebeat.com/2017/02/15/google-releases-tensorflow-1-0-with-new-machine-learning-tools/)
