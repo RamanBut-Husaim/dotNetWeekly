@@ -5,12 +5,14 @@
 1. [JavaScript Start-up Performance](https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201#.xb1geiosv)
 1. [An in-depth look at the various ways of specifying the IP or host ASP.NET Core listens on](http://josephwoodward.co.uk/2017/02/many-different-ways-specifying-host-port-asp-net-core)
 1. [HTTP/2 Server Push and ASP.NET MVC - Cache Digest](http://tpeczek.blogspot.de/2017/01/http2-server-push-and-aspnet-mvc-cache.html)
+1. [Onion Architecture In ASP.NET Core MVC](http://www.c-sharpcorner.com/article/onion-architecture-in-asp-net-core-mvc/)
 
 ## Tooling & Libraries
 
 1. [Introduction to Distributed Publish-Subscribe in Akka.NET](https://petabridge.com/blog/distributed-pub-sub-intro-akkadotnet/)
 1. [Refactoring Towards Resilience: Evaluating Coupling](https://jimmybogard.com/refactoring-towards-resilience-evaluating-coupling/)
 1. [Choosing centralized logging and monitoring system](https://indexoutofrange.com/Choosing-centralized-logging-and-monitoring-system/)
+1. [On Automappers](http://enterprisecraftsmanship.com/2017/02/16/on-automappers/)
 
 ## Architecture & Databases
 
@@ -23,6 +25,9 @@
 ## Programming Languages
 
 1. [C# 7.0 – Pattern Matching](https://csharp.christiannagel.com/2017/02/15/patternmatching/)
+1. [Pipe forward : Using Elixir and F# together - Bryan Hunter](https://www.youtube.com/watch?v=HLs6WgAmX64&feature=youtu.be&list=PL03Lrmd9CiGf2iIh4x8HM4iKmi6PhCe96)
+1. [Particle Filter in F#](http://www.taumuon.co.uk/2017/02/particle-filter-in-f.html)
+1. [Thirteen ways of looking at a Turtle - Scott Wlaschin](https://www.youtube.com/watch?v=AG3KuqDbmhM)
 
 ## Runtime
 
