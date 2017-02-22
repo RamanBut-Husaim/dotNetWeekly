@@ -17,6 +17,7 @@
 
 1. [You're better off using Exceptions](https://eiriktsarpalis.wordpress.com/2017/02/19/youre-better-off-using-exceptions/)
 1. [TypeScript 2.1: Untyped Imports](https://blog.mariusschulz.com/2017/02/17/typescript-2-1-untyped-imports)
+1. [Announcing TypeScript 2.2](https://blogs.msdn.microsoft.com/typescript/2017/02/22/announcing-typescript-2-2/)
 
 ## Runtime
 
