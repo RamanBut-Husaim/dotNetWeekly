@@ -8,6 +8,7 @@
 
 1. [Under the hood of the Middleware Analysis package](https://andrewlock.net/under-the-hood-of-the-middleware-analysis-package/)
 1. [Containers & Redis – Running Redis on Windows with Docker](https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/02/21/containers-redis-running-redis-on-windows-with-docker/)
+1. [Rider EAP 18: CoreCLR debugging is back (on Windows)](https://blog.jetbrains.com/dotnet/2017/02/23/rider-eap-18-coreclr-debugging-back-windows/)
 
 ## Architecture & Databases
 
@@ -29,3 +30,4 @@
 
 1. [Long-awaited mathematics proof could help scan Earth's innards](http://www.nature.com/news/long-awaited-mathematics-proof-could-help-scan-earth-s-innards-1.21439)
 1. [Microsoft Makes Cloud-Based Biological Research Tool Open Source](https://www.infoq.com/news/2017/02/Microsoft-cloud-biological-resea)
+1. [How terrible code gets written by perfectly sane people](http://chrismm.com/blog/how-terrible-code-gets-written-by-perfectly-sane-people/?2)
