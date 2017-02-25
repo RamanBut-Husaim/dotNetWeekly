@@ -13,6 +13,8 @@
 ## Architecture & Databases
 
 1. [Refactoring Towards Resilience: Async Workflow Options](https://jimmybogard.com/refactoring-towards-resilience-async-workflow-options/)
+1. [Reasons for Automated Testing](http://geekswithblogs.net/TimothyK/archive/2017/02/23/reasons-for-automated-testing.aspx)
+1. [The Myers diff algorithm: part 1](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)
 
 ## Programming Languages
 
@@ -25,6 +27,7 @@
 1. [How to evaluate info you read on garbage collectors](https://blogs.msdn.microsoft.com/maoni/2017/02/18/how-to-evaluate-info-you-read-on-garbage-collectors/)
 1. [A common execution path optimization](https://blogs.msdn.microsoft.com/seteplia/2017/02/21/a-common-execution-path-optimization/)
 1. [Common Multithreading Mistakes in C# - III: Unsafe Assumptions](http://benbowen.blog/post/cmmics_iii/)
+1. [The origin of GetHashCode in .NET](http://codingsight.com/the-origin-of-gethashcode-in-net/)
 
 ## Other
 
