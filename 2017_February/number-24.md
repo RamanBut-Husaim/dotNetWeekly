@@ -3,6 +3,7 @@
 ## Cloud & Web
 
 1. [Real-Time ASP .NET Core](https://radu-matei.github.io/blog/real-time-aspnet-core/)
+1. [Rapid API Development with Azure Functions](http://markheath.net/post/rapid-api-development-with-azure-functions)
 
 ## Tooling & Libraries
 
@@ -15,6 +16,7 @@
 1. [Refactoring Towards Resilience: Async Workflow Options](https://jimmybogard.com/refactoring-towards-resilience-async-workflow-options/)
 1. [Reasons for Automated Testing](http://geekswithblogs.net/TimothyK/archive/2017/02/23/reasons-for-automated-testing.aspx)
 1. [The Myers diff algorithm: part 1](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)
+1. [Life with actors: experience report - Vagif Abilov and Erlend Wiig](https://www.youtube.com/watch?v=KQwskUjsSi8)
 
 ## Programming Languages
 
