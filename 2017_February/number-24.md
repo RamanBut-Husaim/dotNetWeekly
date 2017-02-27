@@ -10,6 +10,7 @@
 1. [Under the hood of the Middleware Analysis package](https://andrewlock.net/under-the-hood-of-the-middleware-analysis-package/)
 1. [Containers & Redis – Running Redis on Windows with Docker](https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/02/21/containers-redis-running-redis-on-windows-with-docker/)
 1. [Rider EAP 18: CoreCLR debugging is back (on Windows)](https://blog.jetbrains.com/dotnet/2017/02/23/rider-eap-18-coreclr-debugging-back-windows/)
+1. [MSTest V2 – Now and Ahead](https://blogs.msdn.microsoft.com/visualstudioalm/2017/02/25/mstest-v2-now-and-ahead/)
 
 ## Architecture & Databases
 
@@ -23,6 +24,7 @@
 1. [You're better off using Exceptions](https://eiriktsarpalis.wordpress.com/2017/02/19/youre-better-off-using-exceptions/)
 1. [TypeScript 2.1: Untyped Imports](https://blog.mariusschulz.com/2017/02/17/typescript-2-1-untyped-imports)
 1. [Announcing TypeScript 2.2](https://blogs.msdn.microsoft.com/typescript/2017/02/22/announcing-typescript-2-2/)
+1. [C# Tuples. Conversions.](http://mustoverride.com/tuples_conversions/)
 
 ## Runtime
 
