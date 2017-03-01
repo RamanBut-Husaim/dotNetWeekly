@@ -7,6 +7,8 @@
 
 ## Tooling & Libraries
 
+1. [GitLab 8.17 released with GitLab Pages in GitLab CE and Squash on Merge](https://about.gitlab.com/2017/02/22/gitlab-8-17-released/)
+
 ## Architecture & Databases
 
 1. [Refactoring Towards Resilience: Process Manager Solution](https://jimmybogard.com/refactoring-towards-resilience-process-manager-solution/)
