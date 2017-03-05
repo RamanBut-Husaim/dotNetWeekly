@@ -11,6 +11,7 @@
 
 1. [GitLab 8.17 released with GitLab Pages in GitLab CE and Squash on Merge](https://about.gitlab.com/2017/02/22/gitlab-8-17-released/)
 1. [Public Preview for SQL Server vNext Management Pack (CTP2)](http://sqlblog.comwww.sqlblog.com/blogs/damian_widera/archive/2017/03/01/public-preview-for-sql-server-vnext-management-pack-ctp2.aspx)
+1. [Orleans 1.4 and 2.0 Tech Preview 2 for .NET Core released](https://blogs.msdn.microsoft.com/orleans/2017/03/02/orleans-1-4-and-2-0-tech-preview-2-for-net-core-released/)
 
 ## Architecture & Databases
 
@@ -21,6 +22,8 @@
 ## Programming Languages
 
 1. [Feature watch: ECMAScript 2018](http://www.2ality.com/2017/02/ecmascript-2018.html)
+1. [Typestate-oriented programming in F*](http://olleharstedt.github.io/fstar/2017/01/12/typestate-in-fstar.html)
+1. [Mutability vs. Immutability: Valid objects](http://sidburn.github.io/blog/2017/02/27/mutability-vs-immutability-validation)
 
 ## Runtime
 
