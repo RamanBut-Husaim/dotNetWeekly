@@ -2,17 +2,21 @@
 
 ## Cloud & Web
 
+1. [ASP.NET Core Data Protection for Service Fabric with Kestrel and WebListener](https://dzone.com/articles/aspnet-core-dataprotection-for-service-fabric-with-1)
+
 ## Tooling & Libraries
 
 1. [Visual Studio 2017: Productivity, Performance, and Partners](https://blogs.msdn.microsoft.com/visualstudio/2017/03/07/visual-studio-2017-productivity-performance-and-partners/)
 1. [Roslyn Project System - F# Support](https://github.com/dotnet/roslyn-project-system/pull/1670)
 1. [Announcing .NET Core Tools 1.0](https://blogs.msdn.microsoft.com/dotnet/2017/03/07/announcing-net-core-tools-1-0/)
+1. [Announcing F# 4.1 and the Visual F# Tools for Visual Studio 2017](https://blogs.msdn.microsoft.com/dotnet/2017/03/07/announcing-f-4-1-and-the-visual-f-tools-for-visual-studio-2017/)
 
 ## Architecture & Databases
 
 1. [Key Challenges of Building Next-Generation Data Architectures](https://dzone.com/articles/key-challenges-of-building-next-generation-data-ar)
 1. [Google Shares Their API Design Guide](https://dzone.com/articles/google-shares-their-api-design-guide)
 1. [Traits and Mixins Are Not OOP](http://www.yegor256.com/2017/03/07/traits-and-mixins.html)
+1. [Clean Architecture Is Screaming](https://dzone.com/articles/clean-architecture-is-screaming)
 
 ## Programming Languages
 
