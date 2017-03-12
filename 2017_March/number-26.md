@@ -5,6 +5,7 @@
 1. [ASP.NET Core Data Protection for Service Fabric with Kestrel and WebListener](https://dzone.com/articles/aspnet-core-dataprotection-for-service-fabric-with-1)
 1. [ASP.Net Session Swapping – Why it happens and what can be done about it?](https://blogs.msdn.microsoft.com/sanket/2017/03/07/asp-net-session-swapping-why-it-happens-and-what-can-be-done-about-it/)
 1. [Azure App Service Authentication in an ASP.NET Core Application](https://shellmonger.com/2017/03/02/azure-app-service-authentication-in-an-asp-net-core-application/)
+1. [What is the Microsoft.AspNetCore metapackage?](https://andrewlock.net/what-is-the-microsoft-aspnetcore-metapackage/)
 
 ## Tooling & Libraries
 
@@ -29,6 +30,7 @@
 1. [Is Your Code Hard to Understand?](http://www.daedtech.com/code-hard-understand/)
 1. [F# and Purity](https://eiriktsarpalis.wordpress.com/2017/03/06/f-and-purity/)
 1. [New Features in C# 7.0](https://blogs.msdn.microsoft.com/dotnet/2017/03/09/new-features-in-c-7-0/)
+1. [Magic of F# Type Providers](https://medium.com/@maximcus/magic-of-f-type-providers-225b1169c7a0#.n89istuvf)
 
 ## Runtime
 
