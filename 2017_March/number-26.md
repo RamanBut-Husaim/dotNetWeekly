@@ -40,3 +40,5 @@
 ## Other
 
 1. [JVM Anatomy Park #2: Transparent Huge Pages](https://shipilev.net/jvm-anatomy-park/2-transparent-huge-pages/)
+1. [Rust's Type System is Turing-Complete](https://sdleffler.github.io/RustTypeSystemTuringComplete/)
+1. [Security Considerations in a DevOps Pipeline](https://dzone.com/articles/security-considerations-in-a-devops-pipeline)
