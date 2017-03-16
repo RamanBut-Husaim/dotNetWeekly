@@ -25,9 +25,12 @@
 
 ## Runtime
 
+1. [Big data work on 32 bits](https://ayende.com/blog/177313/big-data-work-on-32-bits)
+
 ## Other
 
 1. [LLVM 4.0.0 Release](http://lists.llvm.org/pipermail/llvm-announce/2017-March/000073.html)
 1. [High-Availability With Redis Sentinels Connecting to Master-Slave](https://dzone.com/articles/high-availability-with-redis-sentinels-connecting)
 1. [Microsoft Project Olympus](https://channel9.msdn.com/Series/Microsoft-Global-Datacenters/Microsoft-Project-Olympus)
 1. [Lean Inception](https://martinfowler.com/articles/lean-inception/)
+1. [Announcing Rust 1.16](https://blog.rust-lang.org/2017/03/16/Rust-1.16.html)
