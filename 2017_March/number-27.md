@@ -26,6 +26,7 @@
 ## Runtime
 
 1. [Big data work on 32 bits](https://ayende.com/blog/177313/big-data-work-on-32-bits)
+1. [.NET Core Comes Quietly to Raspberry Pi](https://www.thurrott.com/dev/106624/net-core-comes-quietly-raspberry-pi)
 
 ## Other
 
