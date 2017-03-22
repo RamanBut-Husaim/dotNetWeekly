@@ -9,6 +9,7 @@
 1. [The New Swagger Editor and UI Are Finally Here!](http://swagger.io/new-swagger-ui-and-swagger-editor/)
 1. [.NET Core continuous deployment part I – Travis CI integration](http://piotrgankiewicz.com/2017/03/13/net-core-continuous-deployment-part-i-travis-ci-integration/)
 1. [Bitbucket Adds Pipelines](https://dzone.com/articles/bitbucket-adds-pipelines)
+1. [GitLab 9.0 Released with Subgroups and Deploy Boards](https://about.gitlab.com/2017/03/22/gitlab-9-0-released/)
 
 ## Architecture & Databases
 
