@@ -14,6 +14,7 @@
 ## Architecture & Databases
 
 1. [Data checksums in Voron](https://ayende.com/blog/177345/data-checksums-in-voron)
+1. [A Visual Guide to What's New in Swagger (aka OAS) 3.0](https://blog.readme.io/an-example-filled-guide-to-swagger-3-2/)
 
 ## Programming Languages
 
