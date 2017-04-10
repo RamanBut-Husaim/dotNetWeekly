@@ -4,6 +4,7 @@
 
 1. [Announcing the general availability of Azure Monitor](https://azure.microsoft.com/en-us/blog/announcing-the-general-availability-of-azure-monitor/)
 1. [Reviewing ASP.Net Core](https://jeremydmiller.com/2017/04/04/reviewing-asp-net-core/)
+1. [Announcing HTTP/2 support for all Azure CDN customers](https://azure.microsoft.com/en-us/blog/announcing-http-2-support-for-all-azure-cdn-customers/)
 
 ## Tooling & Libraries
 
@@ -17,12 +18,14 @@
 1. [.NET Architecture Guidance](https://www.microsoft.com/net/architecture)
 1. [The problems with Swagger](http://blog.novatec-gmbh.de/the-problems-with-swagger/)
 1. [QA in Production](https://martinfowler.com/articles/qa-in-production.html)
+1. [Object-Oriented Analysis and Design (Series)](https://dzone.com/articles/object-oriented-analysis-and-design-part-3)
 
 ## Programming Languages
 
 1. [Understand monads with LINQ](http://codewithstyle.info/understand-monads-linq/)
 1. [C# 7 - Is Operator Patterns - You won't need 'as' as often](https://www.danielcrabtree.com/blog/152/c-sharp-7-is-operator-patterns-you-wont-need-as-as-often)
 1. [C++ 17 Is Ready](https://www.infoq.com/news/2017/04/cpp=17-ready)
+1. [C# 7: Micro-Benchmarking the Three Ways to Cast Safely](https://www.danielcrabtree.com/blog/164/c-sharp-7-micro-benchmarking-the-three-ways-to-cast-safely)
 
 ## Runtime
 
@@ -36,3 +39,4 @@
 1. [Announcing a unified .NET reference experience on docs.microsoft.com](https://docs.microsoft.com/en-us/teamblog/announcing-unified-dotnet-experience-on-docs)
 1. [Open source contributors wanted](http://piotrgankiewicz.com/2017/04/03/open-source-contributors-wanted/)
 1. [PDD in Action](http://www.yegor256.com/2017/04/05/pdd-in-action.html)
+1. [The Garage Architecture](https://dzone.com/articles/the-garage-architecture)
