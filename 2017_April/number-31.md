@@ -21,6 +21,7 @@
 1. [Announcing TypeScript 2.3 RC](https://blogs.msdn.microsoft.com/typescript/2017/04/10/announcing-typescript-2-3-rc/)
 1. [An interesting (if unsuccessful) look into predicting horse races via machine learning with F#](https://medium.com/@ThisisZone/an-interesting-if-unsuccessful-look-into-predicting-horse-races-via-machine-learning-with-f-7563090c7582)
 1. [Method overload resolution in C# 6.0: an interesting bug story](http://codewithstyle.info/method-overload-resolution-in-c-6-0-an-interesting-bug-story/)
+1. [.NET Futures - Type Classes and Extensions](https://www.infoq.com/news/2017/04/DotNet-Type-Classes)
 
 ## Runtime
 
