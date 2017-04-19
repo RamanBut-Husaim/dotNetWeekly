@@ -42,3 +42,4 @@
     + [April](2017_April/README.md)
         + [.NET Weekly #30](2017_April/number-30.md)
         + [.NET Weekly #31](2017_April/number-31.md)
+        + [.NET Weekly #32](2017_April/number-32.md)
