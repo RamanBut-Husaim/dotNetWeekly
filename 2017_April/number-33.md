@@ -10,6 +10,7 @@
 1. [UrhoSharp 1.3.0 Released](https://forums.xamarin.com/discussion/92981/urhosharp-1-3-0-released)
 1. [dotnet new Templates for IdentityServer4](https://leastprivilege.com/2017/04/12/dotnet-new-templates-for-identityserver4/)
 1. [GitLab 9.1 Released with Service Desk, Canary Deployments, and Burndown Charts](https://about.gitlab.com/2017/04/22/gitlab-9-1-released/)
+1. [Visual Studio 2017 - Update 2 Preview](https://www.infoq.com/news/2017/04/vs2017-15u2)
 
 ## Architecture & Databases
 
@@ -17,6 +18,8 @@
 
 1. [F# 4.1 Updates](https://github.com/dotnet/docs/pull/1916)
 1. [Surprise! Creating an instance of an open generic type](https://codeblog.jonskeet.uk/2017/04/26/surprise-creating-an-instance-of-an-open-generic-type/)
+1. [C# Futures Read-Only Local Variables](https://www.infoq.com/news/2017/04/CSharp-Readonly-Locals)
+1. [C# Futures Relaxed Overrides](https://www.infoq.com/news/2017/04/CSharp-covariant-return)
 
 ## Runtime
 
@@ -24,3 +27,5 @@
 1. [Making string validation faster by not using a regular expression. A story.](https://blog.maartenballiauw.be/post/2017/04/24/making-string-validation-faster-no-regular-expressions.html)
 
 ## Other
+
+1. [TensorFlow Processor Unit Architecture](https://www.infoq.com/news/2017/04/tpu-architecture)
