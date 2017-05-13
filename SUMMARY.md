@@ -46,3 +46,4 @@
         + [.NET Weekly #33](2017_April/number-33.md)
     + [May](2017_May/README.md)
         + [.NET Weekly #34](2017_May/number-34.md)
+        + [.NET Weekly #35](2017_May/number-35.md)
