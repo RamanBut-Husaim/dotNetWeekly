@@ -48,3 +48,4 @@
         + [.NET Weekly #34](2017_May/number-34.md)
         + [.NET Weekly #35](2017_May/number-35.md)
         + [.NET Weekly #36](2017_May/number-36.md)
+        + [.NET Weekly #37](2017_May/number-37.md)
