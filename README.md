@@ -13,3 +13,4 @@ This book contains news from the .NET world (and a bit more) for the past week.
     + [March](2017_March/README.md)
     + [April](2017_April/README.md)
     + [May](2017_May/README.md)
+    + [June](2017_June/README.md)
