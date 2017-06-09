@@ -19,6 +19,7 @@
 1. [Ported Hill Climbing from CoreCLR to CoreRT](https://github.com/dotnet/corert/pull/3794)
 1. [.NET Standard for Library Authors](https://www.youtube.com/watch?v=Jnll5Owpwms)
 1. [Performance Improvements in .NET Core](https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/)
+1. [Mono - Today and Tomorrow](https://www.youtube.com/watch?v=uxzS-grpN4c)
 
 ## Other
 
