@@ -23,6 +23,7 @@
 1. [RavenDB 4.0 Licensing & Pricing](https://ayende.com/blog/178434/ravendb-4-0-licensing-pricing)
 1. [Query Store and Parameterization Problems](https://www.simple-talk.com/sql/database-administration/query-store-parameterization-problems/)
 1. [Characteristics of Good APIs](http://www.daedtech.com/characteristics-good-apis/)
+1. [Microservices Architectures - 3 Overlooked Considerations](https://dzone.com/articles/microservices-architectures-3-overlooked-considera)
 
 ## Programming Languages
 
