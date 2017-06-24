@@ -1,4 +1,4 @@
-# .NET Weekly #30 (12.06 - 18.06)
+# .NET Weekly #40 (12.06 - 18.06)
 
 ## Cloud & Web
 
