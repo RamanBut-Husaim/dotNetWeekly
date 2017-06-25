@@ -40,3 +40,5 @@
 
 1. [The Toxic Glorification of Working Hard](https://www.exceptionnotfound.net/the-toxic-glorification-of-working-hard/)
 1. [Microsoft R Server 9.1 on HDInsight is available!](https://blogs.msdn.microsoft.com/azuredatalake/2017/06/19/microsoft-r-server-9-1-on-hdinsight-is-available/)
+1. [The most revolutionary thing about self-driving cars isn’t what you think](https://mesosphere.com/blog/2017/06/19/the-most-revolutionary-thing-about-self-driving-cars-isn-t-what-you-think/)
+1. [OWASP Top Ten for 2017 - The Hits and Misses](https://dzone.com/articles/owasp-top-ten-for-2017-the-hits-amp-misses)
