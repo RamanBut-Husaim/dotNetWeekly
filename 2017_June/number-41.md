@@ -11,7 +11,7 @@
 ## Tooling & Libraries
 
 1. [How the Microsoft Bot Framework Changed Where My Friends and I Eat - Part 2](http://rion.io/2017/06/19/how-the-microsoft-bot-framework-changed-where-my-friends-and-i-eat-part-2/)
-1. [Understanding & Profiling C# Async Await Tasks](https://stackify.com/csharp-async-await-task-performance/)
+1. [Understanding And Profiling C# Async Await Tasks](https://stackify.com/csharp-async-await-task-performance/)
 1. [Serilog 2.5](https://nblumhardt.com/2017/06/serilog-2-5/)
 1. [Updated Chrome Debugging Tools Worth Mentioning](http://rion.io/2017/06/21/updated-chrome-debugging-tools-worth-mentioning/)
 1. [protobuf-net gets proto3](http://blog.marcgravell.com/2017/06/protobuf-net-gets-proto3-support.html)
