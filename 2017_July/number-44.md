@@ -20,12 +20,16 @@
 ## Architecture & Databases
 
 1. [Microsoft .NET Architecture Guidance](https://blogs.msdn.microsoft.com/premier_developer/2017/07/11/microsoft-net-architecture-guidance/)
+1. [Facebook relicenses RocksDB under Apache 2 license](https://issues.apache.org/jira/browse/LEGAL-303)
+1. [Enterprise Integration - Part V](https://dzone.com/articles/enterprise-integration-part-v)
 
 ## Programming Languages
 
 1. [Pragmatic Functional Programming](http://blog.cleancoder.com/uncle-bob/2017/07/11/PragmaticFunctionalProgramming.html)
 1. [Reviewing Resin Part I](https://ayende.com/blog/178945/reviewing-resin-part-i)
 1. [Reviewing Resin Part II](https://ayende.com/blog/178946/reviewing-resin-part-ii)
+1. [Microsoft Reiterates its Support of F#](https://www.infoq.com/news/2017/07/microsoft-fsharp-build)
+1. [Analyzing GitHub, how developers change programming languages over time](https://blog.sourced.tech/post/language_migrations/)
 
 ## Runtime
 
@@ -39,3 +43,4 @@
 1. [StackOverflow - Introducing Channels Private Questions And Answers for Your Team](https://stackoverflow.blog/2017/07/11/introducing-channels-private-qa-team/)
 1. [Samsung Releases 4th Preview of Visual Studio Tools for Tizen including support for .NET Core 2.0 Preview](https://blogs.msdn.microsoft.com/visualstudio/2017/07/11/samsung-releases-4th-preview-of-visual-studio-tools-for-tizen-including-support-for-net-core-2-0-preview/)
 1. [Largest FREE Microsoft eBook Giveaway](https://blogs.msdn.microsoft.com/mssmallbiz/2017/07/11/largest-free-microsoft-ebook-giveaway-im-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-office-365-office-2016-power-bi-azure-windows-8-1-office-2013-sharepo/)
+1. [A deep dive into Multicore OCaml garbage collector](http://kcsrk.info/multicore/gc/2017/07/06/multicore-ocaml-gc/)
