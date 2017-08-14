@@ -23,6 +23,8 @@
 1. [How to Evaluate Software Quality from the Outside In](https://www.daedtech.com/evaluate-software-quality-outside/)
 1. [The problems with DynamoDB Auto Scaling and how it might be improved](http://theburningmonk.com/2017/08/the-problems-with-dynamodb-auto-scaling-and-how-it-might-be-improved/)
 1. [Why I’m dumping Firebase for Web?](https://lugassy.net/why-im-dumping-firebase-for-web-cd64a78cb43e)
+1. [Principles of Sharding for Relational Databases](https://dzone.com/articles/principles-of-sharding-for-relational-databases)
+1. [The Open API Initiative Announces the OpenAPI Specification 3.0.0](https://www.infoq.com/news/2017/08/open-api-3.0-release)
 
 ## Programming Languages
 
