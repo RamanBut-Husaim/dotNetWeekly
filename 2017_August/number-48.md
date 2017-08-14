@@ -7,6 +7,7 @@
 1. [Don't Take Security Advice from SEO Experts or Psychics](https://www.troyhunt.com/dont-take-security-advice-from-seo-experts-or-psychics-neil-patel/)
 1. [.NET and WebAssembly - Is this the future of the front-end?](https://www.hanselman.com/blog/NETAndWebAssemblyIsThisTheFutureOfTheFrontend.aspx)
 1. [ASP.NET Core, response compression, response buffering and subtle difference between .NET Framework and .NET Core](https://www.tpeczek.com/2017/08/aspnet-core-response-compression.html)
+1. [Many-faced threats to Serverless security](http://theburningmonk.com/2017/08/many-faced-threats-to-serverless-security/)
 
 ## Tooling & Libraries
 
@@ -21,6 +22,7 @@
 1. [Web Applications with ASP.NET Core Architecture and Patterns guidance](https://blogs.msdn.microsoft.com/dotnet/2017/08/09/web-apps-aspnetcore-architecture-guidance/)
 1. [How to Evaluate Software Quality from the Outside In](https://www.daedtech.com/evaluate-software-quality-outside/)
 1. [The problems with DynamoDB Auto Scaling and how it might be improved](http://theburningmonk.com/2017/08/the-problems-with-dynamodb-auto-scaling-and-how-it-might-be-improved/)
+1. [Why I’m dumping Firebase for Web?](https://lugassy.net/why-im-dumping-firebase-for-web-cd64a78cb43e)
 
 ## Programming Languages
 
@@ -43,3 +45,6 @@
 1. [Unreasonable Effectiveness of Profilers](http://aras-p.info/blog/2017/08/08/Unreasonable-Effectiveness-of-Profilers/)
 1. [Akka.NET has Joined the .NET Foundation](https://petabridge.com/blog/akkdotnet-dotnet-foundation/)
 1. [DevOps Self Assessment from DORA, ITRev and MS](https://blogs.msdn.microsoft.com/devops/2017/08/11/devops-self-assessment-from-dora-itrev-and-ms/)
+1. [The Tech Lead’s New Project Checklist](https://insimpleterms.blog/2017/08/07/the-tech-leads-new-project-checklist/)
+1. [Why Github can't host the Linux Kernel Community](http://blog.ffwll.ch/2017/08/github-why-cant-host-the-kernel.html)
+1. [О книге Джона Сонмеза “The Complete Software Developer’s Career Guide”](http://sergeyteplyakov.blogspot.com.by/2017/08/about-complete-software-developers.html)
