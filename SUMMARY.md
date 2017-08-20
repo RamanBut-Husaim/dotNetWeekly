@@ -63,3 +63,4 @@
     + [August](2017_August/README.md)
         + [.NET Weekly #47](2017_August/number-47.md)
         + [.NET Weekly #48](2017_August/number-48.md)
+        + [.NET Weekly #49](2017_August/number-49.md)
