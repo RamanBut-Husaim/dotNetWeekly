@@ -2,6 +2,9 @@
 
 ## Cloud & Web
 
+1. [Migrating from ASP.NET Core 1.x to ASP.NET Core 2.0](https://docs.microsoft.com/en-us/aspnet/core/migration/1x-to-2x/)
+1. [Announcing ASP.NET Core 2.0](https://blogs.msdn.microsoft.com/webdev/2017/08/14/announcing-asp-net-core-2-0/)
+
 ## Tooling & Libraries
 
 ## Architecture & Databases
@@ -14,6 +17,7 @@
 ## Runtime
 
 1. [Analyzing runtime CoreCLR events from Linux – Trace Compass](http://tooslowexception.com/analyzing-runtime-coreclr-events-from-linux-trace-compass/)
+1. [Announcing .NET Core 2.0](https://blogs.msdn.microsoft.com/dotnet/2017/08/14/announcing-net-core-2-0/)
 
 ## Other
 
