@@ -23,6 +23,8 @@
 1. [Visual Studio Toolbox - Design Patterns - Adapter and Façade](https://blogs.msdn.microsoft.com/robertgreen/2017/08/15/visual-studio-toolbox-design-patterns-adapterfacade/)
 1. [Visual Studio Toolbox - Design Patterns - Decorator](https://blogs.msdn.microsoft.com/robertgreen/2017/08/17/visual-studio-toolbox-design-patterns-decorator/)
 1. [Plans for partitioning in PostgreSQL v11](http://rhaas.blogspot.com.by/2017/08/plans-for-partitioning-in-v11.html)
+1. [Driving Architectural Simplicity - The Value, Challenge, and Practice of Simple Solutions](https://www.infoq.com/articles/driving-architectural-simplicity)
+1. [Distributed Schedulers with Microservice Architectures](https://www.infoq.com/news/2017/08/distributed-scheduler-hell)
 
 ## Programming Languages
 
