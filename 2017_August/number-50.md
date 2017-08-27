@@ -46,3 +46,4 @@
 1. [LLVM has Documented the PDB Format, Complete with PDB to YAML Conversion](https://www.infoq.com/news/2017/08/LLVM-PDB)
 1. [Microsoft researchers achieve new conversational speech recognition milestone](https://www.microsoft.com/en-us/research/blog/microsoft-researchers-achieve-new-conversational-speech-recognition-milestone/)
 1. [Microsoft unveils Project Brainwave for real-time AI](https://www.microsoft.com/en-us/research/blog/microsoft-unveils-project-brainwave/)
+1. [OCaml - New implementation of Git](https://github.com/mirage/ocaml-git/pull/227)
