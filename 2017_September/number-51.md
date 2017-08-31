@@ -12,6 +12,8 @@
 
 ## Architecture & Databases
 
+1. [React+Redux at Scale](https://www.infoq.com/presentations/react-redux-scale)
+
 ## Programming Languages
 
 1. [The Builder functor](http://blog.ploeh.dk/2017/08/28/the-builder-functor/)
