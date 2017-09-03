@@ -23,6 +23,7 @@
 1. [Getting Started with Behavior-Driven Development](https://www.daedtech.com/getting-started-behavior-driven-development/)
 1. [Five sharding data models and which is right](https://www.citusdata.com/blog/2017/08/28/five-data-models-for-sharding/)
 1. [From Lambda to Kappa - A Guide on Real-Time Big Data Architectures](https://dzone.com/articles/from-lambda-to-kappa-a-guide-on-real-time-big-data)
+1. [Serverless Architectures](https://www.infoq.com/presentations/serverless-introduction)
 
 ## Programming Languages
 
