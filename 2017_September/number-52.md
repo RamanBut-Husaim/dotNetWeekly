@@ -6,6 +6,7 @@
 
 1. [Rider 2017.2 EAP brings .NET Core 2.0, MSTest, and more](https://blog.jetbrains.com/dotnet/2017/09/04/rider-2017-2-eap-brings-net-core-2-0-mstest/)
 1. [Orleans v1.5.1 is out](https://github.com/dotnet/orleans/releases/tag/v1.5.1)
+1. [T4MVC and R4MVC - Roslyn code generators for ASP.NET Core tag helpers](https://www.hanselman.com/blog/T4MVCAndR4MVCRoslynCodeGeneratorsForASPNETCoreTagHelpers.aspx)
 
 ## Architecture & Databases
 
@@ -19,3 +20,5 @@
 1. [Managed object internals, Part 2. Object header layout and the cost of locking](https://blogs.msdn.microsoft.com/seteplia/2017/09/06/managed-object-internals-part-2-object-header-layout-and-the-cost-of-locking/)
 
 ## Other
+
+1. [Cloud Database? NoSQL? Nah, just use CSVs and CsvHelper](https://www.hanselman.com/blog/CloudDatabaseNoSQLNahJustUseCSVsAndCsvHelper.aspx)
