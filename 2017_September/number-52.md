@@ -24,6 +24,7 @@
 1. [Scalable Chatbot Architecture with eBay ShopBot](https://www.infoq.com/presentations/ebay-shopbot)
 1. [Why We Chose Aerospike Over Other Databases](https://crowdfire.engineering/why-we-chose-aerospike-over-other-databases-1dfa2d66a292)
 1. [Unit Testing - Basics and Best Practices](https://www.daedtech.com/unit-testing-basics-best-practices/)
+1. [Tarantool vs. Redis - In-Memory Databases Face Off](https://dzone.com/articles/tarantool-v-redis-in-memory-databases-face-off)
 
 ## Programming Languages
 
