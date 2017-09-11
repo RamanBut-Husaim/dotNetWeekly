@@ -12,6 +12,8 @@
 1. [Orleans v1.5.1 is out](https://github.com/dotnet/orleans/releases/tag/v1.5.1)
 1. [T4MVC and R4MVC - Roslyn code generators for ASP.NET Core tag helpers](https://www.hanselman.com/blog/T4MVCAndR4MVCRoslynCodeGeneratorsForASPNETCoreTagHelpers.aspx)
 1. [VS Code 1.16 is out](https://code.visualstudio.com/updates/v1_16)
+1. [Announcing Yarn 1.0](https://code.facebook.com/posts/274518539716230/announcing-yarn-1-0)
+1. [Experiments in Open Source - Exploring vcr-sharp for Http record and playback](https://www.hanselman.com/blog/ExperimentsInOpenSourceExploringVcrsharpForHttpRecordAndPlayback.aspx)
 
 ## Architecture & Databases
 
@@ -22,6 +24,7 @@
 
 1. [C# 7.1 - Everything You Need To Know](https://www.danielcrabtree.com/blog/329/c-sharp-7-1-everything-you-need-to-know)
 1. [Builder as Identity](http://blog.ploeh.dk/2017/09/04/builder-as-identity/)
+1. [Exploring F# for Domain Driven Design](https://medium.com/@erik.sacre/exploring-f-for-domain-driven-design-2ce7f0ae94e2)
 
 ## Runtime
 
@@ -34,3 +37,4 @@
 1. [Cloud Database? NoSQL? Nah, just use CSVs and CsvHelper](https://www.hanselman.com/blog/CloudDatabaseNoSQLNahJustUseCSVsAndCsvHelper.aspx)
 1. [C++17 is formally approved](https://www.reddit.com/r/coding/comments/6ynwxg/c17_is_formally_approved/)
 1. [Everything It Takes to Self-Host a Ghost Blog with DigitalOcean](https://exceptionnotfound.net/everything-it-takes-to-self-host-a-ghost-blog-with-digitalocean/)
+1. [How Facebook Achieves Rapid Release at Massive Scale](https://www.infoq.com/news/2017/09/facebook-release-scale)
