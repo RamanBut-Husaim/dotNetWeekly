@@ -12,6 +12,7 @@
 1. [Ionide 3.0 released](https://github.com/ionide/ionide-vscode-fsharp/blob/master/release/CHANGELOG.md)
 1. [MSBuild Major performance improvements](https://github.com/Microsoft/msbuild/pull/2513)
 1. [Announcing Orleans 2.0 Tech Preview 3](https://blogs.msdn.microsoft.com/orleans/2017/09/13/announcing-orleans-2-0-tech-preview-3/)
+1. [Fable 1.2 Announced along with First FableConf](https://www.infoq.com/news/2017/09/fable-12-released-fableconf)
 
 ## Architecture & Databases
 
@@ -19,6 +20,7 @@
 1. [Betting on Riak - bet365’s acquisition and its consequences for the product](http://www.igamingbusiness.com/press/betting-riak-bet365-s-acquisition-and-its-consequences-product)
 1. [Multiple Perspectives On Technical Problems and Solutions](https://www.kitchensoap.com/2017/08/12/multiple-perspectives-on-technical-problems-and-solutions/)
 1. [Yet Another Evil Suffix For Object Names - Client](http://www.yegor256.com/2017/09/12/evil-object-name-suffix-client.html)
+1. [Resilient Functional Service Design](https://www.infoq.com/presentations/resilience-functional-service-design)
 
 ## Programming Languages
 
@@ -36,3 +38,4 @@
 ## Other
 
 1. [A brief overview and history of systemd — the Linux process manager](https://hackernoon.com/a-brief-overview-and-history-of-systemd-the-linux-process-manager-ca508bee4a33)
+1. [NERSC Scales Scientific Deep Learning to 15 Petaflops](https://www.infoq.com/news/2017/09/NERSC-Deep-Learning-15-PFLOPS)
