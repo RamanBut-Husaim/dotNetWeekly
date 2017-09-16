@@ -5,6 +5,7 @@
 1. [.NET Framework 4.7.1 ASP.NET and Configuration features](https://blogs.msdn.microsoft.com/dotnet/2017/09/13/net-framework-4-7-1-asp-net-and-configuration-features/)
 1. [Announcing SignalR for ASP.NET Core 2.0](https://blogs.msdn.microsoft.com/webdev/2017/09/14/announcing-signalr-for-asp-net-core-2-0/)
 1. [How to include scopes when logging exceptions in ASP.NET Core](https://andrewlock.net/how-to-include-scopes-when-logging-exceptions-in-asp-net-core/)
+1. [Using a CDN and Front-End Optimization to Boost Website Performance](https://dzone.com/articles/using-a-cdn-and-front-end-optimization-to-boost-we)
 
 ## Tooling & Libraries
 
@@ -13,6 +14,7 @@
 1. [MSBuild Major performance improvements](https://github.com/Microsoft/msbuild/pull/2513)
 1. [Announcing Orleans 2.0 Tech Preview 3](https://blogs.msdn.microsoft.com/orleans/2017/09/13/announcing-orleans-2-0-tech-preview-3/)
 1. [Fable 1.2 Announced along with First FableConf](https://www.infoq.com/news/2017/09/fable-12-released-fableconf)
+1. [Sublime Text 3.0](https://www.sublimetext.com/blog/articles/sublime-text-3-point-0)
 
 ## Architecture & Databases
 
@@ -21,12 +23,14 @@
 1. [Multiple Perspectives On Technical Problems and Solutions](https://www.kitchensoap.com/2017/08/12/multiple-perspectives-on-technical-problems-and-solutions/)
 1. [Yet Another Evil Suffix For Object Names - Client](http://www.yegor256.com/2017/09/12/evil-object-name-suffix-client.html)
 1. [Resilient Functional Service Design](https://www.infoq.com/presentations/resilience-functional-service-design)
+1. [Migrating from RethinkDB to Postgres — An Experience Report](https://medium.com/fuzzy-sharp/migrating-to-postgres-2dc1519a6dc7)
 
 ## Programming Languages
 
 1. [12 practical ways for executing F# scripts](http://www.codingwithsam.com/12-practical-ways-executing-f-scripts)
 1. [Test data without Builders](http://blog.ploeh.dk/2017/09/11/test-data-without-builders/)
 1. [The design side of programming language design](http://tomasp.net/blog/2017/design-side-of-pl/)
+1. [Flow and TypeScript](https://engineering.tumblr.com/post/165261504692/flow-and-typescript)
 
 ## Runtime
 
@@ -39,3 +43,4 @@
 
 1. [A brief overview and history of systemd — the Linux process manager](https://hackernoon.com/a-brief-overview-and-history-of-systemd-the-linux-process-manager-ca508bee4a33)
 1. [NERSC Scales Scientific Deep Learning to 15 Petaflops](https://www.infoq.com/news/2017/09/NERSC-Deep-Learning-15-PFLOPS)
+1. [Why Dropbox decided to drop AWS and build its own infrastructure and network](https://techcrunch.com/2017/09/15/why-dropbox-decided-to-drop-aws-and-build-its-own-infrastructure-and-network/)
