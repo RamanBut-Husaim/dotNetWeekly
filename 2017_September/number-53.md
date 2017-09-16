@@ -4,6 +4,7 @@
 
 1. [.NET Framework 4.7.1 ASP.NET and Configuration features](https://blogs.msdn.microsoft.com/dotnet/2017/09/13/net-framework-4-7-1-asp-net-and-configuration-features/)
 1. [Announcing SignalR for ASP.NET Core 2.0](https://blogs.msdn.microsoft.com/webdev/2017/09/14/announcing-signalr-for-asp-net-core-2-0/)
+1. [How to include scopes when logging exceptions in ASP.NET Core](https://andrewlock.net/how-to-include-scopes-when-logging-exceptions-in-asp-net-core/)
 
 ## Tooling & Libraries
 
@@ -17,6 +18,7 @@
 1. [Serverless beyond Functions](https://medium.com/cloud-academy-inc/serverless-beyond-functions-cd81ee4c6b8d)
 1. [Betting on Riak - bet365’s acquisition and its consequences for the product](http://www.igamingbusiness.com/press/betting-riak-bet365-s-acquisition-and-its-consequences-product)
 1. [Multiple Perspectives On Technical Problems and Solutions](https://www.kitchensoap.com/2017/08/12/multiple-perspectives-on-technical-problems-and-solutions/)
+1. [Yet Another Evil Suffix For Object Names - Client](http://www.yegor256.com/2017/09/12/evil-object-name-suffix-client.html)
 
 ## Programming Languages
 
@@ -29,6 +31,7 @@
 1. [Managed object internals, Part 3. The layout of a managed array](https://blogs.msdn.microsoft.com/seteplia/2017/09/12/managed-object-internals-part-3-the-layout-of-a-managed-array-3/)
 1. [NET Framework September 2017 Security and Quality Rollup](https://blogs.msdn.microsoft.com/dotnet/2017/09/12/net-framework-september-2017-security-and-quality-rollup/)
 1. [RyuJIT Tutorial](https://github.com/dotnet/coreclr/blob/master/Documentation/botr/ryujit-tutorial.md)
+1. [Mono on WebAssembly status update](http://forums.dotnetfoundation.org/t/mono-on-webassembly-status-update/2776)
 
 ## Other
 
