@@ -17,6 +17,7 @@
 1. [Relicensing React, Jest, Flow, and Immutable.js](https://code.facebook.com/posts/300798627056246/relicensing-react-jest-flow-and-immutable-js)
 1. [What would a cross-platform .NET UI Framework look like? Exploring Avalonia](https://www.hanselman.com/blog/WhatWouldACrossplatformNETUIFrameworkLookLikeExploringAvalonia.aspx)
 1. [The importance of bringing Python to SQL Server](http://www.red-gate.com/blog/building/python-and-sql-server)
+1. [GitLab 10.0 Released with Auto DevOps and Group Issue Boards](https://about.gitlab.com/2017/09/22/gitlab-10-0-released/)
 
 ## Architecture & Databases
 
@@ -24,6 +25,7 @@
 1. [Server-Sent Events broadcasting in load balancing scenario with Redis](https://www.tpeczek.com/2017/09/server-sent-events-or-websockets.html)
 1. [Overcoming the Challenges of Microservices and Docker Containerisation](https://www.red-gate.com/simple-talk/sysadmin/containerization/overcoming-challenges-microservices-docker-containerisation/)
 1. [The Ten Essentials for Good API Documentation](https://alistapart.com/article/the-ten-essentials-for-good-api-documentation)
+1. [New in postgres 10](https://wiki.postgresql.org/wiki/New_in_postgres_10)
 
 ## Programming Languages
 
