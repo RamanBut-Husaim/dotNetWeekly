@@ -70,3 +70,4 @@
         + [.NET Weekly #52](2017_September/number-52.md)
         + [.NET Weekly #53](2017_September/number-53.md)
         + [.NET Weekly #54](2017_September/number-54.md)
+        + [.NET Weekly #55](2017_September/number-55.md)
