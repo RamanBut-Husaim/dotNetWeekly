@@ -24,6 +24,7 @@
 1. [Invited article in IEEE Software – Technical Debt Challenges and Perspectives](https://www.kitchensoap.com/2017/09/26/invited-article-in-ieee-software-technical-debt-challenges-and-perspectives/)
 1. [How Much Unit Testing is Enough?](https://www.daedtech.com/unit-testing-enough/)
 1. [Cloud SOLID Part II - Cloud Architecture and the Open/Closed Principle](https://blogs.msdn.microsoft.com/azurecat/2017/09/28/cloud-solid-part-ii-cloud-architecture-and-the-openclosed-principle/)
+1. [PostgreSQL's Hash Indexes Are Now Cool](http://rhaas.blogspot.com.by/2017/09/postgresqls-hash-indexes-are-now-cool.html)
 
 ## Programming Languages
 
@@ -40,3 +41,8 @@
 1. [It Is Time For Time Travel](https://aloiskraus.wordpress.com/2017/09/26/it-is-time-for-time-travel/)
 
 ## Other
+
+1. [Project Jigsaw - Complete](https://mreinhold.org/blog/jigsaw-complete)
+1. [Open Sourcing Vespa, Yahoo’s Big Data Processing and Serving Engine](https://www.oath.com/press/open-sourcing-vespa-yahoo-s-big-data-processing-and-serving-eng/)
+1. [It’s time to give Firefox another chance](https://techcrunch.com/2017/09/29/its-time-to-give-firefox-another-chance/)
+1. [Apple open sources iOS kernel](https://github.com/apple/darwin-xnu?)
