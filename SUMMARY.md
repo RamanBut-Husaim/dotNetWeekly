@@ -71,3 +71,5 @@
         + [.NET Weekly #53](2017_September/number-53.md)
         + [.NET Weekly #54](2017_September/number-54.md)
         + [.NET Weekly #55](2017_September/number-55.md)
+    + [October](2017_October/README.md)
+        + [.NET Weekly #56](2017_October/number-56.md)
