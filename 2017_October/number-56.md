@@ -6,6 +6,7 @@
 1. [Cutting Edge - Policy-Based Authorization in ASP.NET Core](https://msdn.microsoft.com/magazine/mt826337)
 1. [Optimizing web servers for high throughput and low latency](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
 1. [An introduction to Azure Web Apps on Linux](https://www.red-gate.com/simple-talk/cloud/platform-as-a-service/introduction-azure-web-apps-linux/)
+1. [Introducing NNVM Compiler - A New Open End-to-End Compiler for AI Frameworks](https://aws.amazon.com/blogs/ai/introducing-nnvm-compiler-a-new-open-end-to-end-compiler-for-ai-frameworks/)
 
 ## Tooling & Libraries
 
@@ -19,11 +20,11 @@
 
 1. [Google Announces Firestore, a Document Database](https://www.infoq.com/news/2017/10/google-firestore)
 1. [Inside Microsoft Azure datacenter hardware and software architecture](https://www.youtube.com/watch?v=sOw8On1iCa4)
-1. [Foreword to Building Evolutionary Architectures](https://martinfowler.com/articles/evo-arch-forward.html)
 1. [Composite UIs for Microservices - Server Composition](https://jimmybogard.com/composite-uis-for-microservices-server-composition/)
 1. [SQL Server Coming in on Another Platform](https://www.red-gate.com/simple-talk/opinion/editorials/sql-server-coming-another-platform/)
 1. [Three Historical Definitions of the Open/Closed Principle and a Claim that it’s Pointless](https://www.cafe-encounter.net/p2158/three-historical-definitions-of-the-openclosed-principle-and-a-claim-that-its-pointless#gsc.tab=0)
 1. [Domain events - simple and reliable solution](http://enterprisecraftsmanship.com/2017/10/03/domain-events-simple-and-reliable-solution/)
+1. [Streams - a new general purpose data structure in Redis](http://antirez.com/news/114)
 
 ## Programming Languages
 
@@ -43,3 +44,8 @@
 1. [ResolveAssemblyReference](https://github.com/Microsoft/MSBuild/wiki/ResolveAssemblyReference)
 
 ## Other
+
+1. [A Large-Scale Study of Programming Languages and Code Quality in GitHub](https://cacm.acm.org/magazines/2017/10/221326-a-large-scale-study-of-programming-languages-and-code-quality-in-github/fulltext)
+1. [Diminishing returns of static typing](https://blog.merovius.de/2017/09/12/diminishing-returns-of-static-typing.html)
+1. [Foreword to Building Evolutionary Architectures](https://martinfowler.com/articles/evo-arch-forward.html)
+1. [PostgreSQL 10 Released](https://www.postgresql.org/about/news/1786/)
