@@ -13,6 +13,7 @@
 1. [Red Hat adds Go, Clang/LLVM, Rust compiler toolsets, updates GCC](https://developers.redhat.com/blog/2017/10/04/red-hat-adds-go-clangllvm-rust-compiler-toolsets-updates-gcc/)
 1. [VSCode 1.17](https://code.visualstudio.com/updates/v1_17)
 1. [IdentityServer4 v2](https://leastprivilege.com/2017/10/06/identityserver4-v2/)
+1. [Hands-free Security Scanning within .NET Applications](http://rion.io/2017/10/02/hands-free-security-scanning-within-net-applications/)
 
 ## Architecture & Databases
 
@@ -21,6 +22,8 @@
 1. [Foreword to Building Evolutionary Architectures](https://martinfowler.com/articles/evo-arch-forward.html)
 1. [Composite UIs for Microservices - Server Composition](https://jimmybogard.com/composite-uis-for-microservices-server-composition/)
 1. [SQL Server Coming in on Another Platform](https://www.red-gate.com/simple-talk/opinion/editorials/sql-server-coming-another-platform/)
+1. [Three Historical Definitions of the Open/Closed Principle and a Claim that it’s Pointless](https://www.cafe-encounter.net/p2158/three-historical-definitions-of-the-openclosed-principle-and-a-claim-that-its-pointless#gsc.tab=0)
+1. [Domain events - simple and reliable solution](http://enterprisecraftsmanship.com/2017/10/03/domain-events-simple-and-reliable-solution/)
 
 ## Programming Languages
 
