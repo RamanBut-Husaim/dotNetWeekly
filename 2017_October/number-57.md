@@ -16,6 +16,7 @@
 1. [GitHub Introduces Dependency Graph and Security Alerts](https://www.infoq.com/news/2017/10/github-dependency-graph-security)
 1. [JetBrains Rider 2017.2 is released](https://blog.jetbrains.com/dotnet/2017/10/12/jetbrains-rider-2017-2-released/)
 1. [SAML2p Identity Provider Support for IdentityServer4](https://leastprivilege.com/2017/10/13/saml2p-identity-provider-support-for-identityserver4/)
+1. [Visual Studio 2017 Version 15.4 Released](https://blogs.msdn.microsoft.com/visualstudio/2017/10/10/visual-studio-2017-version-15-4-released/)
 
 ## Architecture & Databases
 
@@ -23,6 +24,8 @@
 1. [Event-Driven Architecture](https://herbertograca.com/2017/10/05/event-driven-architecture/)
 1. [Intel Optane SSDs and Aerospike Database - a New Level of Fast in Operational Stores for Hybrid Transactional Analytical Processing](https://www.aerospike.com/blog/intel-optanetm-ssds-aerospike-database-new-level-fast-operational-stores-hybrid-transactionalanalytical-processing/)
 1. [Composite UIs for Microservices - Data Composition](https://jimmybogard.com/composite-uis-for-microservices-data-composition/)
+1. [Choosing Between Containers and Virtual Machines](https://www.wintellect.com/choosing-containers-virtual-machines/)
+1. [3 ways to avoid an anemic domain model in EF Core](https://www.devtrends.co.uk/blog/3-ways-to-avoid-an-anemic-domain-model-in-ef-core)
 
 ## Programming Languages
 
@@ -30,6 +33,7 @@
 1. [Streams vs. Decorators](http://www.yegor256.com/2017/10/10/streams-vs-decorators.html)
 1. [Analysing C# code on GitHub with BigQuery](http://mattwarren.org/2017/10/12/Analysing-C-code-on-GitHub-with-BigQuery/)
 1. [Announcing TypeScript 2.6 RC](https://blogs.msdn.microsoft.com/typescript/2017/10/12/announcing-typescript-2-6-rc/)
+1. [Avoiding the NullReferenceException](https://codeopinion.com/avoiding-nullreferenceexception/)
 
 ## Runtime
 
