@@ -5,6 +5,8 @@
 1. [Remove dependency from JSON.NET](https://github.com/dotnet/core-setup/issues/3311)
 1. [Kestrel took a pretty bad perf hit when switching the default transport to sockets](https://msit.powerbi.com/view?r=eyJrIjoiYTZjMTk3YjEtMzQ3Yi00NTI5LTg5ZDItNmUyMGRlOTkwMGRlIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9)
 1. [HolyJit - A New Hope](https://blog.mozilla.org/javascript/2017/10/20/holyjit-a-new-hope/)
+1. [Secure your ASP.NET Core 2.0 API (part 1 - issuing a JWT)](https://jonhilton.net/2017/10/11/secure-your-asp.net-core-2.0-api-part-1---issuing-a-jwt/)
+1. [The 6-Step "Happy Path" to HTTPS](https://www.troyhunt.com/the-6-step-happy-path-to-https/)
 
 ## Tooling & Libraries
 
