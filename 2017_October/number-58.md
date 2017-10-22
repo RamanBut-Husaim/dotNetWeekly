@@ -22,6 +22,7 @@
 1. [From CQS to CQRS](https://herbertograca.com/2017/10/19/from-cqs-to-cqrs/)
 1. [Even More SQL Server Features that Time Forgot](https://www.red-gate.com/simple-talk/sql/data-platform/even-sql-server-features-time-forgot/)
 1. [Simple SQL - Handling Location Datatypes](https://www.red-gate.com/simple-talk/sql/t-sql-programming/simple-sql-handling-location-datatypes/)
+1. [Developer Experience Lessons Operating a Serverless-like Platform At Netflix — Part II](https://medium.com/netflix-techblog/developer-experience-lessons-operating-a-serverless-like-platform-at-netflix-part-ii-63a376c28228)
 
 ## Programming Languages
 
@@ -40,3 +41,4 @@
 1. [Open-sourcing RacerD - Fast static race detection at scale](https://code.facebook.com/posts/293371094514305/open-sourcing-racerd-fast-static-race-detection-at-scale)
 1. [The Ultimate .NET Experiment – open source project](http://tooslowexception.com/the-ultimate-net-experiment-project/)
 1. [An update and retrospective on Serilog file logging](https://nblumhardt.com/2017/10/serilog-file-logging/)
+1. [Browser security beyond sandboxing](https://blogs.technet.microsoft.com/mmpc/2017/10/18/browser-security-beyond-sandboxing/)
