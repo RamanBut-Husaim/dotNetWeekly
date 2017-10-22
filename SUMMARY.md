@@ -74,3 +74,4 @@
     + [October](2017_October/README.md)
         + [.NET Weekly #56](2017_October/number-56.md)
         + [.NET Weekly #57](2017_October/number-57.md)
+        + [.NET Weekly #58](2017_October/number-58.md)
