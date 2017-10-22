@@ -11,11 +11,16 @@
 1. [HashiCorp Consul 1.0](https://www.hashicorp.com/blog/hashicorp-consul-1-0)
 1. [REST Client for VS Code, an elegant alternative to Postman](http://josephwoodward.co.uk/2017/10/rest-%20client-for-vs-code-an-elegant-alternative-postman)
 1. [Update on Microsoft’s Symbol Server](https://blogs.msdn.microsoft.com/windbg/2017/10/18/update-on-microsofts-symbol-server/)
+1. [Running tests with dotnet xunit using Cake](https://andrewlock.net/running-tests-with-dotnet-xunit-using-cake/)
+1. [Announcing the Terraform Recommended Practices Guide](https://www.hashicorp.com/blog/announcing-terraform-recommended-practices)
 
 ## Architecture & Databases
 
 1. [GitHub's GraphQL Future](https://www.infoq.com/presentations/github-graphql)
 1. [Aerospike Database Takes a Major Step to Transform Enterprise Systems of Engagement](https://www.aerospike.com/press-releases/aerospike-database-takes-major-step-transform-enterprise-soe/)
+1. [From CQS to CQRS](https://herbertograca.com/2017/10/19/from-cqs-to-cqrs/)
+1. [Even More SQL Server Features that Time Forgot](https://www.red-gate.com/simple-talk/sql/data-platform/even-sql-server-features-time-forgot/)
+1. [Simple SQL - Handling Location Datatypes](https://www.red-gate.com/simple-talk/sql/t-sql-programming/simple-sql-handling-location-datatypes/)
 
 ## Programming Languages
 
@@ -29,3 +34,6 @@
 1. [DotNetAnywhere - An Alternative .NET Runtime](http://mattwarren.org/2017/10/19/DotNetAnywhere-an-Alternative-.NET-Runtime/)
 
 ## Other
+
+1. [Open-sourcing RacerD - Fast static race detection at scale](https://code.facebook.com/posts/293371094514305/open-sourcing-racerd-fast-static-race-detection-at-scale)
+1. [The Ultimate .NET Experiment – open source project](http://tooslowexception.com/the-ultimate-net-experiment-project/)
