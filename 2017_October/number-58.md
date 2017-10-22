@@ -13,6 +13,7 @@
 1. [Update on Microsoft’s Symbol Server](https://blogs.msdn.microsoft.com/windbg/2017/10/18/update-on-microsofts-symbol-server/)
 1. [Running tests with dotnet xunit using Cake](https://andrewlock.net/running-tests-with-dotnet-xunit-using-cake/)
 1. [Announcing the Terraform Recommended Practices Guide](https://www.hashicorp.com/blog/announcing-terraform-recommended-practices)
+1. [Introducing Gluon - a new library for machine learning from AWS and Microsoft](https://aws.amazon.com/blogs/aws/introducing-gluon-a-new-library-for-machine-learning-from-aws-and-microsoft/)
 
 ## Architecture & Databases
 
@@ -26,6 +27,7 @@
 
 1. [Dissecting the pattern matching in C# 7](https://www.infoq.com/presentations/github-graphql)
 1. [Money monoid](http://blog.ploeh.dk/2017/10/16/money-monoid/)
+1. [Exploring different approaches to building WebAssembly modules](http://blog.scottlogic.com/2017/10/17/wasm-mandelbrot.html)
 
 ## Runtime
 
@@ -37,3 +39,4 @@
 
 1. [Open-sourcing RacerD - Fast static race detection at scale](https://code.facebook.com/posts/293371094514305/open-sourcing-racerd-fast-static-race-detection-at-scale)
 1. [The Ultimate .NET Experiment – open source project](http://tooslowexception.com/the-ultimate-net-experiment-project/)
+1. [An update and retrospective on Serilog file logging](https://nblumhardt.com/2017/10/serilog-file-logging/)
