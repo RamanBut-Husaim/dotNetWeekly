@@ -28,7 +28,7 @@
 
 ## Programming Languages
 
-1. [Dissecting the pattern matching in C# 7](https://www.infoq.com/presentations/github-graphql)
+1. [Dissecting the pattern matching in C# 7](https://blogs.msdn.microsoft.com/seteplia/2017/10/16/dissecting-the-pattern-matching-in-c-7/)
 1. [Money monoid](http://blog.ploeh.dk/2017/10/16/money-monoid/)
 1. [Exploring different approaches to building WebAssembly modules](http://blog.scottlogic.com/2017/10/17/wasm-mandelbrot.html)
 
