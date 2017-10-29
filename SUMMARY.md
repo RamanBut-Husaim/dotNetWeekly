@@ -75,3 +75,4 @@
         + [.NET Weekly #56](2017_October/number-56.md)
         + [.NET Weekly #57](2017_October/number-57.md)
         + [.NET Weekly #58](2017_October/number-58.md)
+        + [.NET Weekly #59](2017_October/number-59.md)
