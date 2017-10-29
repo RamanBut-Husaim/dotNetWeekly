@@ -7,6 +7,7 @@
 1. [.NET Core 2.0 and ASP.NET Core 2.0 are Here](https://weblog.west-wind.com/posts/2017/Oct/22/NET-Core-20-and-ASPNET-20-Core-are-finally-here)
 1. [Cray Supercomputers are coming to Azure](https://azure.microsoft.com/en-us/blog/cray-supercomputers-are-coming-to-azure/)
 1. [Secure your ASP.NET Core 2.0 API (part 2 - restrict access to JWT bearers only)](https://jonhilton.net/security/apis/secure-your-asp.net-core-2.0-api-part-2---jwt-bearer-authentication/)
+1. [Azure Functions Now Support Java](https://www.infoq.com/news/2017/10/azure-functions-java)
 
 ## Tooling & Libraries
 
@@ -29,6 +30,7 @@
 1. [Convex hull monoid](http://blog.ploeh.dk/2017/10/23/convex-hull-monoid/)
 1. [C# 7.2 New Features With Visual Studio 2017](http://www.c-sharpcorner.com/article/c-sharp-7-2-new-features-with-visual-studio-2017/)
 1. [Using operator overloads for concatenating file system paths in CSharp](https://blog.maartenballiauw.be/post/2017/10/26/operator-overloads-concatenate-file-system-path.html)
+1. [Why we used Pony to write Wallaroo](https://blog.wallaroolabs.com/2017/10/why-we-used-pony-to-write-wallaroo/)
 
 ## Runtime
 
