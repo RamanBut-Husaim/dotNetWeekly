@@ -15,7 +15,6 @@
 1. [Moving to real time test discovery in Test Explorer](https://blogs.msdn.microsoft.com/dotnet/2017/10/30/real-time-test-discovery/)
 1. [Fixing the error "Program has more than one entry point defined" for console apps containing xUnit tests](https://andrewlock.net/fixing-the-error-program-has-more-than-one-entry-point-defined-for-console-apps-containing-xunit-tests)
 1. [The VS Code Roadmap 2018](https://github.com/Microsoft/vscode/wiki/Roadmap)
-1. [Introducing API Analyzer](https://blogs.msdn.microsoft.com/dotnet/2017/10/31/introducing-api-analyzer/)
 1. [BenchmarkDotNet v0.10.10](http://aakinshin.net/blog/post/bdn-v0_10_10/)
 1. [NuGet API](https://docs.microsoft.com/en-us/nuget/api/overview)
 1. [Version 5.0.0 of Angular Now Available](https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced)
@@ -40,13 +39,14 @@
 ## Runtime
 
 1. [Dissecting the tuples in C# 7](https://blogs.msdn.microsoft.com/seteplia/2017/11/01/dissecting-the-tuples-in-c-7/)
+1. [Introducing API Analyzer](https://blogs.msdn.microsoft.com/dotnet/2017/10/31/introducing-api-analyzer/)
 
 ## Other
 
 1. [The end of the cloud is coming](https://venturebeat.com/2017/11/04/the-end-of-the-cloud-is-coming/)
 1. [Blockchain Just Became Obsolete. The Future is Hashgraph](https://squawker.org/technology/blockchain-just-became-obsolete-the-future-is-hashgraph/)
 1. [The Web began dying in 2014, here's how](https://staltz.com/the-web-began-dying-in-2014-heres-how.html)
-1. [Pleco - Creating A Chess Engine With Rust](https://sfleischman105.github.io/2017/10/26/creating-a-chess-engine.html)
 1. [Stack Overflow Developer Desktop Build - 2017](https://nickcraver.com/desktop-build/)
 1. [The bare minimum a distributed system developer should know about - networking](https://ayende.com/blog/180386/the-bare-minimum-a-distributed-system-developer-should-know-about-networking)
 1. [The bare minimum a distributed system developer should know about - transport level security](https://ayende.com/blog/180387/the-bare-minimum-a-distributed-system-developer-should-know-about-transport-level-security)
+1. [An HTTP Status Code for Indicating Hints](https://datatracker.ietf.org/doc/draft-ietf-httpbis-early-hints/)
