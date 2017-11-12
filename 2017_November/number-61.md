@@ -4,6 +4,10 @@
 
 1. [The GraphQL stack - How everything fits together](https://dev-blog.apollodata.com/the-graphql-stack-how-everything-fits-together-35f8bf34f841)
 1. [Deploying IPv6 in Dropbox Edge Network](https://blogs.dropbox.com/tech/2017/11/deploying-ipv6-in-dropbox-edge-network/)
+1. [Handling conditional requests in ASP.NET Core MVC](https://www.tpeczek.com/2017/11/handling-conditional-requests-in-aspnet.html)
+1. [Auditing with EF Core and Sql Server – Part 1 - Temporal tables](http://blog.bennymichielsen.be/2017/11/07/auditing-with-ef-core-and-sql-server-part-1/)
+1. [Ten Extras for Great API Documentation](https://alistapart.com/article/ten-extras-for-great-api-documentation)
+1. [EF Core Multi-Tenancy - Query Filter](https://codeopinion.com/ef-core-multi-tenancy-query-filter/)
 
 ## Tooling & Libraries
 
@@ -26,6 +30,8 @@
 ## Programming Languages
 
 1. [Function monoids](http://blog.ploeh.dk/2017/11/06/function-monoids/)
+1. [ES proposal - import.meta – module metadata](http://2ality.com/2017/11/import-meta.html)
+1. [.NET IL Generation - Writing DeepCopy](https://reubenbond.github.io/posts/codegen-2-il-boogaloo)
 
 ## Runtime
 
@@ -41,3 +47,4 @@
 1. [The bare minimum a distributed system developer should know about - Certificates](https://ayende.com/blog/180388/the-bare-minimum-a-distributed-system-developer-should-know-about-certificates)
 1. [The bare minimum a distributed system developer should know - DNS](https://ayende.com/blog/180417/the-bare-minimum-a-distributed-system-developer-should-know-about-dns)
 1. [Five Features to Make Java Even Better](http://www.yegor256.com/2017/11/07/five-new-java-features.html)
+1. [Accelerating the adoption of enterprise blockchain](https://azure.microsoft.com/en-us/blog/accelerating-the-adoption-of-enterprise-blockchain/)
