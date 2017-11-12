@@ -8,6 +8,7 @@
 1. [Auditing with EF Core and Sql Server – Part 1 - Temporal tables](http://blog.bennymichielsen.be/2017/11/07/auditing-with-ef-core-and-sql-server-part-1/)
 1. [Ten Extras for Great API Documentation](https://alistapart.com/article/ten-extras-for-great-api-documentation)
 1. [EF Core Multi-Tenancy - Query Filter](https://codeopinion.com/ef-core-multi-tenancy-query-filter/)
+1. [Simple React Patterns](http://lucasmreis.github.io/blog/simple-react-patterns/)
 
 ## Tooling & Libraries
 
@@ -32,6 +33,7 @@
 1. [Function monoids](http://blog.ploeh.dk/2017/11/06/function-monoids/)
 1. [ES proposal - import.meta – module metadata](http://2ality.com/2017/11/import-meta.html)
 1. [.NET IL Generation - Writing DeepCopy](https://reubenbond.github.io/posts/codegen-2-il-boogaloo)
+1. [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon)
 
 ## Runtime
 
@@ -48,3 +50,4 @@
 1. [The bare minimum a distributed system developer should know - DNS](https://ayende.com/blog/180417/the-bare-minimum-a-distributed-system-developer-should-know-about-dns)
 1. [Five Features to Make Java Even Better](http://www.yegor256.com/2017/11/07/five-new-java-features.html)
 1. [Accelerating the adoption of enterprise blockchain](https://azure.microsoft.com/en-us/blog/accelerating-the-adoption-of-enterprise-blockchain/)
+1. [Edge Computing — The New Frontier of the Web](https://hackernoon.com/edge-computing-a-beginners-guide-8976b6886481)
