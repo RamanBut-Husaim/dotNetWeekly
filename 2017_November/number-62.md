@@ -27,6 +27,7 @@
 1. [Soft Real-time, Fault Tolerant and Scalable E-Commerce Transaction Platform at redBus powered by Erlang/OTP](https://medium.com/redbus-in/soft-real-time-fault-tolerant-and-scalable-e-commerce-transaction-platform-redbus-powered-by-cf739d3cff57)
 1. [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 1. [5 Low-Impact Strategies to Reduce Software Risk](https://blog.submain.com/reduce-software-risk/)
+1. [ACID transactions in a globally distributed database](https://fauna.com/blog/consistent-transactions-in-a-globally-distributed-database)
 
 ## Programming Languages
 
@@ -53,3 +54,4 @@
 1. [FPGAs Supercharge Computational Performance](https://www.infoq.com/articles/fpga-computational-performance)
 1. [The bare minimum a distributed system developer should know about - HTTPS Negotiation](https://ayende.com/blog/180513/the-bare-minimum-a-distributed-system-developer-should-know-about-https-negotiation?Key=6329dd90-4419-4fbc-b701-7d018491f05b)
 1. [Questions About the GDPR That You Were Too Shy to Ask](https://www.red-gate.com/simple-talk/opinion/opinion-pieces/questions-gdpr-shy-ask/#post-75938-_Toc498426406)
+1. [How Discord Resizes 150 Million Images Every Day with Go and C++](https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d)
