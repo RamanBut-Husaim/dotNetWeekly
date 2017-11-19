@@ -7,6 +7,8 @@
 1. [Upgrading ASP.NET Libraries to .NET Standard](https://www.danielcrabtree.com/blog/347/upgrading-asp-net-libraries-to-net-standard)
 1. [Missing Claims in the ASP.NET Core 2 OpenID Connect Handler?](https://leastprivilege.com/2017/11/15/missing-claims-in-the-asp-net-core-2-openid-connect-handler/)
 1. [Applying principles of chaos engineering to AWS Lambda with latency injection](http://theburningmonk.com/2017/11/applying-principles-of-chaos-engineering-to-aws-lambda-with-latency-injection/)
+1. [Locking Down Your Website Scripts with CSP, Hashes, Nonces and Report URI](https://www.troyhunt.com/locking-down-your-website-scripts-with-csp-hashes-nonces-and-report-uri/)
+1. [Dear Cassandra Developers, welcome to Azure CosmosDB!](https://azure.microsoft.com/en-us/blog/dear-cassandra-developers-welcome-to-azure-cosmosdb/)
 
 ## Tooling & Libraries
 
@@ -17,12 +19,14 @@
 1. [The Latest in Developer Productivity and App Experiences](https://blogs.msdn.microsoft.com/visualstudio/2017/11/15/the-latest-in-developer-productivity-and-app-experiences/)
 1. [Announcing F# support for .NET Core and .NET Standard projects in Visual Studio](https://blogs.msdn.microsoft.com/dotnet/2017/11/15/announcing-f-support-for-net-core-and-net-standard-projects-in-visual-studio/)
 1. [HashiCorp Terraform 0.11](https://www.hashicorp.com/blog/hashicorp-terraform-0-11)
+1. [Introducing security alerts on GitHub](https://github.com/blog/2470-introducing-security-alerts-on-github)
 
 ## Architecture & Databases
 
 1. [Constructors or Static Factory Methods?](http://www.yegor256.com/2017/11/14/static-factory-methods.html)
 1. [Soft Real-time, Fault Tolerant and Scalable E-Commerce Transaction Platform at redBus powered by Erlang/OTP](https://medium.com/redbus-in/soft-real-time-fault-tolerant-and-scalable-e-commerce-transaction-platform-redbus-powered-by-cf739d3cff57)
 1. [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
+1. [5 Low-Impact Strategies to Reduce Software Risk](https://blog.submain.com/reduce-software-risk/)
 
 ## Programming Languages
 
