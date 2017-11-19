@@ -1,0 +1,22 @@
+{
+	"DotNet Weekly Entry Template": {
+		"prefix": "weekly",
+		"body": [
+			"# .NET Weekly #${1:number} (${2:start_date} - ${3:end_date})",
+			"",
+			"## Cloud & Web",
+			"",
+			"## Tooling & Libraries",
+			"",
+			"## Architecture & Databases",
+			"",
+			"## Programming Languages",
+			"",
+			"## Runtime",
+			"",
+			"## Other",
+			""
+		],
+		"description": "DotNet Weekly Entry template"
+	}
+}
