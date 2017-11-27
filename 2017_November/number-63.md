@@ -23,6 +23,7 @@
 1. [User experience design for APIs](https://blog.keras.io/user-experience-design-for-apis.html)
 1. [Software Design Bias](https://codurance.com/2017/11/17/design-bias/)
 1. [Functional Microservices in Real-Time Financials](https://www.youtube.com/watch?v=fnediEWRuyI)
+1. [Monitoring Microservices - A Prediction for 2018](https://www.infoq.com/news/2017/11/monitoring-microservices)
 
 ## Programming Languages
 
