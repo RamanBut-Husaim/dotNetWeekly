@@ -45,3 +45,4 @@
 1. [Kotlin 1.2 Released - Sharing Code between Platforms](https://blog.jetbrains.com/kotlin/2017/11/kotlin-1-2-released/)
 1. [Fixing Those Broken Windows - Dealing with Technical Debt](https://www.red-gate.com/simple-talk/dotnet/net-tools/fixing-broken-windows-dealing-technical-debt/)
 1. [Questions about Data Masking That You Were Too Shy to Ask](https://www.red-gate.com/simple-talk/opinion/opinion-pieces/questions-data-masking-shy-ask/)
+1. [Python 3 Readiness - 345/360 most popular Python packages now support Python 3](http://py3readiness.org/)
