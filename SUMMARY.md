@@ -81,3 +81,4 @@
         + [.NET Weekly #61](2017_November/number-61.md)
         + [.NET Weekly #62](2017_November/number-62.md)
         + [.NET Weekly #63](2017_November/number-63.md)
+        + [.NET Weekly #64](2017_November/number-64.md)
