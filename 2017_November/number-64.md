@@ -23,6 +23,7 @@
 1. [Redis 4.0.3 is out and is a CRITICAL upgrade](https://raw.githubusercontent.com/antirez/redis/4.0/00-RELEASENOTES)
 1. [SQL Server Machine Learning Services – Part 1 Python Basics](https://www.red-gate.com/simple-talk/sql/bi/machine-learning-services-part-1-python/)
 1. [Current State of the NewSQL/NoSQL Cloud Arena](https://www.red-gate.com/simple-talk/cloud/cloud-data/current-state-newsqlnosql-cloud-arena/)
+1. [Build Better GraphQL APIs - Thinking In Graphs](https://graphqlme.com/2017/11/11/build-better-graphql-apis-thinking-in-graphs/)
 
 ## Programming Languages
 
