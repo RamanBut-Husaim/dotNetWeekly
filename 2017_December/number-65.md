@@ -49,3 +49,4 @@
 
 1. [My online teaching story - High Performance Coding with .NET Core and C#](http://kalapos.net/Blog/ShowPost/Udemy_HighPerformance_DotNetCore)
 1. [An Introduction to Blockchain with Mark Russinovich](https://channel9.msdn.com/Blogs/Seth-Juarez/An-Introduction-to-Blockchain-with-Mark-Russinovich)
+1. [Reinventing the FPGA Programming Wheel](https://www.nextplatform.com/2017/11/30/reinventing-fpga-programming-wheel/)
