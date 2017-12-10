@@ -7,18 +7,22 @@
 1. [Amazon Launches a New Message Broker Service in AWS](https://www.infoq.com/news/2017/12/amazon-mq)
 1. [Announcing ONNX 1.0 – An open ecosystem for AI](https://www.microsoft.com/en-us/cognitive-toolkit/blog/2017/12/announcing-onnx-1-0-open-ecosystem-ai)
 1. [Dependency Injection with ASP.NET Core and Couchbase](https://blog.couchbase.com/dependency-injection-aspnet-couchbase/)
+1. [Using Docker Hub to automatically build a Docker image for ASP.NET Core apps](https://andrewlock.net/using-docker-hub-to-automatically-build-a-docker-image-for-asp-net-core-apps/)
 
 ## Tooling & Libraries
 
 1. [Visual Studio 2017 Version 15.5, Visual Studio for Mac Released](https://blogs.msdn.microsoft.com/visualstudio/2017/12/04/visual-studio-2017-version-15-5-visual-studio-for-mac-released/)
 1. [ProcDump-for-Linux](https://github.com/microsoft/procdump-for-linux)
 1. [Introducing the React RFC Process](https://reactjs.org/blog/2017/12/07/introducing-the-react-rfc-process.html)
+1. [Trunk-Based Development or Pull Requests - Why Not Both?](https://jimmybogard.com/trunk-based-development-or-pull-requests-why-not-both/)
 
 ## Architecture & Databases
 
 1. [NIST Publishes Guidelines on Application Container Security](https://www.infoq.com/news/2017/12/nist-container-security)
 1. [DAO is Yet Another OOP Shame](http://www.yegor256.com/2017/12/05/data-access-object.html)
 1. [Couchbase Ecosystem at LinkedIn](https://engineering.linkedin.com/blog/2017/12/couchbase-ecosystem-at-linkedin)
+1. [API Design - The lack of a method was intentional forethought](https://ayende.com/blog/180834/api-design-the-lack-of-a-method-was-intentional-forethought)
+1. [SQL Server Internals - In-Memory OLTP](https://www.red-gate.com/simple-talk/books/sql-books/sql-server-internals-in-memory-oltp/)
 
 ## Programming Languages
 
