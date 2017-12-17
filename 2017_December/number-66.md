@@ -5,6 +5,8 @@
 1. [Why you shouldn't use AWS Elasticsearch Service](http://code972.com/blog/2017/12/111-why-you-shouldnt-use-aws-elasticsearch-service)
 1. [Easy Configuration Binding in ASP.NET Core - revisited](https://weblog.west-wind.com/posts/2017/Dec/12/Easy-Configuration-Binding-in-ASPNET-Core-revisited)
 1. [Setting up a managed container cluster with AKS and Kubernetes in the Azure Cloud running .NET Core in minutes](https://www.hanselman.com/blog/SettingUpAManagedContainerClusterWithAKSAndKubernetesInTheAzureCloudRunningNETCoreInMinutes.aspx)
+1. [WebAssembly, an executable format for the web](https://blog.octo.com/en/webassembly-an-executable-format-for-the-web/)
+1. [Internet protocols are changing](https://blog.apnic.net/2017/12/12/internet-protocols-changing/)
 
 ## Tooling & Libraries
 
@@ -21,6 +23,7 @@
 1. [An argument for functional programming](http://devonburriss.me/argument-for-fp/)
 1. [Microservices Guidance Is Now Available](https://blogs.msdn.microsoft.com/wriju/2017/12/11/microservices-guidance-is-now-available/)
 1. [Publish / Subscribe Messaging in our Ecosystem](https://jeremydmiller.com/2017/12/13/publish-subscribe-messaging-in-our-ecosystem/)
+1. [REST is the new SOAP](https://medium.com/@pakaldebonchamp/rest-is-the-new-soap-97ff6c09896d)
 
 ## Programming Languages
 
@@ -41,3 +44,4 @@
 
 1. [The Case for Learned Index Structures](https://www.arxiv-vanity.com/papers/1712.01208v1/)
 1. [AI for Earth can be a game-changer for our planet](https://blogs.microsoft.com/on-the-issues/2017/12/11/ai-for-earth-can-be-a-game-changer-for-our-planet/)
+1. [GitHub's technology predictions for 2018](https://github.com/blog/2480-github-s-technology-predictions-for-2018)
