@@ -19,6 +19,8 @@
 
 1. [A Five-Step Process for Planning a Rewrite of a Legacy Project](https://exceptionnotfound.net/a-five-step-process-for-planning-a-rewrite-of-a-legacy-project/)
 1. [An argument for functional programming](http://devonburriss.me/argument-for-fp/)
+1. [Microservices Guidance Is Now Available](https://blogs.msdn.microsoft.com/wriju/2017/12/11/microservices-guidance-is-now-available/)
+1. [Publish / Subscribe Messaging in our Ecosystem](https://jeremydmiller.com/2017/12/13/publish-subscribe-messaging-in-our-ecosystem/)
 
 ## Programming Languages
 
@@ -26,11 +28,14 @@
 1. [C# 7 Series, Part 7 - Ref Returns](https://blogs.msdn.microsoft.com/mazhou/2017/12/12/c-7-series-part-7-ref-returns/)
 1. [Build a DeepLearning algorithm from scratch in F# 01 – Logistic Regression with a Neural Network mindset](http://mathieuclerici.com/2017/12/08/build-a-deeplearning-algorithm-from-scratch-in-f-01-logistic-regression-with-a-neural-network-mindset/)
 1. [Using FAKE to automate building MonoGame content](https://markfsharp.wordpress.com/2017/12/16/using-fake-to-automate-building-monogame-content/)
+1. [5 More C# Extension Methods for the Stocking!](https://www.danylkoweb.com/Blog/5-more-c-extension-methods-for-the-stocking-plus-a-bonus-method-for-enums-LL)
 
 ## Runtime
 
 1. [The Case Of NGen.exe Needing 50 GB Of Memory](https://aloiskraus.wordpress.com/2017/12/13/the-case-of-ngen-exe-needing-50-gb-of-memory/)
 1. [How does .NET JIT a method? (also featuring 'Tiered Compilation')](http://mattwarren.org/2017/12/15/How-does-.NET-JIT-a-method-and-Tiered-Compilation/)
+1. [Losing Our Memory](https://rushfrisby.com/losing-our-memory/)
+1. [Are lock and Monitor the same in C#?](http://gunnarpeipman.com/2017/12/lock-monitor/)
 
 ## Other
 
