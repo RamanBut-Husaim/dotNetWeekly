@@ -4,6 +4,12 @@
 
 1. [Azure Functions Get More Scalable and Elastic](https://mikhail.io/2017/12/azure-functions-get-more-scalable-and-elastic/)
 1. [Testing ASP.NET Core MVC web apps in-memory](https://blogs.msdn.microsoft.com/webdev/2017/12/07/testing-asp-net-core-mvc-web-apps-in-memory)
+1. [Five RESTFul Web Design Patterns Implemented in ASP.NET Core 2.0 Part 4 Optimistic Concurrency](https://blog.jeremylikness.com/5-rest-api-designs-in-dot-net-core-4-8ac863e961e4)
+1. [Fixing Data Breaches Part 1 Education](https://www.troyhunt.com/fixing-data-breaches-part-1-education/)
+1. [Fixing Data Breaches Part 2 Data Ownership & Minimisation](https://www.troyhunt.com/fixing-data-breaches-part-2-data-ownership-minimisation/)
+1. [Fixing Data Breaches Part 3 The Ease of Disclosure](https://www.troyhunt.com/fixing-data-breaches-part-3-the-ease-of-disclosure/)
+1. [Fixing Data Breaches Part 4 Bug Bounties](https://www.troyhunt.com/fixing-data-breaches-part-4-bug-bounties/)
+1. [Fixing Data Breaches Part 5 Penalties](https://www.troyhunt.com/fixing-data-breaches-part-5-penalties/)
 
 ## Tooling & Libraries
 
@@ -20,6 +26,7 @@
 1. [5 Novelties in PostgreSQL 10 That Will Make You a Happier Developer](https://10clouds.com/blog/postgresql-10/)
 1. [The married couple component design pattern](https://ayende.com/blog/180898/the-married-couple-component-design-pattern)
 1. [SQL Server Machine Learning Services – Part 2 Python Data Frames](https://www.red-gate.com/simple-talk/sql/bi/sql-server-machine-learning-services-part-2-python-data-frames/)
+1. [Commented Out Code Is Junk In Your Codebase](https://blog.submain.com/commented-out-code-junk-codebase/)
 
 ## Programming Languages
 
@@ -33,6 +40,7 @@
 1. [Windows Inline Function Hooking](https://blog.nettitude.com/uk/windows-inline-function-hooking)
 1. [C# - All About Span - Exploring a New .NET Mainstay](https://msdn.microsoft.com/en-us/magazine/mt814808)
 1. [Devirtualization in .NET Core](https://www.infoq.com/news/2017/12/Devirtualization)
+1. [How Does Task in C# Affect Performance?](https://jeremybytes.blogspot.com.es/2017/12/how-does-task-in-c-affect-performance.html)
 
 ## Other
 
