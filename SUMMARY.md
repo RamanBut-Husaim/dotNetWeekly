@@ -85,3 +85,4 @@
     + [December](2017_December/README.md)
         + [.NET Weekly #65](2017_December/number-65.md)
         + [.NET Weekly #66](2017_December/number-66.md)
+        + [.NET Weekly #67](2017_December/number-67.md)
