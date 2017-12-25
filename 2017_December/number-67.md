@@ -34,6 +34,7 @@
 1. [Quasigroups](http://blog.ploeh.dk/2017/12/18/quasigroups/)
 1. [An introduction to state-based CRDTs](http://bartoszsypytkowski.com/the-state-of-a-state-based-crdts/)
 1. [Dependency Management and Injection (3 + 1 Solutions revisited)](https://robkuz.github.io/Dependency-Management/)
+1. [Reflecting on F# in 2017](https://medium.com/@_cartermp/reflecting-on-f-in-2017-5ac67fb138ff)
 
 ## Runtime
 
@@ -49,3 +50,4 @@
 1. [Open Source .NET – 3 years later](http://mattwarren.org/2017/12/19/Open-Source-.Net-3-years-later)
 1. [Here’s What is Limiting Blockchain Mainstream Use](https://www.infoq.com/news/2017/12/blockchain-challenges)
 1. [The Best (Non-Programming) Podcasts for Developers](https://exceptionnotfound.net/the-best-non-programming-podcasts-for-developers/)
+1. [Ten years in, nobody has come up with a use for blockchain](https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100)
