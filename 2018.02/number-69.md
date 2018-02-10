@@ -16,6 +16,7 @@
 1. [Blazor - a technical introduction](http://blog.stevensanderson.com/2018/02/06/blazor-intro/)
 1. [Visual Studio 2017 version 15.6 - Preview Release Notes](https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2017-preview-relnotes)
 1. [Scalable and Performant ASP.NET Core Web APIs - Load Testing](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-load-testing/)
+1. [Visual Studio Code January 2018 (version 1.20)](https://code.visualstudio.com/updates/v1_20)
 
 ## Architecture & Databases
 
@@ -25,6 +26,7 @@
 1. [Outputting Status In Your T-SQL Code](https://www.red-gate.com/simple-talk/blogs/outputting-status-t-sql-code/)
 1. [Evolving CQRS and Event Sourced Systems](https://www.infoq.com/news/2018/02/evolving-cqrs-event-sourcing)
 1. [8 Things to Monitor During a Software Deployment](https://stackify.com/monitor-software-deployment/)
+1. [Your Database Should Work Like a CDN](https://www.cockroachlabs.com/blog/distributed-database-performance/)
 
 ## Programming Languages
 
@@ -40,6 +42,7 @@
 1. [Be Careful Where You Put GC.SuppressFinalize](https://aloiskraus.wordpress.com/2018/02/08/be-careful-where-you-put-gc-suppressfinalize/)
 1. [Dynamic Tracing of .NET Core Methods](http://blogs.microsoft.co.il/sasha/2018/02/08/dynamic-tracing-of-net-core-methods/)
 1. [Top secret .NET handles – Part 1 – Dependent handles](https://blogs.msdn.microsoft.com/yizhang/2018/02/08/top-secret-net-handles-part-1-dependent-handles/)
+1. [Mono 5.8.0 Release Notes](http://www.mono-project.com/docs/about-mono/releases/5.8.0/)
 
 ## Other
 
