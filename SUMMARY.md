@@ -89,3 +89,4 @@
 + 2018
     + [February](2018.02/README.md)
         + [.NET Weekly #68](2018.02/number-68.md)
+        + [.NET Weekly #69](2018.02/number-69.md)
