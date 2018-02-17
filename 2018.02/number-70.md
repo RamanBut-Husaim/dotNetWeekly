@@ -14,6 +14,8 @@
 1. [Console-based user interface toolkit for .NET applications.](https://github.com/migueldeicaza/gui.cs)
 1. [Web Framework Benchmarks Round 15](https://www.techempower.com/benchmarks)
 1. [Profiling an app on a server. What options do you have?](https://blog.jetbrains.com/dotnet/2018/02/13/profiling-app-server-options/)
+1. [Announcing ASP.NET MVC 5.2.4, Web API 5.2.4, and Web Pages 3.2.4](https://blogs.msdn.microsoft.com/webdev/2018/02/12/announcing-asp-net-mvc-5-2-4-web-api-5-2-4-and-web-pages-3-2-4/)
+1. [Infrastructure as Code](https://blogs.msdn.microsoft.com/mvpawardprogram/2018/02/13/infrastructure-as-code/)
 
 ## Architecture & Databases
 
@@ -25,17 +27,22 @@
 1. [Finding Bounded Contexts Using Domain Storytelling](https://www.infoq.com/news/2018/02/storytelling-domain-contexts)
 1. [Data Consistency in Microservices Using Sagas](https://www.infoq.com/news/2018/02/data-consistency-microservices)
 1. [MongoDB 4.0 to Include Multi-Document Transactions](https://www.infoq.com/news/2018/02/MongoDB-Transactions)
+1. [Using Value Objects to represent technical concerns](http://enterprisecraftsmanship.com/2018/02/15/using-value-objects-represent-technical-concerns/)
 
 ## Programming Languages
 
 1. [Object isomorphisms](http://blog.ploeh.dk/2018/02/12/object-isomorphisms/)
 1. [URL Matching in C#](https://www.red-gate.com/simple-talk/dotnet/c-programming/url-matching-c/)
 1. [The JavaScript Supply Chain Paradox - SRI, CSP and Trust in Third Party Libraries](https://www.troyhunt.com/the-javascript-supply-chain-paradox-sri-csp-and-trust-in-third-party-libraries/)
+1. [Detect and Refactor JavaScript Copy-Paste Code](http://elijahmanor.com/js-copypaste-detect/)
 
 ## Runtime
 
 1. [Add System.IO.Pipelines API](https://github.com/dotnet/corefx/pull/27007)
 1. [One user scenario to rule them all](https://blogs.msdn.microsoft.com/seteplia/2018/02/14/one-user-scenario-to-rule-them-all/)
+1. [Top secret .NET handles - Part 2 - Ref-Counted handles](http://yizhang82.me/ref-counted-handle)
+1. [.NET Framework February 2018 Security and Quality Rollup](https://blogs.msdn.microsoft.com/dotnet/2018/02/13/net-framework-february-2018-security-and-quality-rollup/)
+1. [The mysterious case of the 1 minute pauses](https://blogs.msdn.microsoft.com/remis_world/2018/02/15/the-mysterious-case-of-the-1-minute-pauses/)
 
 ## Other
 
