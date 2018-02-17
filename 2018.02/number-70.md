@@ -7,6 +7,8 @@
 1. [PDF Generation in Azure Functions V2](https://odetocode.com/blogs/scott/archive/2018/02/14/pdf-generation-in-azure-functions-v2.aspx)
 1. [Optimising ASP.NET Core apps in Docker - avoiding manually copying csproj files](https://andrewlock.net/optimising-asp-net-core-apps-in-docker-avoiding-manually-copying-csproj-files)
 1. [AWS Lambda – monolithic functions won’t help you with cold starts](http://theburningmonk.com/2018/02/aws-lambda-monolithic-functions-wont-help-you-with-cold-starts/)
+1. [Discovering Issues with HTTP/2 via Chaos Testing](https://www.twilio.com/blog/2017/10/http2-issues.html)
+1. [Serverless Databases - The Future of Event-Driven Architecture](https://www.simform.com/serverless-databases/)
 
 ## Tooling & Libraries
 
