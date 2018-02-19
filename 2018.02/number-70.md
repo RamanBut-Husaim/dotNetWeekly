@@ -54,3 +54,4 @@
 1. [My Microservices FAQ](https://jimmybogard.com/my-microservices-faq/)
 1. [Memory management as the operating system sees it](https://ayende.com/blog/181825-A/memory-management-as-the-operating-system-sees-it)
 1. [How production engineers support global events on Facebook](https://code.facebook.com/posts/166966743929963/how-production-engineers-support-global-events-on-facebook)
+1. [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/en-us/)
