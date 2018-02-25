@@ -18,6 +18,7 @@
 1. [ZeroFormatter](https://github.com/neuecc/ZeroFormatter)
 1. [Cake - Intellisense improvements in Visual Studio Code](https://cakebuild.net/blog/2018/02/intellisense-improvements)
 1. [Json.NET 11.0 Release 1 - .NET Standard 2.0, JsonConverters, JSON Path and more](http://james.newtonking.com/archive/2018/02/22/json-net-11-0-release-1-net-standard-2-0-jsonconverters-json-path-and-more)
+1. [WebPack 4.0 released](https://github.com/webpack/webpack/releases/tag/v4.0.0)
 
 ## Architecture & Databases
 
