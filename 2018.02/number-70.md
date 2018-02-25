@@ -1,4 +1,4 @@
-# .NET Weekly #70 (12.02 - 28.02)
+# .NET Weekly #70 (12.02 - 18.02)
 
 ## Cloud & Web
 
