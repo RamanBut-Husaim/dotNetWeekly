@@ -33,6 +33,10 @@
 1. [Abstract class isomorphism](http://blog.ploeh.dk/2018/02/19/abstract-class-isomorphism/)
 1. [Prevent accidental passing by reference of reduced expressions when it was not valid originally](https://github.com/dotnet/roslyn/pull/24957)
 1. [Donkey code](https://einarwh.wordpress.com/2017/01/21/donkey-code/)
+1. [Overly defensive programming](https://medium.com/@cvitullo/overly-defensive-programming-e7a1b3d234c2)
+1. [Quick Tips for Better C# Security](https://blog.submain.com/quick-tips-c-security/)
+1. [TypeScript 2.7 - Numeric Separators](https://blog.mariusschulz.com/2018/02/16/typescript-2-7-numeric-separators)
+1. [How to JavaScript in 2018](https://www.telerik.com/blogs/how-to-javascript-in-2018)
 
 ## Runtime
 
@@ -41,6 +45,7 @@
 1. [Possible bug in ValueType.GetHashCode() for fields smaller than 4 bytes](https://github.com/dotnet/coreclr/issues/16427)
 1. [CoreCLR low memory footprint configuration](https://github.com/dotnet/coreclr/issues/16502)
 1. [Allocation-free awaitable async operations with ValueTask<T> and ValueTask](https://github.com/dotnet/corefx/issues/27445)
+1. [The Mysterious UI Hang Which Resolved Itself After 20s](https://aloiskraus.wordpress.com/2018/02/19/the-mysterious-ui-hang-which-resolved-itself-after-20s/)
 
 ## Other
 
