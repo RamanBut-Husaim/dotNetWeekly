@@ -6,6 +6,9 @@
 1. [Migrating Contoso University Example to Razor Pages](https://jimmybogard.com/migrating-contoso-university-example-to-razor-pages/)
 1. [Managing Azure AD Group Claims in ASP.NET Core](https://odetocode.com/blogs/scott/archive/2018/02/21/managing-azure-ad-group-claims-in-asp-net-core.aspx)
 1. [HttpClientFactory in ASP.NET Core 2.1](https://www.stevejgordon.co.uk/introduction-to-httpclientfactory-aspnetcore)
+1. [Accessing Configuration in .NET Core Test Projects](https://weblog.west-wind.com/posts/2018/Feb/18/Accessing-Configuration-in-NET-Core-Test-Projects)
+1. [Gotchas upgrading from IdentityServer 3 to IdentityServer 4](https://andrewlock.net/gotchas-upgrading-from-identityserver-3-to-identityserver-4/)
+1. [Guys, we’re doing pagination wrong…](http://theburningmonk.com/2018/02/guys-were-doing-pagination-wrong/)
 
 ## Tooling & Libraries
 
@@ -21,6 +24,9 @@
 1. [Products Over Projects](https://martinfowler.com/articles/products-over-projects.html)
 1. [Breaking and Mending Compatibility](https://michaelfeathers.silvrback.com/breaking-and-mending-compatibility)
 1. [Managing Data in Microservices](https://www.infoq.com/presentations/microservices-managing-data)
+1. [The False Dichotomy of Monoliths and Microservices](https://jimmybogard.com/the-false-dichotomy-of-monoliths-and-microservices/)
+1. [Integration Tests](https://martinfowler.com/articles/practical-test-pyramid.html#IntegrationTests)
+1. [Contract Tests](https://martinfowler.com/articles/practical-test-pyramid.html#ContractTests)
 
 ## Programming Languages
 
@@ -38,6 +44,9 @@
 
 ## Other
 
-1. [Add HTTPS support to Github Pages including custom domains](https://github.com/isaacs/github/issues/156#issuecomment-366516584)
 1. [Weak cryptographic standards removal notice](https://www.infoq.com/presentations/microservices-managing-data)
 1. [Machine Learning in .NET – Help us build the right experience!](https://blogs.msdn.microsoft.com/dotnet/2018/02/13/machine-learning-in-net-help-us-build-the-right-experience/)
+1. [Book recommendations in the test of time](https://ayende.com/blog/181859-A/book-recommendations-in-the-test-of-time)
+1. [OSS and Community. The Story](http://kcieslak.io/OSS-The-Story)
+1. [One Email Rule - Have a separate Inbox and an Inbox CC to reduce email stress. Guaranteed](https://www.hanselman.com/blog/OneEmailRuleHaveASeparateInboxAndAnInboxCCToReduceEmailStressGuaranteed.aspx)
+1. [The Pwned buzz and why you really don't need this database](https://keepassxc.org/blog/2018-02-24-pwned-database/)
