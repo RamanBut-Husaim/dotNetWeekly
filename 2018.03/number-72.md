@@ -6,6 +6,8 @@
 1. [ASP.NET Core 2.1.0-preview1 now available](https://blogs.msdn.microsoft.com/webdev/2018/02/27/asp-net-core-2-1-0-preview1-now-available/)
 1. [ASP.NET Core 2.1.0-preview1 - Introducing Identity UI as a library](https://blogs.msdn.microsoft.com/webdev/2018/03/02/aspnetcore-2-1-identity-ui/)
 1. [I Wanna Go Fast - Why Searching Through 500M Pwned Passwords Is So Quick](https://www.troyhunt.com/i-wanna-go-fast-why-searching-through-500m-pwned-passwords-is-so-quick/)
+1. [Better timeout handling with HttpClient](https://www.thomaslevesque.com/2018/02/25/better-timeout-handling-with-httpclient/)
+1. [Understand HTTP.sys Web Server In ASP.NET Core](http://www.c-sharpcorner.com/article/understand-http-sys-web-server-in-asp-net-core/)
 
 ## Tooling & Libraries
 
