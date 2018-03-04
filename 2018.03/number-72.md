@@ -1,0 +1,39 @@
+# .NET Weekly #72 (26.02 - 04.03)
+
+## Cloud & Web
+
+1. [Model Binding in GET Requests](https://odetocode.com/blogs/scott/archive/2018/02/27/model-binding-in-get-requests.aspx)
+1. [ASP.NET Core 2.1.0-preview1 now available](https://blogs.msdn.microsoft.com/webdev/2018/02/27/asp-net-core-2-1-0-preview1-now-available/)
+1. [ASP.NET Core 2.1.0-preview1 - Introducing Identity UI as a library](https://blogs.msdn.microsoft.com/webdev/2018/03/02/aspnetcore-2-1-identity-ui/)
+
+## Tooling & Libraries
+
+1. [My History of Visual Studio](https://medium.com/@ricomariani/my-history-of-visual-studio-5652e3e74af)
+1. [Updated .NET Core Docker Samples](https://github.com/dotnet/dotnet-docker/blob/master/samples/README.md)
+1. [Microsoft Orleans v2.0.0-rc1 is out](https://github.com/dotnet/orleans/releases/tag/v2.0.0-rc1)
+1. [Rider 2018.1 EAP is open](https://blog.jetbrains.com/dotnet/2018/02/27/rider-2018-1-eap-open/)
+1. [BenchmarkDotNet v0.10.13](http://aakinshin.net/blog/post/bdn-v0_10_13/)
+
+## Architecture & Databases
+
+1. [UI tests and End-To-End tests](https://martinfowler.com/articles/practical-test-pyramid.html#UiTests)
+1. [The Evolution of Reddit.com's Architecture](https://www.infoq.com/presentations/reddit-architecture-evolution)
+1. [AxonDB, a New Implementation of an Event Store](https://www.infoq.com/news/2018/02/axondb-event-store-cqrs)
+1. [Index types and how indexes are used in ArangoDB - Part I](https://www.arangodb.com/2018/02/indexes-types-arangodb-part-1/)
+1. [Acceptance Tests — Do Your Features Work Correctly?](https://martinfowler.com/articles/practical-test-pyramid.html#acceptance)
+
+## Programming Languages
+
+1. [Inheritance-composition isomorphism](http://blog.ploeh.dk/2018/02/26/inheritance-composition-isomorphism/)
+1. [Microsoft updates its Quantum Development Kit and adds support for Linux and Mac](https://cloudblogs.microsoft.com/quantum/2018/02/26/quantum-development-kit-adds-support-for-linux-and-mac/)
+1. [Don't Parse, Use Parsing Objects](http://www.yegor256.com/2018/02/27/parsing-objects.html)
+1. [Implementing IXmlSerializable in readonly structs](https://codeblog.jonskeet.uk/2018/03/02/implementing-ixmlserializable-in-readonly-structs/)
+
+## Runtime
+
+1. [Announcing .NET Core 2.1 Preview 1](https://blogs.msdn.microsoft.com/dotnet/2018/02/27/announcing-net-core-2-1-preview-1/)
+1. [Some advanced BCC topics](https://lwn.net/SubscriberLink/747640/1c0866ce8a5d4096/)
+1. [Work being done on Performance Profiling Controller](https://github.com/dotnet/designs/pull/26)
+1. [How generics were added to .NET](http://mattwarren.org/2018/03/02/How-generics-were-added-to-.NET/)
+
+## Other
