@@ -5,6 +5,7 @@
 1. [Model Binding in GET Requests](https://odetocode.com/blogs/scott/archive/2018/02/27/model-binding-in-get-requests.aspx)
 1. [ASP.NET Core 2.1.0-preview1 now available](https://blogs.msdn.microsoft.com/webdev/2018/02/27/asp-net-core-2-1-0-preview1-now-available/)
 1. [ASP.NET Core 2.1.0-preview1 - Introducing Identity UI as a library](https://blogs.msdn.microsoft.com/webdev/2018/03/02/aspnetcore-2-1-identity-ui/)
+1. [I Wanna Go Fast - Why Searching Through 500M Pwned Passwords Is So Quick](https://www.troyhunt.com/i-wanna-go-fast-why-searching-through-500m-pwned-passwords-is-so-quick/)
 
 ## Tooling & Libraries
 
@@ -21,6 +22,7 @@
 1. [AxonDB, a New Implementation of an Event Store](https://www.infoq.com/news/2018/02/axondb-event-store-cqrs)
 1. [Index types and how indexes are used in ArangoDB - Part I](https://www.arangodb.com/2018/02/indexes-types-arangodb-part-1/)
 1. [Acceptance Tests — Do Your Features Work Correctly?](https://martinfowler.com/articles/practical-test-pyramid.html#acceptance)
+1. [Charles Bachman and Pointer Chains](https://www.red-gate.com/simple-talk/sql/t-sql-programming/charles-bachman-pointer-chains/)
 
 ## Programming Languages
 
@@ -28,12 +30,16 @@
 1. [Microsoft updates its Quantum Development Kit and adds support for Linux and Mac](https://cloudblogs.microsoft.com/quantum/2018/02/26/quantum-development-kit-adds-support-for-linux-and-mac/)
 1. [Don't Parse, Use Parsing Objects](http://www.yegor256.com/2018/02/27/parsing-objects.html)
 1. [Implementing IXmlSerializable in readonly structs](https://codeblog.jonskeet.uk/2018/03/02/implementing-ixmlserializable-in-readonly-structs/)
+1. [Concurrent Programming in fsharp using Hopac (Part-I)](https://www.demystifyfp.com/fsharp/blog/concurrent-programming-in-fsharp-using-hopac-part-1/)
+1. [Concurrent Programming in Fsharp Using Hopac (Part-2)](https://www.demystifyfp.com/fsharp/blog/concurrent-programming-in-fsharp-using-hopac-part-2/)
 
 ## Runtime
 
 1. [Announcing .NET Core 2.1 Preview 1](https://blogs.msdn.microsoft.com/dotnet/2018/02/27/announcing-net-core-2-1-preview-1/)
-1. [Some advanced BCC topics](https://lwn.net/SubscriberLink/747640/1c0866ce8a5d4096/)
 1. [Work being done on Performance Profiling Controller](https://github.com/dotnet/designs/pull/26)
 1. [How generics were added to .NET](http://mattwarren.org/2018/03/02/How-generics-were-added-to-.NET/)
 
 ## Other
+
+1. [Some advanced BCC topics](https://lwn.net/SubscriberLink/747640/1c0866ce8a5d4096/)
+1. [Meet Bandaid, the Dropbox service proxy](https://blogs.dropbox.com/tech/2018/03/meet-bandaid-the-dropbox-service-proxy/)
