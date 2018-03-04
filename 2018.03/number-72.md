@@ -16,6 +16,7 @@
 1. [Microsoft Orleans v2.0.0-rc1 is out](https://github.com/dotnet/orleans/releases/tag/v2.0.0-rc1)
 1. [Rider 2018.1 EAP is open](https://blog.jetbrains.com/dotnet/2018/02/27/rider-2018-1-eap-open/)
 1. [BenchmarkDotNet v0.10.13](http://aakinshin.net/blog/post/bdn-v0_10_13/)
+1. [Avalonia Beta 1 Brings Many Improvements over WPF](https://www.infoq.com/news/2018/02/Avalonia-Beta)
 
 ## Architecture & Databases
 
@@ -25,6 +26,8 @@
 1. [Index types and how indexes are used in ArangoDB - Part I](https://www.arangodb.com/2018/02/indexes-types-arangodb-part-1/)
 1. [Acceptance Tests — Do Your Features Work Correctly?](https://martinfowler.com/articles/practical-test-pyramid.html#acceptance)
 1. [Charles Bachman and Pointer Chains](https://www.red-gate.com/simple-talk/sql/t-sql-programming/charles-bachman-pointer-chains/)
+1. [What I learnt from building 3 high traffic web applications on an embedded key value store](https://hackernoon.com/what-i-learnt-from-building-3-high-traffic-web-applications-on-an-embedded-key-value-store-68d47249774f)
+1. [Large Scale NoSQL Database Migration Under Fire](https://medium.com/appsflyer/large-scale-nosql-database-migration-under-fire-bf298c3c2e47)
 
 ## Programming Languages
 
@@ -45,3 +48,5 @@
 
 1. [Some advanced BCC topics](https://lwn.net/SubscriberLink/747640/1c0866ce8a5d4096/)
 1. [Meet Bandaid, the Dropbox service proxy](https://blogs.dropbox.com/tech/2018/03/meet-bandaid-the-dropbox-service-proxy/)
+1. [How GDPR Will Change The Way You Develop](https://www.smashingmagazine.com/2018/02/gdpr-for-web-developers/)
+1. [Why I Quit Google to Work for Myself](https://mtlynch.io/why-i-quit-google/)
