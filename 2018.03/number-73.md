@@ -6,6 +6,7 @@
 1. [Understanding the Performance Overhead of Encryption](https://www.hashicorp.com/blog/understanding-the-performance-overhead-of-encryption)
 1. [ASP.NET Core in Action - Filters](https://andrewlock.net/asp-net-core-in-action-filters/)
 1. [Microsoft Announce General Availability of Azure Redis Cache Geo-Replication](https://www.infoq.com/news/2018/03/azure-redis-cache-geo-ga)
+1. [Comparing AWS Lambda performance of Node.js, Python, Java, C# and Go](https://read.acloud.guru/comparing-aws-lambda-performance-of-node-js-python-java-c-and-go-29c1163c2581)
 
 ## Tooling & Libraries
 
@@ -14,6 +15,7 @@
 1. [Productivity with ReSharper](http://xoofx.com/blog/2018/03/09/productivity-with-resharper/)
 1. [VSCode 1.21](https://code.visualstudio.com/updates/v1_21)
 1. [Exception popup, improved Smart Step Into, symbol servers, and more Rider 2018.1 EAP debugger updates](https://blog.jetbrains.com/dotnet/2018/03/08/exception-popup-improved-smart-step-symbol-servers-rider-2018-1-eap-debugger-updates/)
+1. [Open-sourcing a 10x reduction in Apache Cassandra tail latency](https://engineering.instagram.com/open-sourcing-a-10x-reduction-in-apache-cassandra-tail-latency-d64f86b43589)
 
 ## Architecture & Databases
 
@@ -23,11 +25,15 @@
 1. [READ COMMITTED SNAPSHOT ISOLATION and High version_ghost_record_count](https://www.red-gate.com/simple-talk/sql/performance/read-committed-snapshot-isolation-high-version_ghost_record_count/)
 1. [SQL Server Graph Databases – Part 1 Introduction](https://www.red-gate.com/simple-talk/sql/sql-development/sql-server-graph-databases-part-1-introduction/)
 1. [Future architecture - what you've got here won't get you there](https://blog.box.com/blog/future-architecture-what-youve-got-here-wont-get-you-there/)
+1. [Jepsen analysis of Aerospike 3.99.0.3](https://jepsen.io/analyses/aerospike-3-99-0-3)
+1. [Anna - A Crazy Fast, Super-Scalable, Flexibly Consistent KVS](https://databeta.wordpress.com/2018/03/09/anna-kvs/)
 
 ## Programming Languages
 
 1. [Some design patterns as universal abstractions](http://blog.ploeh.dk/2018/03/05/some-design-patterns-as-universal-abstractions/)
 1. [Paradigm Shifts and the Adoption of Programming Languages](https://www.infoq.com/podcasts/Andrea-Magnorsky-paradigm-shifts)
+1. [Tracing from JS to the DOM and back again](https://v8project.blogspot.com.es/2018/03/tracing-js-dom.html)
+1. [Progressive Locks - fast, upgradable read/write locks](http://wtarreau.blogspot.com.es/2018/02/progressive-locks-fast-upgradable.html)
 
 ## Runtime
 
@@ -42,3 +48,4 @@
 1. [OpenPGPjs 3.0 has been released](https://protonmail.com/blog/openpgpjs-3-release/)
 1. [Don't Aim for Quality, Aim for Speed](http://www.yegor256.com/2018/03/06/speed-vs-quality.html)
 1. [GDPR for Operations](https://www.infoq.com/articles/gdpr-for-operations)
+1. [LLVM 6.0.0 Release](http://lists.llvm.org/pipermail/llvm-dev/2018-March/121675.html)
