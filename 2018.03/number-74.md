@@ -6,6 +6,8 @@
 1. [ASP.NET Core 2.1.0-preview1 - Introducing Identity UI as a library](https://blogs.msdn.microsoft.com/webdev/2018/03/02/aspnetcore-2-1-identity-ui/)
 1. [Service Fabric is going open source](https://blogs.msdn.microsoft.com/azureservicefabric/2018/03/14/service-fabric-is-going-open-source/)
 1. [Transport Layer Security (TLS) best practices with the .NET Framework article published](https://github.com/dotnet/announcements/issues/63)
+1. [Scalable and Performant ASP.NET Core Web APIs - Server Caching](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-server-caching/)
+1. [From .NET Framework to .NET Core and Linux, the story so far](https://nblumhardt.com/2018/03/from-netfx-to-core/)
 
 ## Tooling & Libraries
 
@@ -35,6 +37,7 @@
 1. [Concurrent Programming in fsharp using Hopac - Part 4](https://www.demystifyfp.com/fsharp/blog/concurrent-programming-in-fsharp-using-hopac-part-4/)
 1. [An Easier Way of Transposing Query Result in SQL Server](https://www.red-gate.com/simple-talk/sql/t-sql-programming/easier-way-transposing-query-result-sql-server/)
 1. [Fluent Interfaces Are Bad for Maintainability](http://www.yegor256.com/2018/03/13/fluent-interfaces.html)
+1. [JavaScript vs. TypeScript vs. ReasonML](http://2ality.com/2018/03/javascript-typescript-reasonml.html)
 
 ## Runtime
 
@@ -55,3 +58,4 @@
 1. [Semantic Image Segmentation with DeepLab in TensorFlow](https://research.googleblog.com/2018/03/semantic-image-segmentation-with.html)
 1. [EU wants to require platforms to filter uploaded content (including code)](https://blog.github.com/2018-03-14-eu-proposal-upload-filters-code/)
 1. [Stack Overflow Culture](https://codeblog.jonskeet.uk/2018/03/17/stack-overflow-culture/)
+1. [Which Distribution of Linux Should I Use?](http://geekswithblogs.net/JeremyMorgan/archive/2018/03/13/which-distribution-of-linux-should-i-use.aspx)
