@@ -95,3 +95,4 @@
   + [March](2018.03/README.md)
     + [.NET Weekly #72](2018.03/number-72.md)
     + [.NET Weekly #73](2018.03/number-73.md)
+    + [.NET Weekly #74](2018.03/number-74.md)
