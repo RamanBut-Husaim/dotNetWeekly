@@ -22,6 +22,8 @@
 1. [Dividing frontend from backend is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern)
 1. [Events Are Reshaping the Future of Distributed Systems](https://www.infoq.com/news/2018/03/events-distributed-systems)
 1. [Reactive DDD - Modeling Uncertainty](https://www.infoq.com/presentations/reactive-ddd-distributed-systems)
+1. [Technical Debt and the Rewrite-In-Place](https://exceptionnotfound.net/technical-debt-and-the-rewrite-in-place/)
+1. [Data Retention - An Inexact Art](https://www.red-gate.com/simple-talk/opinion/opinion-pieces/data-retention-inexact-art/)
 
 ## Programming Languages
 
@@ -29,6 +31,10 @@
 1. [Custom directory enumeration in .NET Core 2.1](https://blogs.msdn.microsoft.com/jeremykuhne/2018/03/09/custom-directory-enumeration-in-net-core-2-1/)
 1. [Lightweight .NET Core benchmarking with BenchmarkDotNet and dotnet-script](https://www.strathweb.com/2018/03/lightweight-net-core-benchmarking-with-benchmarkdotnet-and-dotnet-script/)
 1. [Announcing TypeScript 2.8 RC](https://blogs.msdn.microsoft.com/typescript/2018/03/15/announcing-typescript-2-8-rc/)
+1. [Implementing API Gateway Pattern in fsharp using Hopac](https://www.demystifyfp.com/fsharp/blog/concurrent-programming-in-fsharp-using-hopac-part-3/)
+1. [Concurrent Programming in fsharp using Hopac - Part 4](https://www.demystifyfp.com/fsharp/blog/concurrent-programming-in-fsharp-using-hopac-part-4/)
+1. [An Easier Way of Transposing Query Result in SQL Server](https://www.red-gate.com/simple-talk/sql/t-sql-programming/easier-way-transposing-query-result-sql-server/)
+1. [Fluent Interfaces Are Bad for Maintainability](http://www.yegor256.com/2018/03/13/fluent-interfaces.html)
 
 ## Runtime
 
