@@ -18,12 +18,14 @@
 1. [Roslyn analyzer support in Rider 2018.1 EAP](https://blog.jetbrains.com/dotnet/2018/03/22/roslyn-analyzer-support-rider-2018-1-eap/)
 1. [Visual Studio 2017 version 15.6.4](https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2017-relnotes#15.6.4)
 1. [Automatic Unit Testing in .NET Core plus Code Coverage in Visual Studio Code](https://www.hanselman.com/blog/AutomaticUnitTestingInNETCorePlusCodeCoverageInVisualStudioCode.aspx)
+1. [Introducing Skaffold - Easy and repeatable Kubernetes development](https://cloudplatform.googleblog.com/2018/03/introducing-Skaffold-Easy-and-repeatable-Kubernetes-development.html?m=1)
 
 ## Architecture & Databases
 
 1. [Think Twice before Dropping ACID and Throw Your CAP Away](https://www.infoq.com/presentations/acid-cap)
 1. [Difficulties in abstraction](https://shripad-agashe.github.io/2018/03/19/abstractions/)
 1. [SQL Server Graph Databases – Part 2 Querying Data in a Graph Database](https://www.inoreader.com/article/3a9c6e7e32a7b27e-sql-server-graph-databases-part-2-querying-data-in-a-graph-database)
+1. [Object Storage - AWS s3 vs. Google Cloud Storage vs. Azure Storage vs. DigitalOcean Spaces](https://www.chooseacloud.com/objectstorage)
 
 ## Programming Languages
 
@@ -32,6 +34,7 @@
 1. [Concurrent Programming in fsharp Using Hopac - Part 5](https://www.demystifyfp.com/fsharp/blog/concurrent-programming-in-fsharp-using-hopac-part-5/)
 1. [Go vs C#, part 1 - goroutines vs async-await](https://medium.com/@alexyakunin/go-vs-c-part-1-goroutines-vs-async-await-ac909c651c11)
 1. [Constraining Concurrent Threads in C#](http://markheath.net/post/constraining-concurrent-threads-csharp)
+1. [Types, and Why You Should Care](https://www.youtube.com/watch?v=0arFPIQatCU)
 
 ## Runtime
 
