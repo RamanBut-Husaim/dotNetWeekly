@@ -31,6 +31,7 @@
 1. [Functors](http://blog.ploeh.dk/2018/03/22/functors/)
 1. [Concurrent Programming in fsharp Using Hopac - Part 5](https://www.demystifyfp.com/fsharp/blog/concurrent-programming-in-fsharp-using-hopac-part-5/)
 1. [Go vs C#, part 1 - goroutines vs async-await](https://medium.com/@alexyakunin/go-vs-c-part-1-goroutines-vs-async-await-ac909c651c11)
+1. [Constraining Concurrent Threads in C#](http://markheath.net/post/constraining-concurrent-threads-csharp)
 
 ## Runtime
 
