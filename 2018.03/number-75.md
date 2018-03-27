@@ -24,7 +24,7 @@
 
 1. [Think Twice before Dropping ACID and Throw Your CAP Away](https://www.infoq.com/presentations/acid-cap)
 1. [Difficulties in abstraction](https://shripad-agashe.github.io/2018/03/19/abstractions/)
-1. [SQL Server Graph Databases – Part 2 Querying Data in a Graph Database](https://www.inoreader.com/article/3a9c6e7e32a7b27e-sql-server-graph-databases-part-2-querying-data-in-a-graph-database)
+1. [SQL Server Graph Databases – Part 2 Querying Data in a Graph Database](https://www.red-gate.com/simple-talk/sql/t-sql-programming/sql-server-graph-databases-part-2-querying-data-graph-database/)
 1. [Object Storage - AWS s3 vs. Google Cloud Storage vs. Azure Storage vs. DigitalOcean Spaces](https://www.chooseacloud.com/objectstorage)
 
 ## Programming Languages
