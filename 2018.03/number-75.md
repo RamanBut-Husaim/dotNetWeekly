@@ -7,7 +7,7 @@
 1. [Exploring the Microsoft.AspNetCore.App shared framework in ASP.NET Core 2.1 (preview 1)](https://andrewlock.net/exploring-the-microsoft-aspnetcore-app-shared-framework-in-asp-net-core-2-1-preview-1/)
 1. [Announcing general availability of Azure database services for MySQL and PostgreSQL](https://azure.microsoft.com/en-us/blog/announcing-general-availability-of-azure-database-services-for-mysql-and-postgresql/)
 1. [Get started building .NET web apps that run in the browser with Blazor](https://blogs.msdn.microsoft.com/webdev/2018/03/22/get-started-building-net-web-apps-in-the-browser-with-blazor/)
-1. [ASP.NET Core Unit Testing For Security Attributes](https://www.infoq.com/presentations/acid-cap)
+1. [ASP.NET Core Unit Testing For Security Attributes](https://davidpine.net/blog/asp-net-core-security-unit-testing/)
 1. [Creating an ASP.NET Core Markdown TagHelper and Parser](https://weblog.west-wind.com/posts/2018/Mar/23/Creating-an-ASPNET-Core-Markdown-TagHelper-and-Parser)
 
 ## Tooling & Libraries
