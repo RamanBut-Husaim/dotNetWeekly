@@ -97,3 +97,4 @@
     + [.NET Weekly #73](2018.03/number-73.md)
     + [.NET Weekly #74](2018.03/number-74.md)
     + [.NET Weekly #75](2018.03/number-75.md)
+    + [.NET Weekly #76](2018.03/number-76.md)

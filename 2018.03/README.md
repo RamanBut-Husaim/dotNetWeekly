@@ -4,3 +4,4 @@
 + [.NET Weekly #73](number-73.md)
 + [.NET Weekly #74](number-74.md)
 + [.NET Weekly #75](number-75.md)
++ [.NET Weekly #75](number-76.md)
