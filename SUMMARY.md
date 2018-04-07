@@ -98,3 +98,5 @@
     + [.NET Weekly #74](2018.03/number-74.md)
     + [.NET Weekly #75](2018.03/number-75.md)
     + [.NET Weekly #76](2018.03/number-76.md)
+  + [April](2018.04/README.md)
+    + [.NET Weekly #77](2018.04/number-77.md)
