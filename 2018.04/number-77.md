@@ -27,6 +27,7 @@
 1. [Managing Code Complexity](http://devonburriss.me/managing-code-complexity/)
 1. [Just What Exactly Will Cast to a Bit Value?](https://www.red-gate.com/simple-talk/blogs/just-exactly-will-cast-bit-value/)
 1. [Strongholds of Confidence - Self-Testing Your Database](https://www.red-gate.com/simple-talk/sql/oracle/strongholds-confidence-self-testing-database/)
+1. [Architecturally Aligned Testing](https://www.infoq.com/articles/architecturally-aligned-testing)
 
 ## Programming Languages
 
@@ -36,6 +37,7 @@
 1. [Using C# await against JS Promises in Blazor](https://joonasw.net/view/csharp-await-and-js-promises-in-blazor)
 1. [TDD = Thought Driven Development](https://medium.com/@mikegehard/tdd-thought-driven-development-b5c43e7c5329)
 1. [Understanding TypeScript’s type notation](http://2ality.com/2018/04/type-notation-typescript.html)
+1. [Depending on Functions Instead of Interfaces - Why and How](http://scotthannen.org/blog/2018/03/18/depending-on-functions-instead-of-interfaces.html)
 
 ## Runtime
 
