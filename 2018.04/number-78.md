@@ -8,6 +8,7 @@
 1. [Implementing custom token providers for passwordless authentication in ASP.NET Core Identity](https://andrewlock.net/implementing-custom-token-providers-for-passwordless-authentication-in-asp-net-core-identity/)
 1. [how to do fan-out and fan-in with AWS Lambda](https://theburningmonk.com/2018/04/how-to-do-fan-out-and-fan-in-with-aws-lambda/)
 1. [Serverless observability, what can you use out of the box?](https://theburningmonk.com/2018/04/serverless-observability-what-can-you-use-out-of-the-box/)
+1. [ASP.NET Core Web API Multi-Tenant JWTs](https://www.carlrippon.com/asp-net-core-web-api-multi-tenant-jwts/)
 
 ## Tooling & Libraries
 
@@ -26,6 +27,8 @@
 1. [Execution Plans and Data Protection](https://www.red-gate.com/simple-talk/sysadmin/data-protection-and-privacy/execution-plans-data-protection/)
 1. [Polyglot Persistence Powering Microservices](https://www.infoq.com/articles/polyglot-persistence-microservices)
 1. [Best Practices Building Resilient Systems](https://www.infoq.com/presentations/best-practices-resilient-systems)
+1. [Microservices – Isolated Data & State](https://blogs.msdn.microsoft.com/azuredev/2018/04/11/microservices-isolated-data-state/)
+1. [You’re Not Actually Building Microservices](https://www.simplethread.com/youre-not-actually-building-microservices/)
 
 ## Programming Languages
 
@@ -34,6 +37,8 @@
 1. [Coalescing Composite as a monoid](http://blog.ploeh.dk/2018/04/09/coalescing-composite-as-a-monoid/)
 1. [Getting the .NET Core Runtime Version in a Running Application](https://weblog.west-wind.com/posts/2018/Apr/12/Getting-the-NET-Core-Runtime-Version-in-a-Running-Application)
 1. [Nine Steps of Learning by Refactoring](http://www.yegor256.com/2018/04/10/learning-by-refactoring.html)
+1. [Deconstructing KeyValuePair](http://www.interact-sw.co.uk/iangblog/2018/04/12/deconstruct-keyvaluepair)
+1. [SOLID Design Principles Explained – The Liskov Substitution Principle with Code Examples](https://stackify.com/solid-design-liskov-substitution-principle/)
 
 ## Runtime
 
@@ -41,6 +46,7 @@
 1. [Announcing .NET Core 2.1 Preview 2](https://blogs.msdn.microsoft.com/dotnet/2018/04/11/announcing-net-core-2-1-preview-2/)
 1. [Writing a Managed JIT in C# with CoreCLR](http://xoofx.com/blog/2018/04/12/writing-managed-jit-in-csharp-with-coreclr/)
 1. [Added a new API to provide memory information that GC records](https://github.com/dotnet/coreclr/pull/17326)
+1. [How we doubled Mono’s Float Speed](http://tirania.org/blog/archive/2018/Apr-11.html)
 
 ## Other
 
@@ -48,3 +54,5 @@
 1. [Having a serious conversation about open source](https://blog.marcgravell.com/2018/04/having-serious-conversation-about-open.html)
 1. [Visualizing memory accesses of an executable](https://bling.kapsi.fi/blog/x86-memory-access-visualization.html)
 1. [A 10-Step Guide To Making Your Best Technical Talk Yet](https://exceptionnotfound.net/a-10-step-guide-to-making-your-best-technical-talk-yet/)
+1. [Web Authentication - An API for accessing Public Key Credentials Level 1](https://www.w3.org/TR/2018/CR-webauthn-20180320/)
+1. [From Chaos to Order -- Tools and Techniques for Testing TiDB, A Distributed NewSQL Database](https://pingcap.com/blog/chaos-practice-in-tidb/)
