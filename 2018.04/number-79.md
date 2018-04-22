@@ -27,6 +27,7 @@
 1. [Vertical Slice Architecture](https://jimmybogard.com/vertical-slice-architecture/)
 1. [Provisioning SQL Server Instances with Docker](https://www.red-gate.com/simple-talk/sysadmin/containerization/provisioning-sql-server-instances-docker/)
 1. [Finding overlapping ranges of data](https://www.red-gate.com/simple-talk/blogs/finding-overlapping-ranges-data/)
+1. [What’s New in MySQL 8.0? (Generally Available)](https://mysqlserverteam.com/whats-new-in-mysql-8-0-generally-available/)
 
 ## Programming Languages
 
