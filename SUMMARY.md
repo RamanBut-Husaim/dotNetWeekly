@@ -101,3 +101,4 @@
   + [April](2018.04/README.md)
     + [.NET Weekly #77](2018.04/number-77.md)
     + [.NET Weekly #78](2018.04/number-78.md)
+    + [.NET Weekly #79](2018.04/number-79.md)
