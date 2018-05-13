@@ -6,6 +6,8 @@
 1. [Azure SignalR Service, a fully-managed service to add real-time functionality](https://azure.microsoft.com/en-us/blog/azure-signalr-service-a-fully-managed-service-to-add-real-time-functionality/)
 1. [Four critical differences between Google Cloud Storage and Amazon S3 APIs](https://www.zenko.io/blog/four-differences-google-amazon-s3-api/)
 1. [How does Stack Overflow do pagination](https://meta.stackoverflow.com/questions/322164/how-does-stack-overflow-do-pagination/322246#322246)
+1. [Updating my AlbumViewer to ASP.NET Core 2.1 and Angular 6.0](https://weblog.west-wind.com/posts/2018/May/09/Updating-my-AlbumViewer-to-ASPNET-Core-21-and-Angular-60)
+1. [Using LazyCache for clean and simple .NET Core in-memory caching](https://www.hanselman.com/blog/UsingLazyCacheForCleanAndSimpleNETCoreInmemoryCaching.aspx)
 
 ## Tooling & Libraries
 
@@ -15,6 +17,7 @@
 1. [Visual Studio 2017 version 15.7 and version 15.8 Preview 1](https://blogs.msdn.microsoft.com/visualstudio/2018/05/07/visual-studio-2017-version-15-7-and-version-15-8-preview-1/)
 1. [Introducing ML.NET - Cross-platform, Proven and Open Source Machine Learning Framework](https://blogs.msdn.microsoft.com/dotnet/2018/05/07/introducing-ml-net-cross-platform-proven-and-open-source-machine-learning-framework/)
 1. [A story about slow NuGet package browsing](https://aakinshin.net/blog/post/nuget-package-browsing/)
+1. [Redesigning HashiCorp Consul UI](https://www.hashicorp.com/blog/redesigning-hashicorp-consul-ui)
 
 ## Architecture & Databases
 
@@ -23,6 +26,8 @@
 1. [5 ways to speed up code reviews with Git, Mercurial and Subversion](http://www.midori-global.com/blog/2018/03/21/5-ways-to-speed-up-code-reviews-with-git-mercurial-and-subversion)
 1. [Software Sucks Because QA and Testing are Underpaid and Misunderstood](https://medium.com/@tracyrolling/software-sucks-because-qa-and-testing-are-underpaid-and-misunderstood-907f44d1f7b5)
 1. [On the design of distributed programming models](https://blog.acolyer.org/2017/08/17/on-the-design-of-distributed-programming-models/)
+1. [Importing JSON Collections into SQL Server](https://www.red-gate.com/simple-talk/sql/t-sql-programming/importing-json-collections-sql-server/)
+1. [Converting a Database to In-Memory OLTP](https://www.red-gate.com/simple-talk/sql/t-sql-programming/converting-database-memory-oltp/)
 
 ## Programming Languages
 
@@ -30,6 +35,7 @@
 1. [How fast can you parse JSON?](https://lemire.me/blog/2018/05/03/how-fast-can-you-parse-json/)
 1. [Use string.IsNullOrEmpty to eliminate bounds check to first char](https://github.com/dotnet/coreclr/pull/17512)
 1. [Unit Testing with Roslyn](https://blog.stephencleary.com/2018/05/roslyn-unit-testing.html)
+1. [Fun Tricks with Mono.Cecil in F#](https://code.camdenreslink.com/dev/fun-tricks-with-mono-cecil-in-fsharp/)
 
 ## Runtime
 
@@ -37,6 +43,7 @@
 1. [.NET Core 3 and Support for Windows Desktop Applications](https://blogs.msdn.microsoft.com/dotnet/2018/05/07/net-core-3-and-support-for-windows-desktop-applications/)
 1. [API Proposal - Add Interlocked ops w/ explicit memoryOrder](https://github.com/dotnet/corefx/issues/29544)
 1. [Great insight into how the .NET JIT handles 'loop unrolling'](https://github.com/dotnet/coreclr/issues/11606#issuecomment-387917347)
+1. [.NET Framework May 2018 Security and Quality Rollup](https://blogs.msdn.microsoft.com/dotnet/2018/05/08/net-framework-may-2018-security-and-quality-rollup/)
 
 ## Other
 
@@ -47,3 +54,4 @@
 1. [Announcing Rust 1.26](https://blog.rust-lang.org/2018/05/10/Rust-1.26.html)
 1. [How I Work Hard Without Burning Out](https://medium.com/darius-foroux/how-i-work-hard-without-burning-out-4049f56c8d92)
 1. [Caddy 0.11 Released](https://caddyserver.com/blog/caddy-0_11-released)
+1. [Customized neural machine translation with Microsoft Translator](https://www.microsoft.com/en-us/research/blog/customized-neural-machine-translation-microsoft-translator/)
