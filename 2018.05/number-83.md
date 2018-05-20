@@ -7,6 +7,8 @@
 1. [Exposing RethinkDB changefeed from ASP.NET Core](https://www.tpeczek.com/2018/05/exposing-rethinkdb-changefeed-from.html)
 1. [The HTTP headers we don't want](https://www.fastly.com/blog/headers-we-dont-want)
 1. [How Netlify migrated to a fully multi-cloud infrastructure](https://www.netlify.com/blog/2018/05/14/how-netlify-migrated-to-a-fully-multi-cloud-infrastructure/)
+1. [First Look - Angular Ivy](https://www.telerik.com/blogs/first-look-angular-ivy)
+1. [Announcing SQL Advanced Threat Protection (ATP) and SQL Vulnerability Assessment general availability](https://azure.microsoft.com/en-us/blog/announcing-sql-atp-and-sql-vulnerability-assessment-general-availability/)
 
 ## Tooling & Libraries
 
@@ -15,6 +17,8 @@
 1. [Akka.NET - More for less, more or less](http://bet365techblog.com/more-for-less-more-or-less)
 1. [GitHub personal and organization dashboard changes](https://blog.github.com/changelog/2018-05-17-user-landingpage-changes/)
 1. [Blazor - Using CoreRT instead of Mono](https://github.com/aspnet/Blazor/issues/286#issuecomment-373961638)
+1. [Introduction to code analysis in Rider](https://blog.jetbrains.com/dotnet/2018/05/17/introduction-code-analysis-rider/)
+1. [Creating NuGet packages in Docker using the .NET Core CLI](https://andrewlock.net/creating-nuget-packages-in-docker-using-the-net-core-cli/)
 
 ## Architecture & Databases
 
@@ -36,6 +40,8 @@
 1. [Familiar forms of composition](http://www.tedinski.com/2018/05/15/familiar-forms-of-composition.html)
 1. [Announcing TypeScript 2.9 RC](https://blogs.msdn.microsoft.com/typescript/2018/05/16/announcing-typescript-2-9-rc/)
 1. [Writing a Portable CPU/GPU Ray Tracer in C#](https://mellinoe.github.io/graphics/2018/05/19/writing-a-portable-cpu-gpu-ray-tracer-in-c.html)
+1. [Composite as a monoid - a business rules example](http://blog.ploeh.dk/2018/05/17/composite-as-a-monoid-a-business-rules-example/)
+1. [New F# style guide](https://docs.microsoft.com/en-us/dotnet/fsharp/style-guide/)
 
 ## Runtime
 
@@ -53,3 +59,5 @@
 1. [The Rust compiler is getting faster](https://blog.mozilla.org/nnethercote/2018/05/17/the-rust-compiler-is-getting-faster/)
 1. [React, Storytelling and Speaking Tips](https://medium.com/@despos/react-storytelling-and-speaking-tips-1103efbaf018)
 1. [Data security on Linux using cryptsetup](https://tanweerali.net/2018/04/06/data-security-on-linux/)
+1. [Performance optimization starts at the business process level](https://ayende.com/blog/182851-A/performance-optimization-starts-at-the-business-process-level)
+1. [Achieving scalability in quantum computing](https://cloudblogs.microsoft.com/quantum/2018/05/16/achieving-scalability-in-quantum-computing/)
