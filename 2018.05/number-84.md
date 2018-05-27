@@ -4,7 +4,7 @@
 
 1. [Semantics and complexity of GraphQL](https://blog.acolyer.org/2018/05/21/semantics-and-complexity-of-graphql/)
 1. [Why we use Redux design pattern across all platforms](https://blog.oursky.com/2018/02/13/redux-design-pattern-oursky/)
-1. [Healtch Check Response Format for HTTP APIs](https://tools.ietf.org/html/draft-inadarei-api-health-check-00)
+1. [Health Check Response Format for HTTP APIs](https://tools.ietf.org/html/draft-inadarei-api-health-check-00)
 1. [Angular & Serverless](https://medium.com/@maciejtreder/angular-serverless-a713e86ea07a)
 1. [SafeKeeper - protecting web passwords using trusted execution environments](https://blog.acolyer.org/2018/05/22/safekeeper-protecting-web-passwords-using-trusted-execution-environments/)
 1. [Transactions, Mutations, and GraphQL](https://graphqlme.com/2018/05/13/transactions-mutations-and-graphql/)
