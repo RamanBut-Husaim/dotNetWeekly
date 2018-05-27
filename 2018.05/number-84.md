@@ -10,6 +10,8 @@
 1. [Transactions, Mutations, and GraphQL](https://graphqlme.com/2018/05/13/transactions-mutations-and-graphql/)
 1. [How I started loving Vue](https://medium.com/@igogrek/how-i-started-loving-vue-d41c1c8e77e1)
 1. [Beyond SPAs - alternative architectures for your PWA](https://developers.google.com/web/updates/2018/05/beyond-spa)
+1. [The State of HttpClient and .NET Multi-Targeting](https://leastprivilege.com/2018/05/21/the-state-of-httpclient-and-net-multi-targeting/)
+1. [An Alternative Style of Routing for ASP.Net Core](https://jeremydmiller.com/2018/05/21/an-alternative-style-of-routing-for-asp-net-core/)
 
 ## Tooling & Libraries
 
@@ -22,6 +24,7 @@
 1. [Docker as a Tool Provider](https://blog.stephencleary.com/2018/05/docker-as-a-tool-provider.html)
 1. [Uno is officially open source](https://github.com/nventive/uno)
 1. [Akka.NET + DI + Testing Considerations](https://sachabarbs.wordpress.com/2018/05/22/akka-net-di-testing-considerations/)
+1. [Troubleshooting ASP.NET Core Performance Problems](https://blogs.msdn.microsoft.com/webdev/2018/05/23/asp-net-core-performance-improvements/)
 
 ## Architecture & Databases
 
@@ -33,6 +36,9 @@
 1. [Showdown - MySQL 8 vs PostgreSQL 10](https://blog.dumper.io/showdown-mysql-8-vs-postgresql-10/)
 1. [MongoDB 4.0 Release Candidate 0 Has Landed](https://www.mongodb.com/blog/post/mongodb-40-release-candidate-0-has-landed)
 1. [SERIALIZABLE in PostgreSQL 11... and beyond](https://write-skew.blogspot.ch/2018/05/serializable-in-postgresql-11-and-beyond.html)
+1. [Implementing Raft in RabbitMQ](https://www.infoq.com/presentations/rabbitmq-raft)
+1. [Lambda Architectures - a Snapshot, a Stream, & a Bunch of Deltas](https://www.infoq.com/presentations/lambda-streams-delta)
+1. [Actors or Not - Async Event Architectures](https://www.infoq.com/presentations/async-event-arch)
 
 ## Programming Languages
 
@@ -50,6 +56,7 @@
 1. [Remove JIT LEGACY_BACKEND code](https://github.com/dotnet/coreclr/pull/18064)
 1. [On porting .NET Core to FreeBSD](https://github.com/dotnet/coreclr/issues/18067)
 1. [Add managed views of the EE datastructures like MethodTable](https://github.com/dotnet/coreclr/issues/18111)
+1. [NET Framework May 2018 Preview of Quality Rollup for Windows 10 1709](https://blogs.msdn.microsoft.com/dotnet/2018/05/21/net-framework-may-2018-preview-of-quality-rollup-for-windows-10-1709-fall-creators-update/)
 
 ## Other
 
@@ -60,3 +67,4 @@
 1. [Introduction to Functional Programming in OCaml MOOC](https://www.fun-mooc.fr/courses/course-v1:parisdiderot+56002+session03/about)
 1. [How to make software development estimation work for engineers and business](https://agileengine.com/software-development-estimation/)
 1. [What is zero-access encryption and why it is important for security](https://protonmail.com/blog/zero-access-encryption/)
+1. [The Most Powerful Question - 4 Rules to Help Developers Ask "Why?"](https://exceptionnotfound.net/the-most-powerful-question-4-rules-to-encourage-juniors-developers-to-ask-why/)
