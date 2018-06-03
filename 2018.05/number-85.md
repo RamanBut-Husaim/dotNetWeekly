@@ -5,13 +5,15 @@
 1. [Why Mastercard Doesn't Use OAuth 2.0](https://developer.mastercard.com/blog/why-mastercard-doesnt-use-oauth-20)
 1. [How to set up cross browser testing services](https://blog.bitrise.io/how-to-set-up-cross-browser-testing-services)
 1. [IIS in-process hosting moved out of ASP.NET Core 2.1](https://github.com/aspnet/Announcements/issues/302)
-1. [Firebase Cloud Functions: the great, the meh, and the ugly](https://medium.freecodecamp.org/firebase-cloud-functions-the-great-the-meh-and-the-ugly-c4562c6dc65d)
+1. [Firebase Cloud Functions - the great, the meh, and the ugly](https://medium.freecodecamp.org/firebase-cloud-functions-the-great-the-meh-and-the-ugly-c4562c6dc65d)
 1. [Azure Functions wants to make it easy for developers to get started with serverless](https://read.acloud.guru/azure-functions-wants-to-make-it-easy-for-developers-to-get-started-with-serverless-896766af985f)
 1. [Why I use GraphQL and avoid REST APIs](https://desiatov.com/why-graphql/)
 1. [Reconciling GraphQL and Thrift at Airbnb](https://medium.com/airbnb-engineering/reconciling-graphql-and-thrift-at-airbnb-a97e8d290712)
 1. [ASP.NET Core 2.1.0 now available](https://blogs.msdn.microsoft.com/webdev/2018/05/30/asp-net-core-2-1-0-now-available/)
 1. [Amazon Neptune Generally Available](https://aws.amazon.com/blogs/aws/amazon-neptune-generally-available/)
 1. [Tips on React for large scale projects](https://hackernoon.com/tips-on-react-for-large-scale-projects-3f9ece85983d)
+1. [Pushing NuGet packages built in Docker by running the container](https://andrewlock.net/pushing-nuget-packages-built-in-docker-by-running-the-container/)
+1. [Under the hood of ASP.NET Core WebHooks - Introduction](https://www.tpeczek.com/2018/05/under-hood-of-aspnet-core-webhooks.html)
 
 ## Tooling & Libraries
 
@@ -24,6 +26,7 @@
 1. [dnSpy - .NET debugger and assembly editor](https://github.com/0xd4d/dnSpy)
 1. [Apache Kafka vs RabbitMQ](https://ryanmccue.ca/apache-kafka-vs-rabbitmq/)
 1. [Introducing Git protocol version 2](https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html)
+1. [Reactive Extension 4.0 released](https://medium.com/@bnayae/reactive-extension-4-0-released-c6ca2e6fb869)
 
 ## Architecture & Databases
 
@@ -52,6 +55,7 @@
 1. [Announcing .NET Core 2.1](https://blogs.msdn.microsoft.com/dotnet/2018/05/30/announcing-net-core-2-1/)
 1. [Introducing Mono on AIX and IBM i](http://www.mono-project.com/news/2018/05/29/mono-on-aix-and-ibm-i/)
 1. [A kernel implementation of WebAssembly](https://github.com/cervus-v/cervus)
+1. [Blind optimizations - Making MurmurHash3 faster](https://ayende.com/blog/183137-C/blind-optimizations-making-murmurhash3-faster)
 
 ## Other
 
