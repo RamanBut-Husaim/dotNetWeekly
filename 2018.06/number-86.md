@@ -7,6 +7,8 @@
 1. [The power of HTTP for REST APIs – Part 2](https://tyk.io/blog/power-http-rest-apis-part-2/)
 1. [Living APIs, and the Case for GraphQL](https://brandur.org/graphql)
 1. [Setup an Nginx reverse proxy for your Docker containers](https://ryanpharis.com/setup-an-nginx-reverse-proxy-for-your-docker-containers/)
+1. [Using IDs for causation and correlation](https://www.thenativeweb.io/blog/2018-06-05-13-42-using-ids-for-causation-and-correlation/)
+1. [Introduction to Azure Event Grid](https://blogs.msdn.microsoft.com/azuredev/2018/06/05/introduction-to-azure-event-grid/)
 
 ## Tooling & Libraries
 
@@ -19,6 +21,8 @@
 1. [Improve the performance of BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet/issues/550#issuecomment-394167117)
 1. [VSCode version 1.24](https://code.visualstudio.com/updates/v1_24)
 1. [What’s Next for Visual Studio](https://blogs.msdn.microsoft.com/visualstudio/2018/06/06/whats-next-for-visual-studio/)
+1. [Which .NET Core Runtime Download do you need?](https://weblog.west-wind.com/posts/2018/Jun/05/Which-NET-Core-Runtime-Download-do-you-need)
+1. [Introducing fuget.org](http://praeclarum.org/post/174440517348/introducing-fugetorg)
 
 ## Architecture & Databases
 
