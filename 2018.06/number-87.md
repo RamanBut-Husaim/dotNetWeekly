@@ -8,18 +8,23 @@
 1. [ASP.NET Core 2.2 Roadmap](https://github.com/aspnet/Announcements/issues/307)
 1. [How not to structure your database-backed web applications - a study of performance bugs in the wild](https://blog.acolyer.org/2018/06/28/how-_not_-to-structure-your-database-backed-web-applications-a-study-of-performance-bugs-in-the-wild/)
 1. [SQS as an event source to trigger Lambda](https://medium.com/slalom-technology/sqs-as-an-event-source-to-trigger-lambda-8858cb3f627f)
+1. [Speed up compilation of ASP.NET Core 2.1 projects](https://www.danielcrabtree.com/blog/444/speed-up-compilation-of-asp-net-core-2-1-projects)
+1. [Controllers as action filters in ASP.NET Core MVC](https://www.strathweb.com/2018/06/controllers-as-action-filters-in-asp-net-core-mvc/)
+1. [What's This and Can I Delete It? Examining a Default ASP.NET Core MVC Project](https://exceptionnotfound.net/whats-this-and-can-i-delete-it-examining-a-default-asp-net-core-mvc-project/)
 
 ## Tooling & Libraries
 
 1. [Accelerate large-scale applications with BOLT](https://code.fb.com/data-infrastructure/accelerate-large-scale-applications-with-bolt/)
 1. [Scaling Kubernetes for 25M users](https://medium.com/@brendanrius/scaling-kubernetes-for-25m-users-a7937e3536a0)
-1. [GitLab 11.0 released with Auto DevOps and License Management](https://about.gitlab.com/2018/06/22/gitlab-11-0-released/)
 1. [Docker Considered Harmful](http://catern.com/posts/docker.html)
 1. [StackExchange.Redis - Initial implementation of Redis Streams](https://github.com/StackExchange/StackExchange.Redis/pull/860)
 1. [StackExchange.Redis - the network stability, 2.0, pipelines rollup issue](https://github.com/StackExchange/StackExchange.Redis/issues/871)
 1. [Newtonsoft.Json enabling Source Link](http://blog.ctaggart.com/2018/06/newtonsoftjson-enabling-source-link.html)
 1. [Why Kubernetes is The New Application Server](https://developers.redhat.com/blog/2018/06/28/why-kubernetes-is-the-new-application-server/)
 1. [Spiral - Self-tuning services via real-time machine learning](https://code.fb.com/data-infrastructure/spiral-self-tuning-services-via-real-time-machine-learning/)
+1. [Containers - What Are They Good For? Crafting our Build Environments](https://jimmybogard.com/containers-what-are-they-good-for-crafting-our-build-environments/)
+1. [Hello, Pulumi!](http://joeduffyblog.com/2018/06/18/hello-pulumi/)
+1. [Writing logs to Elasticsearch with Fluentd using Serilog in ASP.NET Core](https://andrewlock.net/writing-logs-to-elasticsearch-with-fluentd-using-serilog-in-asp-net-core/)
 
 ## Architecture & Databases
 
@@ -31,6 +36,7 @@
 1. [The Impact of Virtualization on Your Database](https://www.scylladb.com/2018/06/21/impact-virtualization-database/)
 1. [Why strong consistency matters with event-driven architectures](https://blog.fauna.com/why-strong-consistency-with-event-driven)
 1. [PostgreSQL Tuning - Key Things to Drive Performance](https://severalnines.com/blog/postgresql-tuning-key-things-drive-performance)
+1. [The emerging big data architectural pattern](https://azure.microsoft.com/en-us/blog/the-emerging-big-data-architectural-pattern/)
 
 ## Programming Languages
 
@@ -56,6 +62,7 @@
 
 ## Other
 
+1. [GitLab 11.0 released with Auto DevOps and License Management](https://about.gitlab.com/2018/06/22/gitlab-11-0-released/)
 1. [GitLab - We’re moving from Azure to Google Cloud Platform](https://about.gitlab.com/2018/06/25/moving-to-gcp/)
 1. [Are You an Architect?](https://www.yegor256.com/2018/06/26/are-you-an-architect.html)
 1. [5 Things Learned Generating API Documentation](https://dennisdel.com/blog/five-things-api-docs/)
