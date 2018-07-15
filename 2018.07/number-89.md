@@ -23,12 +23,17 @@
 1. [Verifying PostgreSQL backups made easier with new open-source tool](https://cloudplatform.googleblog.com/2018/07/verifying-postgresql-backups-made-easier-with-new-open-source-tool.html)
 1. [Walkthrough - Creating an HTML Email Template with Razor and Razor Class Libraries and Rendering it from a .NET Standard Class Library](https://scottsauber.com/2018/07/07/walkthrough-creating-an-html-email-template-with-razor-and-razor-class-libraries-and-rendering-it-from-a-net-standard-class-library/)
 1. [Introducing GitHub Enterprise 2.14](https://blog.github.com/2018-07-12-introducing-enterprise-2-14/)
+1. [IdentityManager2](https://leastprivilege.com/2018/07/09/identitymanager2/)
+1. [Pwned Passwords V3 is Now Live!](https://www.troyhunt.com/pwned-passwords-v3-is-now-live/)
 
 ## Architecture & Databases
 
 1. [Goodbye Microservices - From 100s of problem children to 1 superstar](https://segment.com/blog/goodbye-microservices/)
 1. [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 1. [Improving the developer experience with OpenAPI Specification](https://medium.com/adyen/improving-the-developer-experience-with-openapi-specification-f90fbf8077cf)
+1. [Commands and events](https://www.thenativeweb.io/blog/2018-07-10-15-33-commands-and-events/)
+1. [How to perform Schema Changes in MySQL and MariaDB in a Safe Way](https://severalnines.com/blog/how-perform-schema-changes-mysql-mariadb-safe-way)
+1. [The Top Five Things That DBAs Need to Monitor](https://www.red-gate.com/simple-talk/blogs/the-top-five-things/)
 
 ## Programming Languages
 
@@ -38,6 +43,7 @@
 1. [Racing the Zebra — Benchmark Performance Architecture for F# Web Server](https://medium.com/@gerardtoconnor/racing-the-zebra-benchmark-performance-architecture-for-f-web-server-58dd922f5cfe)
 1. [Understanding Blockchain Fundamentals, Part 1 - Byzantine Fault Tolerance](https://blockchain.works-hub.com/learn/understanding-blockchain-fundamentals-part-1-byzantine-fault-tolerance-78f64)
 1. [n F#, Failure Is Not an Option](http://tiny-giant-books.com/blog/failure-is-not-an-option-in-f)
+1. [Easy conversions and readability – code smells series](https://blog.jetbrains.com/dotnet/2018/07/09/easy-conversions-readability-code-smells-series/)
 
 ## Runtime
 
@@ -58,3 +64,4 @@
 1. [Developer Relations revelations - travel is hard work](https://christianheilmann.com/2018/07/13/developer-relations-revelations-travel-is-hard-work/)
 1. [Why use OpenStreetMap instead of Google Maps?](https://www.openstreetmap.org/user/jbelien/diary/44356)
 1. [Flavours of Agile](https://www.thekua.com/atwork/2018/07/flavours-of-agile/)
+1. [Full Stack Developer, Master of None](https://ayende.com/blog/183681-A/full-stack-developer-master-of-none)
