@@ -8,6 +8,7 @@
 1. [Deprecating Microsoft.AspNetCore.All](https://github.com/aspnet/Announcements/issues/314)
 1. [Vue CLI 3 - A Game Changer For Frontend Development](https://vuejsdevelopers.com/2018/03/26/vue-cli-3/)
 1. [TLS 1.3 is DONE](https://www.rfc-editor.org/rfc/rfc8446.txt)
+1. [Beware the combined authorize filter mechanics in ASP.NET Core 2.1](https://brockallen.com/2018/07/15/beware-the-combined-authorize-filter-mechanics-in-asp-net-core-2-1/)
 
 ## Tooling & Libraries
 
@@ -24,6 +25,12 @@
 
 1. [Sampling in Observability](https://medium.com/observability/sampling-in-observability-db0142cdda5b)
 1. [Sharding Your Data With PostgreSQL 11](https://pgdash.io/blog/postgres-11-sharding.html?h)
+1. [PostgreSQL Triggers and Stored Function Basics](https://severalnines.com/blog/postgresql-triggers-and-stored-function-basics)
+1. [Using Kubernetes to Deploy PostgreSQL](https://severalnines.com/blog/using-kubernetes-deploy-postgresql)
+1. [Life Beyond Distributed Transactions - An Apostate's Implementation - A Primer](https://jimmybogard.com/life-beyond-transactions-implementation-primer/)
+1. [Life Beyond Distributed Transactions: - An Apostate's Implementation - Document Coordination](https://jimmybogard.com/life-beyond-distributed-transactions-an-apostates-implementation-aggregate-coordination/)
+1. [Life Beyond Distributed Transactions - An Apostate's Implementation - Document Example](https://jimmybogard.com/life-beyond-distributed-transactions-an-apostates-implementation-document-example/)
+1. [Actors in clusters - why, when and how - Pawel Banka, Vagif Abilov](https://www.youtube.com/watch?v=MyP1VFHdxKY&feature=youtu.be)
 
 ## Programming Languages
 
@@ -33,6 +40,7 @@
 1. [Add wasm debug info](https://github.com/dotnet/corert/pull/6186)
 1. [1/0 = 0](https://www.hillelwayne.com/post/divide-by-zero/)
 1. [Julia 1.0](https://julialang.org/blog/2018/08/one-point-zero)
+1. [.NET Core Self-Contained and Framework-Dependent Deployments Explained](https://www.danielcrabtree.com/blog/496/net-core-self-contained-and-framework-dependent-deployments-explained)
 
 ## Runtime
 
@@ -42,6 +50,7 @@
 1. [So you want to create your own .NET runtime? - Chris Bacon](https://www.youtube.com/watch?v=jK8jYQ3ZKiI)
 1. [.NET Internals 03 - Boxing and unboxing](http://www.dsibinski.pl/2018/08/net-internals-03-boxing-and-unboxing/)
 1. [Dynamic Assembly Loading in .NET Core - Explanation](https://github.com/dotnet/coreclr/issues/19374#issuecomment-411705131)
+1. [Implementing custom IValueTaskSource – async without allocations](http://tooslowexception.com/implementing-custom-ivaluetasksource-async-without-allocations/)
 
 ## Other
 
