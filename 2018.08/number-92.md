@@ -19,9 +19,11 @@
 1. [Rider 2018.2 Release Candidate](https://blog.jetbrains.com/dotnet/2018/08/16/rider-2018-2-release-candidate/)
 1. [Announcing Pulumi 0.15 - Kubernetes, CI/CD, OpenStack, and more](https://blog.pulumi.com/announcing-pulumi-0.15-kubernetes-cicd-openstack-and-more)
 1. [ProtonMail’s open source encryption library, OpenPGPjs, has passed an independent security audit](https://protonmail.com/blog/openpgpjs-protonmail-security-audit/)
+1. [Fast key-value store from Microsoft Research](https://github.com/Microsoft/FASTER)
 
 ## Architecture & Databases
 
+1. [Service Fabric and Kubernetes comparison, part 1 – Distributed Systems Architecture](https://blogs.msdn.microsoft.com/azuredev/2018/08/15/service-fabric-and-kubernetes-comparison-part-1-distributed-systems-architecture/)
 1. [SQLite Release 3.25.0](https://www.sqlite.org/draft/releaselog/current.html)
 1. [TimescaleDB vs. InfluxDB - purpose built differently for time-series data](https://blog.timescale.com/timescaledb-vs-influxdb-for-time-series-data-timescale-influx-sql-nosql-36489299877)
 1. [Performance Monitoring & Auditing PostgreSQL - Top Resources](https://severalnines.com/blog/performance-monitoring-auditing-postgresql-top-resources)
