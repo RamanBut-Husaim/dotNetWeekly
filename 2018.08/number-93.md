@@ -19,6 +19,7 @@
 1. [Download Docker CE without logging in Docker Store](https://github.com/docker/docker.github.io/issues/6910)
 1. [Rider 2018.2 is released](https://blog.jetbrains.com/dotnet/2018/08/23/rider-2018-2-released/)
 1. [Free ebook Rider Succinctly](https://www.syncfusion.com/ebooks/rider-succinctly)
+1. [Serilog Tutorial for .NET Logging - 16 Best Practices and Tips](https://dzone.com/articles/serilog-tutorial-for-net-logging-16-best-practices)
 
 ## Architecture & Databases
 
@@ -29,6 +30,8 @@
 1. [Analysis Paralysis - The Daily Software Anti-Pattern](https://exceptionnotfound.net/analysis-paralysis-the-daily-software-anti-pattern/)
 1. [Reinventing the Square Wheel - The Daily Software Anti-Pattern](https://exceptionnotfound.net/reinventing-the-square-wheel-the-daily-software-anti-pattern/)
 1. [A Critique of Resizable Hash Tables - Riak Core & Random Slicing](https://www.infoq.com/articles/dynamo-riak-random-slicing)
+1. [The SQL Server Defensive Dozen – Part 3 - Authentication and Authorization in SQL Server](https://blogs.msdn.microsoft.com/securesql/2018/08/the-sql-server-defensive-dozen-part-3-authentication-and-authorization-in-sql-server/)
+1. [What they don’t tell you about event sourcing](https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a)
 
 ## Programming Languages
 
