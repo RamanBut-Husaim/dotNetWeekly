@@ -17,10 +17,18 @@
 1. [Redis will remain BSD licensed](http://antirez.com/news/120)
 1. [ASP.NET Core 2.2.0-preview1 now available](https://blogs.msdn.microsoft.com/webdev/2018/08/22/asp-net-core-2-2-0-preview1-now-available/)
 1. [Download Docker CE without logging in Docker Store](https://github.com/docker/docker.github.io/issues/6910)
+1. [Rider 2018.2 is released](https://blog.jetbrains.com/dotnet/2018/08/23/rider-2018-2-released/)
+1. [Free ebook Rider Succinctly](https://www.syncfusion.com/ebooks/rider-succinctly)
 
 ## Architecture & Databases
 
 1. [How to extract a data-rich service from a monolith](https://martinfowler.com/articles/extract-data-rich-service.html)
+1. [PostgreSQL Streaming Replication vs Logical Replication](https://severalnines.com/blog/postgresql-streaming-replication-vs-logical-replication)
+1. [Transactional Patterns - Conversation vs. Batch](https://ayende.com/blog/184161-A/transactional-patterns-conversation-vs-batch)
+1. [Not Invented Here - The Daily Software Anti-Pattern](https://exceptionnotfound.net/not-invented-here-the-daily-software-anti-pattern/)
+1. [Analysis Paralysis - The Daily Software Anti-Pattern](https://exceptionnotfound.net/analysis-paralysis-the-daily-software-anti-pattern/)
+1. [Reinventing the Square Wheel - The Daily Software Anti-Pattern](https://exceptionnotfound.net/reinventing-the-square-wheel-the-daily-software-anti-pattern/)
+1. [A Critique of Resizable Hash Tables - Riak Core & Random Slicing](https://www.infoq.com/articles/dynamo-riak-random-slicing)
 
 ## Programming Languages
 
