@@ -120,3 +120,4 @@
     + [.NET Weekly #91](2018.08/number-91.md)
     + [.NET Weekly #92](2018.08/number-92.md)
     + [.NET Weekly #93](2018.08/number-93.md)
+    + [.NET Weekly #94](2018.08/number-94.md)
