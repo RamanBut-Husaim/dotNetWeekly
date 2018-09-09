@@ -31,6 +31,7 @@
 1. [A Developer’s Guide to MongoDB Replica Sets](https://severalnines.com/blog/developer-s-guide-mongodb-replica-sets)
 1. [Reviewing FASTERSummary](https://ayende.com/blog/184387-A/reviewing-faster-summary)
 1. [How Distributed Tracing Solves One of the Worst Microservices Problems](https://petabridge.com/blog/why-use-distributed-tracing/)
+1. [How to choose the right encryption technology for Azure SQL Database or SQL Server](https://azure.microsoft.com/en-us/blog/transparent-data-encryption-or-always-encrypted/)
 
 ## Programming Languages
 
@@ -46,6 +47,7 @@
 
 1. [V8 Internals - How Small is a Small Integer](https://medium.com/fhinkel/v8-internals-how-small-is-a-small-integer-e0badc18b6da)
 1. [Compiling Mono on Windows without Cygwin](https://www.mono-project.com/docs/compiling-mono/windows/no-cygwin/)
+1. [WebAssembly - How and why](https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71)
 
 ## Other
 
