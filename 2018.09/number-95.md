@@ -19,6 +19,7 @@
 1. [Introducing cstar - the Spotify Cassandra orchestration tool, now open source](https://labs.spotify.com/2018/09/04/introducing-cstar-the-spotify-cassandra-orchestration-tool-now-open-source/)
 1. [Cutting Edge - Never Mind JavaScript, Here’s Blazor](https://msdn.microsoft.com/magazine/mt829756)
 1. [Dropbox - Migrating from Underscore to Lodash](https://blogs.dropbox.com/tech/2018/09/migrating-from-underscore-to-lodash/)
+1. [Monolithic Repos Are Evil](https://www.yegor256.com/2018/09/05/monolithic-repositories.html)
 
 ## Architecture & Databases
 
@@ -27,6 +28,9 @@
 1. [Serializable ACID Transactions on Streaming Data](https://data-artisans.com/blog/serializable-acid-transactions-on-streaming-data)
 1. [On Redis master-slave terminology](http://antirez.com/news/122)
 1. [Setting up Streaming Replication in PostgreSQL](https://www.percona.com/blog/2018/09/07/setting-up-streaming-replication-postgresql/)
+1. [A Developer’s Guide to MongoDB Replica Sets](https://severalnines.com/blog/developer-s-guide-mongodb-replica-sets)
+1. [Reviewing FASTERSummary](https://ayende.com/blog/184387-A/reviewing-faster-summary)
+1. [How Distributed Tracing Solves One of the Worst Microservices Problems](https://petabridge.com/blog/why-use-distributed-tracing/)
 
 ## Programming Languages
 
@@ -35,6 +39,8 @@
 1. [Select Star SQL](https://selectstarsql.com/)
 1. [First experiments using EF Core with Azure Cosmos DB](https://csharp.christiannagel.com/2018/09/05/efcorecosmos/)
 1. [What To Tidy](https://medium.com/@kentbeck_7670/what-to-tidy-28cb46e55009)
+1. [Death by Planning - The Daily Software Anti-Pattern](https://exceptionnotfound.net/death-by-planning-the-daily-software-anti-pattern/)
+1. [Cargo Cult Programming - The Daily Software Anti-Pattern](https://exceptionnotfound.net/cargo-cult-programming-the-daily-software-anti-pattern/)
 
 ## Runtime
 
