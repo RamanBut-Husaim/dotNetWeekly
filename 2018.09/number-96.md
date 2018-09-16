@@ -32,16 +32,27 @@
 1. [PostgreSQL 11 and Just In Time Compilation of Queries](https://www.citusdata.com/blog/2018/09/11/postgresql-11-just-in-time/)
 1. [Why We Need Dynamic Secrets](https://www.hashicorp.com/blog/why-we-need-dynamic-secrets)
 1. [Graph Databases for Beginners - Graph Theory & Predictive Modeling](https://neo4j.com/blog/graph-theory-predictive-modeling/)
+1. [Overview of the MongoDB Database Profiler](https://severalnines.com/blog/overview-mongodb-database-profiler)
+1. [Life Beyond Distributed Transactions An Apostate's Implementation - Sagas](https://jimmybogard.com/life-beyond-distributed-transactions-sagas/)
+1. [How to Deploy PostgreSQL for High Availability](https://severalnines.com/blog/how-deploy-postgresql-high-availability)
+1. [Pinterest Switches From OpenTSDB to Their Own Time Series Database](https://www.infoq.com/news/2018/09/pinterest-goku-timeseries-db)
 
 ## Programming Languages
 
 1. [FSharp – A trading strategy backtester](https://francotiveron.wordpress.com/2018/09/10/f-a-trading-strategy-backtester-3/)
 1. [Announcing TypeScript 3.1 RC](https://blogs.msdn.microsoft.com/typescript/2018/09/13/announcing-typescript-3-1-rc/)
 1. [The 5 Levels of Logging](https://www.aib42.net/article/five-levels-of-logging)
+1. [The Lazy functor](http://blog.ploeh.dk/2018/09/10/the-lazy-functor/)
+1. [Big Ball of Mud - The Daily Software Anti-Pattern](https://exceptionnotfound.net/big-ball-of-mud-the-daily-software-anti-pattern)
+1. [Boat Anchor - The Daily Software Anti-Pattern](https://exceptionnotfound.net/boat-anchor-the-daily-software-anti-pattern)
+1. [Announcing PowerShell Core 6.1](https://blogs.msdn.microsoft.com/powershell/2018/09/13/announcing-powershell-core-6-1/)
+1. [Golden Hammer - The Daily Software Anti-Pattern](https://exceptionnotfound.net/golden-hammer-the-daily-software-anti-pattern/)
 
 ## Runtime
 
 1. [Writing a JIT Compiler in C#](https://www.mono-project.com/news/2018/09/11/csharp-jit/)
+1. [.NET Framework September 2018 Security and Quality Rollup](https://blogs.msdn.microsoft.com/dotnet/2018/09/11/net-framework-september-2018-security-and-quality-rollup/)
+1. [.NET Core September 2018 Update](https://blogs.msdn.microsoft.com/dotnet/2018/09/11/net-core-september-2018-update/)
 
 ## Other
 
@@ -50,3 +61,4 @@
 1. [The cloud scales faster than your budget](https://read.acloud.guru/the-cloud-scales-faster-than-your-budget-4460e328edd9)
 1. [Fixing an old hack - why we are bumping the IPv6 MTU](https://blog.cloudflare.com/increasing-ipv6-mtu/)
 1. [NVIDIA Turing Architecture In-Depth](https://devblogs.nvidia.com/nvidia-turing-architecture-in-depth/)
+1. [Thoughts about .NET, The Cloud, AI, ML, and teaching software engineers](https://blogs.endjin.com/2018/09/thoughts-about-net-the-cloud-ai-ml-and-teaching-software-engineers/)
