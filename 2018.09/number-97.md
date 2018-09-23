@@ -8,6 +8,8 @@
 1. [Expanding DNSSEC Adoption](https://blog.cloudflare.com/automatically-provision-and-maintain-dnssec/)
 1. [Magecart are coming for you, are you ready?](https://scotthelme.co.uk/hardening-payment-forms-with-csp/)
 1. [Psst! Here’s why ReasonReact is the best way to write React](https://medium.freecodecamp.org/psst-heres-why-reasonreact-is-the-best-way-to-write-react-5088d434d035)
+1. [The future of ASP.NET SignalR](https://blogs.msdn.microsoft.com/webdev/2018/09/17/the-future-of-asp-net-signalr/)
+1. [Running ASP.NET Core content negotiation by hand](https://www.strathweb.com/2018/09/running-asp-net-core-content-negotiation-by-hand/)
 
 ## Tooling & Libraries
 
@@ -24,6 +26,9 @@
 1. [Announcing TimescaleDB 1.0 - The first enterprise-ready time-series database to support full SQL and scale](https://blog.timescale.com/announcing-1-0-enterprise-ready-time-series-database-sql-open-source-400b4342dfa0)
 1. [MongoDB server leaks 11 million user records from e-marketing service](https://www.zdnet.com/article/mongodb-server-leaks-11-million-user-records-from-e-marketing-service/)
 1. [CrimsonDb - A Self-Designing Key-Value Store](http://daslab.seas.harvard.edu/projects/crimsondb/)
+1. [MongoDB Performance Tuning - Everything You Need to Know](https://stackify.com/mongodb-performance-tuning/)
+1. [Network segmentation in modern environments](https://www.hashicorp.com/blog/network-segmentation-in-modern-environments)
+1. [AMQP. The Road Ahead.](http://vasters.com/blog/amqp-the-road-ahead/)
 
 ## Programming Languages
 
@@ -32,6 +37,9 @@
 1. [Fear of Decoupling](https://www.yegor256.com/2018/09/18/fear-of-coupling.html)
 1. [Typing is not a programming bottleneck](http://blog.ploeh.dk/2018/09/17/typing-is-not-a-programming-bottleneck/)
 1. [How we integrate Rust with C#](https://blog.getseq.net/rust-at-datalust-how-we-integrate-rust-with-csharp/)
+1. [Debug considerations for high level system architecture](https://ayende.com/blog/184451-C/debug-considerations-for-high-level-system-architecture)
+1. [CSharp 7.2 and 7.3 updates for stackalloc](https://blog.jetbrains.com/dotnet/2018/09/17/c-sharp-updates-for-stackalloc/)
+1. [Implementing Self-Organizing Maps with .NET Core](https://rubikscode.net/2018/09/17/implementing-self-organizing-maps-with-net-core/)
 
 ## Runtime
 
