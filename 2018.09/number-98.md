@@ -4,6 +4,9 @@
 
 1. [Azure SignalR Service now generally available](https://azure.microsoft.com/en-us/blog/azure-signalr-service-now-generally-available/)
 1. [AWS Amplify Announces Vue.js Support for Building Cloud-powered Web Applications](https://aws.amazon.com/about-aws/whats-new/2018/09/aws-amplify-announces-vuejs-support-for-building-cloud-powered-web-applications/)
+1. [Building with blockchain on Azure](https://azure.microsoft.com/en-us/blog/building-with-blockchain-on-azure/)
+1. [Deploying an ASP.NET Core application to Windows IIS](https://damienbod.com/2018/09/21/deploying-an-asp-net-core-application-to-windows-iis/)
+1. [Introducing Azure Functions 2.0](https://azure.microsoft.com/en-us/blog/introducing-azure-functions-2-0/)
 
 ## Tooling & Libraries
 
@@ -12,6 +15,7 @@
 1. [Kubernetes 1.12 Arrives With TLS and Better Cloud Integrations](https://thenewstack.io/kubernetes-1-12-arrives-with-tls-and-better-cloud-integrations/)
 1. [TensorFlow 1.11.0](https://github.com/tensorflow/tensorflow/releases/tag/v1.11.0)
 1. [Re-Open-Sourcing MS-DOS 1.25 and 2.0](https://blogs.msdn.microsoft.com/commandline/2018/09/28/re-open-sourcing-ms-dos-1-25-and-2-0/)
+1. [Exploring .NET Core's SourceLink - Stepping into the Source Code of NuGet packages you don't own](https://www.hanselman.com/blog/ExploringNETCoresSourceLinkSteppingIntoTheSourceCodeOfNuGetPackagesYouDontOwn.aspx)
 
 ## Architecture & Databases
 
@@ -21,6 +25,9 @@
 1. [The design and implementation of modern column-oriented database systems](https://blog.acolyer.org/2018/09/26/the-design-and-implementation-of-modern-column-oriented-database-systems/)
 1. [Architecture of Nautilus, the new Dropbox search engine](https://blogs.dropbox.com/tech/2018/09/architecture-of-nautilus-the-new-dropbox-search-engine/)
 1. [Encryption and Databases Are Actually Similar](https://dan.enigmabridge.com/encryption-and-databases-are-actually-similar/)
+1. [Gold Plating - The Daily Software Anti-Pattern](https://exceptionnotfound.net/gold-plating-the-daily-software-anti-pattern/)
+1. [The redux of the fallacies of distributed computing](https://ayende.com/blog/184545-A/the-redux-of-the-fallacies-of-distributed-computing)
+1. [Bikeshedding - The Daily Software Anti-Pattern](https://exceptionnotfound.net/bikeshedding-the-daily-software-anti-pattern/)
 
 ## Programming Languages
 
@@ -37,6 +44,7 @@
 ## Runtime
 
 1. [Getting things sorted in V8](https://v8.dev/blog/array-sort)
+1. [.NET Framework September 2018 Preview of Quality Rollup](https://blogs.msdn.microsoft.com/dotnet/2018/09/25/net-framework-september-2018-preview-of-quality-rollup/)
 
 ## Other
 
