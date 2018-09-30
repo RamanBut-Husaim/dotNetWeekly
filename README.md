@@ -1,6 +1,6 @@
 # .NET Weekly
 
-This book contains news from the .NET world (and a bit more) for the past week.
+This book contains news from the .NET world (and a bit more) for the past week. Most of the new articles could be found in the author's blog - https://blog.thecraftingstrider.net/.
 
 + 2016
   + [September](2016.09/README.md)
