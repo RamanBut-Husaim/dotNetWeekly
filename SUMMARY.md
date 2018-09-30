@@ -125,4 +125,4 @@
     + [.NET Weekly #95](2018.09/number-95.md)
     + [.NET Weekly #96](2018.09/number-96.md)
     + [.NET Weekly #97](2018.09/number-97.md)
-    + [.NET Weekly #97](2018.09/number-98.md)
+    + [.NET Weekly #98](2018.09/number-98.md)
