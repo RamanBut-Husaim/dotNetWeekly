@@ -126,3 +126,5 @@
     + [.NET Weekly #96](2018.09/number-96.md)
     + [.NET Weekly #97](2018.09/number-97.md)
     + [.NET Weekly #98](2018.09/number-98.md)
+  + [October](2018.10/README.md)
+    + [.NET Weekly #99](2018.10/number-99.md)

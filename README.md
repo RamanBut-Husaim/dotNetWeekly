@@ -29,3 +29,4 @@ This book contains news from the .NET world (and a bit more) for the past week. 
   + [July](2018.07/README.md)
   + [August](2018.08/README.md)
   + [September](2018.09/README.md)
+  + [October](2018.10/README.md)
