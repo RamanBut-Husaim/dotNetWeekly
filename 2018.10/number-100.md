@@ -10,6 +10,8 @@
 1. [URLs are hard, let's kill them](https://scotthelme.co.uk/urls-are-hard/)
 1. [Building an open source GitHub project using Azure DevOps](https://andrewlock.net/building-an-open-source-github-project-using-azure-devops/)
 1. [Authorization In GraphQL Using Custom Schema Directives](https://medium.com/@lyonwj/authorization-in-graphql-using-custom-schema-directives-eafa6f5b4658)
+1. [Introduction to Vue.js with a Single Page Application (SPA) in Visual Studio](https://www.red-gate.com/simple-talk/dotnet/net-development/introduction-to-vue-js-with-a-single-page-application-spa-in-visual-studio/)
+1. [Amazon S3 Increases Request Rate Performance and Drops Randomized Prefix Requirement](https://www.infoq.com/news/2018/10/amazon-s3-performance-increase)
 
 ## Tooling & Libraries
 
@@ -31,6 +33,8 @@
 1. [Announcing BlazingSQL — A GPU SQL Engine for RAPIDS Open-Source Software from NVIDIA](https://blog.blazingdb.com/announcing-blazingsql-a-gpu-sql-engine-for-rapids-open-source-software-from-nvidia-11e115ba7dd7)
 1. [Debugging Distributed Systems with Why-Across-Time Provenance](https://mwhittaker.github.io/publications/wat_SOCC18.pdf)
 1. [Why Firebase sucks](https://medium.com/@scosta/why-firebase-sucks-ce5d2302eb20)
+1. [Managing data store locality at scale with Akkio](https://code.fb.com/core-data/akkio/)
+1. [High Volume Space Exploration Time-Series Data Storage in PostgreSQL](https://www.infoq.com/news/2018/10/space-time-series-data)
 
 ## Programming Languages
 
@@ -47,6 +51,7 @@
 1. [.NET Framework October 2018 Security and Quality Rollup](https://blogs.msdn.microsoft.com/dotnet/2018/10/09/net-framework-october-2018-security-and-quality-rollup/)
 1. [Using .NET Hardware Intrinsics API to accelerate machine learning scenarios](https://blogs.msdn.microsoft.com/dotnet/2018/10/10/using-net-hardware-intrinsics-api-to-accelerate-machine-learning-scenarios/)
 1. [Microsoft Security Advisory CVE-2018-8292 - .NET Core Information Disclosure Vulnerability](https://github.com/dotnet/announcements/issues/88)
+1. [You Should Never See This Callstack in Production](https://blogs.msdn.microsoft.com/maoni/2018/10/09/you-should-never-see-this-callstack-in-production/)
 
 ## Other
 
