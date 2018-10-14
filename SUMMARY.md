@@ -128,3 +128,4 @@
     + [.NET Weekly #98](2018.09/number-98.md)
   + [October](2018.10/README.md)
     + [.NET Weekly #99](2018.10/number-99.md)
+    + [.NET Weekly #100](2018.10/number-100.md)
