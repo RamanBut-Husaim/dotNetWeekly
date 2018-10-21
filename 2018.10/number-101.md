@@ -16,6 +16,10 @@
 1. [Blazor - We needed to talk performance](https://github.com/aspnet/Blazor/issues/767)
 1. [ASP.NET Core 2.2.0-preview3 now available](https://blogs.msdn.microsoft.com/webdev/2018/10/17/asp-net-core-2-2-0-preview3-now-available/)
 1. [libssh 0.8.4 and 0.7.6 security and bugfix release](https://www.libssh.org/2018/10/16/libssh-0-8-4-and-0-7-6-security-and-bugfix-release/)
+1. [Testing PowerShell Modules with Pester](https://www.red-gate.com/simple-talk/sysadmin/powershell/testing-powershell-modules-with-pester/)
+1. [Deploy web apps, explore resources and more – Introducing the Azure Toolkit for Rider](https://blog.jetbrains.com/dotnet/2018/10/16/deploy-web-apps-explore-resources-introducing-azure-toolkit-rider/)
+1. [Better DevEx at Netflix - Polyglot and Containers](https://www.infoq.com/presentations/netflix-polyglot-containers)
+1. [Apache Kafka - Ten Best Practices to Optimize Your Deployment](https://www.infoq.com/articles/apache-kafka-best-practices-to-optimize-your-deployment)
 
 ## Architecture & Databases
 
@@ -26,12 +30,15 @@
 1. [Microservices Are Something You Grow Into, Not Begin With](https://nickjanetakis.com/blog/microservices-are-something-you-grow-into-not-begin-with)
 1. [3factor](https://3factor.app/)
 1. [Consistency without Clocks - The FaunaDB Distributed Transaction Protocol](https://fauna.com/blog/consistency-without-clocks-faunadb-transaction-protocol)
+1. [A Developer’s Guide to MongoDB Sharding](https://severalnines.com/blog/developer-s-guide-mongodb-sharding)
 
 ## Programming Languages
 
 1. [Learning JavaScript objects](http://exploringjs.com/impatient-js/ch_single-objects.html)
 1. [Guidance for library authors](https://blogs.msdn.microsoft.com/dotnet/2018/10/15/guidance-for-library-authors/)
 1. [Black-Scholes-Merton, F# and AVX2](https://francotiveron.wordpress.com/2018/10/16/black-scholes-merton-f-and-avx2-2/)
+1. [Using multiple instances of strongly-typed settings with named options in .NET Core 2.x](https://andrewlock.net/using-multiple-instances-of-strongly-typed-settings-with-named-options-in-net-core-2-x/)
+1. [Does F# have a future?](https://forums.fsharp.org/t/does-f-have-a-future/237)
 
 ## Runtime
 
