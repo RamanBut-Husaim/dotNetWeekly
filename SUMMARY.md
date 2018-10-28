@@ -130,3 +130,4 @@
     + [.NET Weekly #99](2018.10/number-99.md)
     + [.NET Weekly #100](2018.10/number-100.md)
     + [.NET Weekly #101](2018.10/number-101.md)
+    + [.NET Weekly #102](2018.10/number-102.md)
