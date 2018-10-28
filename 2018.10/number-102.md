@@ -8,6 +8,7 @@
 1. [Common Pitfalls writing scalable services in ASP.NET Core](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/Guidance.md)
 1. [Getting to know React DOMs event handling system inside out](https://medium.com/the-guild/getting-to-know-react-doms-event-handling-system-inside-out-378c44d2a5d0)
 1. [What's up with GitLab.com? Check out the latest data on its stability](https://about.gitlab.com/2018/10/11/gitlab-com-stability-post-gcp-migration/index.html)
+1. [The dangers and gotchas of using scoped services in IConfigureOptions](https://andrewlock.net/the-dangers-and-gotchas-of-using-scoped-services-when-configuring-options-in-asp-net-core/)
 
 ## Tooling & Libraries
 
@@ -21,6 +22,7 @@
 1. [React v16.6.0 - lazy, memo and contextType](https://reactjs.org/blog/2018/10/23/react-v-16-6.html)
 1. [Node v11.0.0](https://nodejs.org/en/blog/release/v11.0.0/)
 1. [NuGet - Deprecate packages](https://github.com/NuGet/Home/wiki/Deprecate-packages)
+1. [HashiCorp Product Announcements at HashiConf 2018](https://www.hashicorp.com/blog/hashicorp-product-announcements-at-hashiconf-2018)
 
 ## Architecture & Databases
 
@@ -28,11 +30,15 @@
 1. [Redis Graph - a graph database module for Redis](https://oss.redislabs.com/redisgraph/)
 1. [Why do DTOs lead to temporal coupling?](https://www.driver733.com/2018/10/21/dtos-lead-to-temporal-coupling.html)
 1. [RobinHood - tail latency aware caching – dynamic reallocation from cache-rich to cache-poor](https://blog.acolyer.org/2018/10/26/robinhood-tail-latency-aware-caching-dynamic-reallocation-from-cache-rich-to-cache-poor/)
+1. [Redis 5.0 Released with New "Streams" Data Type](https://www.infoq.com/news/2018/10/Redis-5-Released)
+1. [Slow Connections with Sql Server](https://weblog.west-wind.com/posts/2018/Oct/26/Sql-Server-Slow-Connections-with-2-second-or-so-delay)
 
 ## Programming Languages
 
 1. [WebAssembly’s post-MVP future - A cartoon skill tree](https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/)
 1. [Fear, trust and JavaScript - When types and functional programming fail](https://www.reaktor.com/blog/fear-trust-and-javascript/)
+1. [Reinventing time reporting with modern .NET - part 1](https://blog.joelving.dk/2018/10/reinventing-time-reporting-modern-dot-net-part-1/)
+1. [Getting Started with AWS Lambda in F#](https://spin.atomicobject.com/2018/10/24/aws-lambda-fsharp/)
 
 ## Runtime
 
@@ -47,3 +53,4 @@
 
 1. [Linux 4.19](https://lkml.org/lkml/2018/10/22/184)
 1. [Rust can be difficult to learn and frustrating, but it’s also the most exciting thing in software development in a long time](https://www.influxdata.com/blog/rust-can-be-difficult-to-learn-and-frustrating-but-its-also-the-most-exciting-thing-in-software-development-in-a-long-time/)
+1. [A Brief History of High-Performing Teams by Jessica Kerr](https://www.infoq.com/news/2018/10/history-great-teams)
