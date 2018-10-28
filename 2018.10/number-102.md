@@ -1,5 +1,7 @@
 # .NET Weekly #102 (22.10 - 28.10)
 
+Original article has been posted [here](https://blog.thecraftingstrider.net/posts/dotnetweekly/2018.10/number-102/).
+
 ## Cloud & Web
 
 1. [The problems with forcing regular password expiry](https://www.ncsc.gov.uk/articles/problems-forcing-regular-password-expiry)
