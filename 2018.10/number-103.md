@@ -7,6 +7,7 @@
 1. [React hooks - not magic, just arrays](https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e)
 1. [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 1. [Authorization middleware](https://github.com/aspnet/Security/pull/1894)
+1. [Configuring named options using IConfigureNamedOptions and ConfigureAll](https://andrewlock.net/configuring-named-options-using-iconfigurenamedoptions-and-configureall/)
 
 ## Tooling & Libraries
 
@@ -51,3 +52,4 @@
 1. [Quality and effort](https://seths.blog/2018/11/quality-and-effort/)
 1. [Horizon - Facebook’s Open Source Applied Reinforcement Learning Platform](https://research.fb.com/publications/horizon-facebooks-open-source-applied-reinforcement-learning-platform/)
 1. [Signed HTTP Exchanges](https://developers.google.com/web/updates/2018/11/signed-exchanges)
+1. [A New Network - Rethinking Addressing and Routing](https://vasters.com/blog/a-new-network/)
