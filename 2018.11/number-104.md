@@ -11,6 +11,8 @@
 1. [Cloud Computing without Containers](https://blog.cloudflare.com/cloud-computing-without-containers/?hH)
 1. [Added support for generic host based IWebHostBuilder](https://github.com/aspnet/Hosting/pull/1580)
 1. [Goodbye Electron, Hello Desktop PWAs](https://medium.com/@novicki_david/goodbye-electron-hello-desktop-pwas-f316b8f39882)
+1. [Delaying strongly-typed options configuration using PostConfigure in ASP.NET Core](https://andrewlock.net/delaying-strongly-typed-options-configuration-using-postconfigure-in-asp-net-core/)
+1. [Announcing the general availability of Azure Event Hubs for Apache Kafka](https://azure.microsoft.com/en-us/blog/announcing-the-general-availability-of-azure-event-hubs-for-apache-kafka/)
 
 ## Tooling & Libraries
 
@@ -35,11 +37,14 @@
 1. [Why RESP3 will be the only protocol supported by Redis 6](http://antirez.com/news/125)
 1. [How we upgraded Stack Overflow to SQL Server 2017](https://www.tarynpivots.com/post/how-we-upgraded-stackoverflow-to-sql-server-2017/)
 1. [Cross shard transactions at 10 million requests per second](https://blogs.dropbox.com/tech/2018/11/cross-shard-transactions-at-10-million-requests-per-second)
+1. [Migrating from MSSQL to PostgreSQL - What You Should Know](https://severalnines.com/blog/migrating-mssql-postgresql-what-you-should-know)
 
 ## Programming Languages
 
 1. [Understanding the Whys, Whats, and Whens of ValueTask](https://blogs.msdn.microsoft.com/dotnet/2018/11/07/understanding-the-whys-whats-and-whens-of-valuetask/)
 1. [ReasonML - Strict, powerful and forgiving](https://www.harigopal.in/talks/2018/jsfoo)
+1. [The fear of an empty source file](https://ayende.com/blog/184993-A/the-fear-of-an-empty-source-file)
+1. [Working with databases in F#](https://devonburriss.me/how-to-fsharp-pt-9/)
 
 ## Runtime
 
@@ -56,3 +61,4 @@
 1. [Content Security Policy - CSP Toolkit](https://addons.mozilla.org/en-US/firefox/addon/laboratory-by-mozilla/)
 1. [Resources on Distributed Hash Tables](https://techblog.bozho.net/resources-on-distributed-hash-tables/)
 1. [Vue Patterns](https://github.com/learn-vuejs/vue-patterns)
+1. [JetBrains Introduces Datalore 1.0, an Intelligent Web Application for Data Analysis](https://www.infoq.com/news/2018/11/jetbrains-datalore)
