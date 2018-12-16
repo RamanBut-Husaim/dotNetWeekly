@@ -8,6 +8,7 @@
 1. [Immutable Web Apps](https://immutablewebapps.org/)
 1. [Lazy load images with zero Javascript](https://medium.com/@filipvitas/lazy-load-images-with-zero-javascript-2c5bcb691274)
 1. [Mixins and custom functions to enhance your Vue applications](https://blog.logrocket.com/mixins-and-custom-functions-to-enhance-your-vue-applications-693caa7ae76a)
+1. [Useful ASP.NET Core 2.2 Features](https://www.hanselman.com/blog/UsefulASPNETCore22Features.aspx)
 
 ## Tooling & Libraries
 
@@ -47,6 +48,7 @@
 1. [Strongly typed HTML templates with FSharp without a framework](https://medium.com/@akoslukacs42/strongly-typed-html-templates-with-fsharp-without-a-framework-9971575d7fb4)
 1. [The Problem Of Async Programming, And A Crazy Idea For Solving It](https://medium.com/connect-platform/the-problem-of-async-programming-and-a-crazy-idea-for-solving-it-cf368a9ea949)
 1. [You Can Do It in SQL, Stop Writing Extra Code for That](https://geshan.com.np/blog/2018/12/you-can-do-it-in-sql/)
+1. [Unit Testing Anti-Patterns, Full List](https://www.yegor256.com/2018/12/11/unit-testing-anti-patterns.html)
 
 ## Runtime
 
