@@ -17,6 +17,10 @@
 1. [Kong 1.0 GA](https://konghq.com/blog/kong-1-0-ga/)
 1. [HTTP/3 Draft Spec](https://tools.ietf.org/html/draft-ietf-quic-http-17)
 1. [Electron 4.0.0](https://electronjs.org/blog/electron-4-0)
+1. [Introducing New Consul Learn Platform and New Resources - Kubernetes, AWS Cloud Map, and Many More](https://www.hashicorp.com/blog/consul-learning-resources-kubernetes-aws-cloud-map)
+1. [Nomad Learning Resources - Vault Integration, Prometheus Monitoring, Reference Architecture, Deployment Guide, Load Balancing](https://www.hashicorp.com/blog/nomad-learning-resources-2018-12)
+1. [Vault Learning Resources: 1.0, Auto-unseal, Agent, Kubernetes](https://www.hashicorp.com/blog/vault-learning-resources-auto-unseal-agent-kubernetes)
+1. [Rider 2018.3 is released](https://blog.jetbrains.com/dotnet/2018/12/18/rider-2018-3-released/)
 
 ## Architecture & Databases
 
@@ -26,6 +30,10 @@
 1. [Why REST Sucks](http://vmrcre.org/web/scribe/home/-/blogs/why-rest-sucks)
 1. [Evaluating High Availability Solutions for TimescaleDB + PostgreSQL](https://blog.timescale.com/high-availability-timescaledb-postgresql-patroni-a4572264a831)
 1. [A real-time in-game currency service with 7.5M transactions/minute](https://medium.com/loco-blog/a-real-time-in-game-currency-service-with-7-5m-transactions-minute-fdd21b1bd8da)
+1. [PostgreSQL on the Rise - 2018 Postgres Findings & 2019 Trends](https://severalnines.com/blog/postgresql-rise-2018-postgres-findings-2019-trends)
+1. [Design exercise - Distributing (consistent) data at scale](https://ayende.com/blog/185569-A/design-exercise-distributing-consistent-data-at-scale)
+1. [Design exercise - Distributing (consistent) data at scale, answer](https://ayende.com/blog/185570-A/design-exercise-distributing-consistent-data-at-scale-answer)
+1. [Cape Technical Deep Dive](https://blogs.dropbox.com/tech/2018/12/cape-technical-deep-dive/)
 
 ## Programming Languages
 
