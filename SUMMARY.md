@@ -138,3 +138,4 @@
   - [December](2018.12/README.md)
     - [.NET Weekly #106](2018.12/number-106.md)
     - [.NET Weekly #107](2018.12/number-107.md)
+    - [.NET Weekly #108](2018.12/number-108.md)
