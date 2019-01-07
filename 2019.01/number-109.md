@@ -7,6 +7,7 @@
 1. [Vue.js 3.0 Roadmap](https://github.com/vuejs/vue/projects/6)
 1. [Open redirects - the vulnerability class no one but attackers cares about](https://stevetabernacle.github.io/blog/open-redirects-the-vulnerability-class-no-one-but-attackers-cares-about/)
 1. [Reuse HttpContext object per HTTP 1 connection and HTTP 2 stream](https://github.com/aspnet/AspNetCore/pull/6424)
+1. [Using dependency injection with Twilio SMS and ASP.NET Core 2.1](https://andrewlock.net/using-dependency-injection-with-twilio-sms-and-asp.net-core-2-1/)
 
 ## Tooling & Libraries
 
@@ -27,6 +28,10 @@
 1. [An Overview of Just-in-Time Compilation (JIT) for PostgreSQL](https://severalnines.com/blog/overview-just-time-compilation-jit-postgresql)
 1. [From relational DB to single DynamoDB table - a step-by-step exploration](https://www.trek10.com/blog/dynamodb-single-table-relational-modeling/)
 1. [2018 in Review - The Biggest Developments around Microservices, API Gateways, Kubernetes and Service Mesh](https://glasnostic.com/blog/2018-review-predictions-microservices-api-gateways-kubernetes-service-mesh)
+1. [Modeling data using a multi model database](https://ayende.com/blog/185697-A/modeling-data-using-a-multi-model-database)
+1. [MySQL Performance Cheat Sheet](https://severalnines.com/blog/mysql-performance-cheat-sheet)
+1. [How to Slow Down to Go Faster Than Ever in Software Development](https://www.infoq.com/articles/slow-down-go-faster)
+1. [Protecting SQL Server Data Using Static Data Masking](https://www.red-gate.com/simple-talk/sql/database-administration/protecting-sql-server-data-using-static-data-masking/)
 
 ## Programming Languages
 
