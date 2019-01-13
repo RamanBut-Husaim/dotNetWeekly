@@ -1,3 +1,4 @@
 # January 2019
 
 - [.NET Weekly #109](number-109.md)
+- [.NET Weekly #110](number-110.md)

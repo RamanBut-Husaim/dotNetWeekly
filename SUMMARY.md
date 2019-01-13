@@ -142,3 +142,4 @@
 - 2019
   - [January](2019.01/README.md)
     - [.NET Weekly #109](2019.01/number-109.md)
+    - [.NET Weekly #110](2019.01/number-110.md)
