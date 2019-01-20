@@ -8,6 +8,7 @@
 1. [The (Almost) Secret Algorithm Researchers Used to Break Thousands of RSA Keys](https://algorithmsoup.wordpress.com/2019/01/15/breaking-an-unbreakable-code-part-1-the-hack/)
 1. [An alternative way to secure SPAs (with ASP.NET Core, OpenID Connect, OAuth 2.0 and ProxyKit)](https://leastprivilege.com/2019/01/18/an-alternative-way-to-secure-spas-with-asp-net-core-openid-connect-oauth-2-0-and-proxykit/)
 1. [A Peek at the EF Core Cosmos DB Provider Preview](https://msdn.microsoft.com/en-us/magazine/mt848702.aspx)
+1. [Running async tasks on app startup in ASP.NET Core (Part 2)](https://andrewlock.net/running-async-tasks-on-app-startup-in-asp-net-core-part-2/)
 
 ## Tooling & Libraries
 
@@ -31,6 +32,8 @@
 1. [Tech Choices I Regret at Spectrum](https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum/)
 1. [Introducing Scylla Open Source 3.0](https://www.scylladb.com/2019/01/17/scylla-open-source-3-0-overview/)
 1. [Why we built CockroachDB on top of RocksDB](https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/)
+1. [Database Security - How to Use Encryption to Protect Your MongoDB Data](https://severalnines.com/blog/database-security-how-use-encryption-protect-your-mongodb-data)
+1. [The role of domain model with CQRS / Event Sourcing](https://ayende.com/blog/185922-A/the-role-of-domain-model-with-cqrs-event-sourcing)
 
 ## Programming Languages
 
@@ -41,6 +44,7 @@
 1. [Generics & Variance](https://medium.com/androidiots/generics-variance-2def0411ce1b)
 1. [Exploring System.Threading.Channels](https://ndportmann.com/system-threading-channels/)
 1. [Persisting fast in database - LOAD DATA and COPY](https://medium.com/@jerolba/persisting-fast-in-database-load-data-and-copy-caf645a62909)
+1. [System.Data in .NET Core 3.0](https://www.infoq.com/news/2019/01/Net-Core-3-System-Data)
 
 ## Runtime
 
@@ -54,3 +58,6 @@
 
 1. [AWS, MongoDB, and the Economic Realities of Open Source](https://stratechery.com/2019/aws-mongodb-and-the-economic-realities-of-open-source/)
 1. [State of the Stack 2019 - A Year in Review](https://stackoverflow.blog/2019/01/18/state-of-the-stack-2019-a-year-in-review/)
+1. [What if the Architect is Wrong?](https://www.yegor256.com/2019/01/15/what-if-architect-is-wrong.html)
+1. [An Incremental Architecture Approach to Building Systems](https://www.infoq.com/news/2019/01/rearchitecture-system-success)
+1. [Why anyone would bother to learn out-of-demand languages](https://habr.com/ru/post/432048/)
