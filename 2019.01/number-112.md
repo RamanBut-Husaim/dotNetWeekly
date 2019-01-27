@@ -5,6 +5,8 @@
 1. [Twitter migrates data to Google Cloud to keep the world tweeting](https://cloud.google.com/twitter/)
 1. [Nobody Cares About OAuth or OpenID Connect](https://developer.okta.com/blog/2019/01/23/nobody-cares-about-oauth-or-openid-connect)
 1. [Memory usage of a toy C# server and client with 500K concurrent connections on](https://github.com/kjpgit/techdemo/blob/master/dotnet_client_server/README.md)
+1. [Running async tasks on app startup in ASP.NET Core (Part 3 - Feedback)](https://andrewlock.net/running-async-tasks-on-app-startup-in-asp-net-core-part-3-feedback/)
+1. [Subscribe SQS to a SNS topic in another AWS account with CloudFormation, and gotchas](https://theburningmonk.com/2019/01/subscribe-sqs-to-a-sns-topic-in-another-aws-account-with-cloudformation-and-gotchas)
 
 ## Tooling & Libraries
 
@@ -15,6 +17,8 @@
 1. [Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide)
 1. [Yarn's Future - v2 and beyond](https://github.com/yarnpkg/yarn/issues/6953)
 1. [Building with FAKE on Azure DevOps](https://mallibone.com/post/building-with-fake-on-azure-devops)
+1. [NuGet's fancy older sibling FuGet gives you a whole new view of the .NET packaging ecosystem](https://www.hanselman.com/blog/NuGetsFancyOlderSiblingFuGetGivesYouAWholeNewViewOfTheNETPackagingEcosystem.aspx)
+1. [Top GUI Tools for PostgreSQL](https://severalnines.com/blog/top-gui-tools-postgresql)
 
 ## Architecture & Databases
 
@@ -26,6 +30,8 @@
 1. [How much maintenance_work_mem do I need in Postgres](http://rhaas.blogspot.com/2019/01/how-much-maintenanceworkmem-do-i-need.html)
 1. [CockroachDB's Consistency Model](https://www.cockroachlabs.com/blog/consistency-model/)
 1. [Why we choose Badger over RocksDB in Dgraph](https://blog.dgraph.io/post/badger-over-rocksdb-in-dgraph/)
+1. [Some thoughts on anti-patterns](http://blog.ploeh.dk/2019/01/21/some-thoughts-on-anti-patterns/)
+1. [Developing Microservices with Behavior Driven Development and Interface Oriented Design](https://www.infoq.com/articles/microservices-bdd-interface-oriented)
 
 ## Programming Languages
 
@@ -38,6 +44,8 @@
 1. [The TypeScript Tax - A Cost vs Benefit Analysis](https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b)
 1. [Special Cases Are a Code Smell](https://blog.conjur.org/special-cases-are-a-code-smell/)
 1. [Do more with patterns in C# 8.0](https://blogs.msdn.microsoft.com/dotnet/2019/01/24/do-more-with-patterns-in-c-8-0/)
+1. [COM Object Access and dynamic in .NET Core 2.x](https://weblog.west-wind.com/posts/2019/Jan/22/COM-Object-Access-and-dynamic-in-NET-Core-2x)
+1. [The Power of F# Discriminated Unions](https://medium.com/techdev-mix/the-power-of-f-discriminated-unions-e3883b8e40a6)
 
 ## Runtime
 
@@ -47,6 +55,7 @@
 1. [Implementing hard limit for GC heap](https://github.com/dotnet/coreclr/pull/22180)
 1. [JavaScript V8 Engine Explained](https://hackernoon.com/javascript-v8-engine-explained-3f940148d4ef)
 1. [Debugging .NET Apps with Time Travel Debugging](https://blogs.msdn.microsoft.com/dotnet/2019/01/25/debugging-net-apps-with-time-travel-debugging-ttd/)
+1. [What Do These … Classes Do in my Memory Snapshots](https://blog.jetbrains.com/dotnet/2019/01/23/c-classes-memory-snapshots/)
 
 ## Other
 
