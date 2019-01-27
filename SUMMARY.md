@@ -144,3 +144,4 @@
     - [.NET Weekly #109](2019.01/number-109.md)
     - [.NET Weekly #110](2019.01/number-110.md)
     - [.NET Weekly #111](2019.01/number-111.md)
+    - [.NET Weekly #112](2019.01/number-112.md)
