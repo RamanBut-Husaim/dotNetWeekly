@@ -10,6 +10,8 @@
 1. [NoSQL for the serverless age - Announcing Cloud Firestore general availability and updates](https://cloud.google.com/blog/products/databases/announcing-cloud-firestore-general-availability-and-updates)
 1. [Server-side rendering - how to serve authenticated content](https://blog.bugsnag.com/server-side-rendering-and-authenticated-content/)
 1. [Vue.js App Performance Optimization - part 1 — Introduction to performance optimization and lazy loading](https://itnext.io/vue-js-app-performance-optimization-part-1-introduction-to-performance-optimization-and-lazy-29e4ff101019)
+1. [Running async tasks on app startup in ASP.NET Core (Part 4 - using health checks)](https://andrewlock.net/running-async-tasks-on-app-startup-in-asp-net-core-part-4-using-health-checks/)
+1. [Enabling ApiController globally in ASP.NET Core 2.2](https://www.strathweb.com/2019/01/enabling-apicontroller-globally-in-asp-net-core-2-2/)
 
 ## Tooling & Libraries
 
@@ -17,6 +19,8 @@
 1. [How I lost my data trying to back it up](https://hamy.io/post/0010/how-i-lost-my-data-trying-to-back-it-up/)
 1. [The VS Code Roadmap 2019](https://github.com/Microsoft/vscode/wiki/Roadmap)
 1. [Homebrew 2.0 is here with official support for Linux and Windows](https://brew.sh/2019/02/02/homebrew-2.0.0/)
+1. [ReSharper Ultimate 2018.3.2 is released](https://blog.jetbrains.com/dotnet/2019/01/30/resharper-ultimate-2018-3-2-released/)
+1. [Announcing Open Collective for Ionide](https://medium.com/@k_cieslak/announcing-open-collective-for-ionide-ba3e38a0b073)
 
 ## Architecture & Databases
 
@@ -27,6 +31,9 @@
 1. [Static vs Unit vs Integration vs E2E Testing for Frontend Apps](https://blog.kentcdodds.com/static-vs-unit-vs-integration-vs-e2e-testing-for-frontend-apps-ec4eb7e855d1)
 1. [It’s Time to Move on from Two Phase Commit](http://dbmsmusings.blogspot.com/2019/01/its-time-to-move-on-from-two-phase.html)
 1. [Finding Kafka’s throughput limit in Dropbox infrastructure](https://blogs.dropbox.com/tech/2019/01/finding-kafkas-throughput-limit-in-dropbox-infrastructure/)
+1. [Large, interconnected, in memory model](https://ayende.com/blog/186050-A/large-interconnected-in-memory-model)
+1. [Introduction to SQL Server Security — Part 2](https://www.red-gate.com/simple-talk/sysadmin/data-protection-and-privacy/introduction-to-sql-server-security-part-2/)
+1. [Operational Factors to Consider During MongoDB Data Modeling](https://severalnines.com/blog/operational-factors-consider-during-mongodb-data-modeling)
 
 ## Programming Languages
 
@@ -38,6 +45,8 @@
 1. [Fixing Random, part 1](https://ericlippert.com/2019/01/31/fixing-random-part-1/)
 1. [F# 4.6 Introduces Anonymous Record Types](https://www.infoq.com/news/2019/01/fsharp-4.6-preview)
 1. [Pattern Matching Custom Data Types in Typescript](https://blog.parametricstudios.com/posts/pattern-matching-custom-data-types/)
+1. [Better abstractions revisited](http://blog.ploeh.dk/2019/01/28/better-abstractions-revisited/)
+1. [Disposable ref structs in C# 8.0](http://tooslowexception.com/disposable-ref-structs-in-c-8-0/)
 
 ## Runtime
 
