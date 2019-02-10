@@ -7,6 +7,7 @@
 1. [When AWS Autoscale Doesn’t](https://segment.com/blog/when-aws-autoscale-doesn-t/)
 1. [Massively Parallel Hyperparameter Optimization on AWS Lambda](https://medium.com/@hichaelmart/massively-parallel-hyperparameter-optimization-on-aws-lambda-a7a24b1970c8)
 1. [Processing trillions of events per day with Apache Kafka on Azure](https://azure.microsoft.com/en-gb/blog/processing-trillions-of-events-per-day-with-apache-kafka-on-azure/)
+1. [Reducing initial request latency by pre-building services in a startup task in ASP.NET Core](https://andrewlock.net/reducing-latency-by-pre-building-singletons-in-asp-net-core/)
 
 ## Tooling & Libraries
 
@@ -17,6 +18,8 @@
 1. [Pulumi - Multi-Language Strategy and Interoperability](https://github.com/pulumi/pulumi/issues/2430)
 1. [React v16.8 - The One With Hooks](https://reactjs.org/blog/2019/02/06/react-v16.8.0.html)
 1. [VSCode version 1.31](https://code.visualstudio.com/updates/v1_31)
+1. [Try Device Flow with IdentityServer4](https://leastprivilege.com/2019/02/08/try-device-flow-with-identityserver4/)
+1. [Announcing ML.NET 0.10 – Machine Learning for .NET](https://blogs.msdn.microsoft.com/dotnet/2019/02/07/announcing-ml-net-0-10-machine-learning-for-net/)
 
 ## Architecture & Databases
 
@@ -28,6 +31,8 @@
 1. [Why NASA Converted Its Lessons Learned Database into a Knowledge Graph](https://blog.nuclino.com/why-nasa-converted-its-lessons-learned-database-into-a-knowledge-graph)
 1. [Move fast and migrate things: how we automated migrations in Postgres](https://benchling.engineering/move-fast-and-migrate-things-how-we-automated-migrations-in-postgres-d60aba0fc3d4)
 1. [Modern database should natively support transactionally reactive programming](https://blog.nezaboodka.com/post/2019/593-modern-database-should-natively-support-transactionally-reactive-programming)
+1. [An Overview of the Index Changes in PostgreSQL 11](https://severalnines.com/blog/overview-index-changes-postgresql-11)
+1. [Life Beyond Distributed Transactions An Apostate's Implementation - Relational Resources](https://jimmybogard.com/life-beyond-distributed-transactions-an-apostates-implementation-relational-resources)
 
 ## Programming Languages
 
@@ -35,7 +40,11 @@
 1. [WebAssembly Troubles part 1 - WebAssembly Is Not a Stack Machine](http://troubles.md/posts/wasm-is-not-a-stack-machine/)
 1. [The Day I Fell in Love with Fuzzing](https://nullprogram.com/blog/2019/01/25/)
 1. [Fixing Random, part 2](https://ericlippert.com/2019/02/04/fixing-random-part-2/)
+1. [Fixing Random, part 3](https://ericlippert.com/2019/02/07/fixing-random-part-3/)
 1. [How many keywords I can fit into a single C# expression?](https://www.tabsoverspaces.com/233768-how-many-keywords-i-can-fit-into-a-single-csharp-expression)
+1. [Brainstorming - Creating a small single self-contained executable out of a .NET Core application](https://www.hanselman.com/blog/BrainstormingCreatingASmallSingleSelfcontainedExecutableOutOfANETCoreApplication.aspx)
+1. [C# Futures - Pointer Math](https://www.infoq.com/news/2019/02/csharp-pointer-math)
+1. [NullableAttribute and C# 8](https://codeblog.jonskeet.uk/2019/02/10/nullableattribute-and-c-8/)
 
 ## Runtime
 
@@ -53,3 +62,6 @@
 1. [Benchmarking Go vs Node vs Elixir](https://stressgrid.com/blog/benchmarking_go_vs_node_vs_elixir/)
 1. [Reflecting on My Failure to Build a Billion-Dollar Company](https://medium.com/@shl/reflecting-on-my-failure-to-build-a-billion-dollar-company-b0c31d7db0e7)
 1. [Incrementally migrating over one million lines of code from Python 2 to Python 3](https://blogs.dropbox.com/tech/2019/02/incrementally-migrating-over-one-million-lines-of-code-from-python-2-to-python-3/)
+1. [Making money from Open Source Software The problem](https://ayende.com/blog/186113-A/making-money-from-open-source-software-the-problem)
+1. [Making money from Open Source Software The dichotomy](https://ayende.com/blog/186146-A/making-money-from-open-source-software-the-dichotomy)
+1. [Making money from Open Source Software How we do it?](https://ayende.com/blog/186147-A/making-money-from-open-source-software-how-we-do-it)
