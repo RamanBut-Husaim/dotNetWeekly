@@ -5,13 +5,14 @@
 1. [Help! None of my projects want to be SPAs](https://whatisjasongoldstein.com/writing/help-none-of-my-projects-want-to-be-spas/)
 1. [What Hooks Mean for Vue](https://css-tricks.com/what-hooks-mean-for-vue/)
 1. [5 Ways to Improve the Performance of Your Web App](https://zeroequalsfalse.press/posts/programming-web-apps/)
-1. [Reusable Code In React - Inheritance, Composition, Decorators and Mixins](https://benmccormick.org/2019/02/11/reusable-react)
 1. [Using ASP.NET Core Health Checks With ASP.NET Full Framework](https://rimdev.io/using-aspnet-core-health-checks-with-aspnet-full-framework/)
 1. [asp.net core 3 Background Worker template](https://github.com/aspnet/AspNetCore/pull/7401)
 1. [Reacting to Promises from event listeners in Vue.js](https://medium.com/@dobromir_hristov/reacting-to-promises-from-event-listeners-in-vue-js-8959b6d03f52)
 1. [How I wrote the Fastest JavaScript UI Framework](https://medium.com/@ryansolid/how-i-wrote-the-fastest-javascript-ui-framework-37525b42d6c9)
 1. [AllowSynchronousIO disabled in all servers](https://github.com/aspnet/AspNetCore/issues/7644)
 1. [Breaking changes to runtime compilation for Razor views and Razor Pages](https://github.com/aspnet/AspNetCore/issues/7647)
+1. [An introduction to ASP.NET Core Razor Pages](https://andrewlock.net/an-introduction-to-asp-net-core-razor-pages/)
+1. [Be careful when manually handling JSON requests in ASP.NET Core](https://www.strathweb.com/2019/02/be-careful-when-manually-handling-json-requests-in-asp-net-core/)
 
 ## Tooling & Libraries
 
@@ -38,6 +39,7 @@
 1. [To Create An Evolvable API, Stop Thinking About URLs](https://medium.com/@fagnerbrack/to-create-an-evolvable-api-stop-thinking-about-urls-2ad8b4cc208e)
 1. [Paper review. Sharding the Shards - Managing Datastore Locality at Scale with Akkio](https://muratbuffalo.blogspot.com/2019/02/paper-review-sharding-shards-managing.html)
 1. [What Two Years With Microservices Taught Me](https://programmerfriend.com/index.php/2019/02/05/what-two-years-with-microservices-taught-me/)
+1. [The Performance of Window Aggregates Revisited with SQL Server 2019](https://www.red-gate.com/simple-talk/sql/t-sql-programming/the-performance-of-window-aggregates-revisited-with-sql-server-2019/)
 
 ## Programming Languages
 
@@ -50,6 +52,7 @@
 1. [SQL - One of the Most Valuable Skills](http://www.craigkerstiens.com/2019/02/12/sql-most-valuable-skill/)
 1. [The memory safety problem isn't bad coders](https://medium.com/@sgrif/no-the-problem-isnt-bad-coders-ed4347810270)
 1. [These 5 “clean code” tips will dramatically improve your productivity](https://medium.com/@george.seif94/these-5-clean-code-tips-will-dramatically-improve-your-productivity-b20c152783b)
+1. [Reusable Code In React - Inheritance, Composition, Decorators and Mixins](https://benmccormick.org/2019/02/11/reusable-react)
 
 ## Runtime
 
