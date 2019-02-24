@@ -11,6 +11,8 @@
 1. [Add CosmosDB persistent storage to Microsoft Orleans in .Net Core](http://www.michalbialecki.com/2018/04/03/add-cosmosdb-persistent-storage-to-microsoft-orleans-in-net-core/)
 1. [Understanding grain references and UniqueKey for Orleans CosmosDB provider](http://blog.ulriksen.net/orleans-grain-references/)
 1. [Migrating from Angular to Vue](https://medium.com/fundbox-engineering/migrating-a-front-end-framework-and-still-committing-to-a-product-roadmap-angular-to-vue-1d5c00dd5709)
+1. [Comparing ASP.NET Core Routing Performance To ASP.NET MVC](http://www.khalidabuhakmeh.com/comparing-asp-net-core-routing-performance-to-asp-net-mvc)
+1. [HttpClient Creation and Disposal Internals - Should I Dispose of HttpClient](https://www.stevejgordon.co.uk/httpclient-creation-and-disposal-internals-should-i-dispose-of-httpclient)
 
 ## Tooling & Libraries
 
@@ -23,6 +25,8 @@
 1. [Managing JavaScript in the Enterprise](https://blog.npmjs.org/post/182958759735/managing-javascript-in-the-enterprise)
 1. [dotnet-format](https://github.com/dotnet/format)
 1. [vuejs 2.6.7](https://github.com/vuejs/vue/releases/tag/v2.6.7)
+1. [Ultimate Guide to Machine Learning with ML.NET](https://rubikscode.net/2019/02/18/ultimate-guide-to-machine-learning-with-ml-net/)
+1. [Microsoft SEAL open source homomorphic encryption library gets even better for .NET developers!](https://www.microsoft.com/en-us/research/blog/microsoft-seal-open-source-homomorphic-encryption-library-gets-even-better-for-net-developers/)
 
 ## Architecture & Databases
 
@@ -31,6 +35,7 @@
 1. [The log/event processing pipeline you can't have](https://apenwarr.ca/log/20190216)
 1. [An update about Redis developments in 2019](http://antirez.com/news/126)
 1. [Serializability vs “Strict” Serializability - The Dirty Secret of Database Isolation Levels](https://fauna.com/blog/serializability-vs-strict-serializability-the-dirty-secret-of-database-isolation-levels)
+1. [Production Postmortem - This data corruption bug requires 3 simultaneous race conditions](https://ayende.com/blog/186273-C/production-postmortem-this-data-corruption-bug-requires-3-simultaneous-race-conditions)
 
 ## Programming Languages
 
@@ -41,6 +46,9 @@
 1. [Building a Game with SignalR and F#](http://www.codesuji.com/2019/02/19/Building-Game-with-SignalR-and-F/)
 1. [IHostingEnvironment and IApplicationLifetime marked obsolete and replaced](https://github.com/aspnet/AspNetCore/issues/7749)
 1. [Fun with the Spiral of Death](https://blog.marcgravell.com/2019/02/fun-with-spiral-of-death.html)
+1. [From interaction-based to state-based testing](http://blog.ploeh.dk/2019/02/18/from-interaction-based-to-state-based-testing/)
+1. [Fixing Random, part 6](https://ericlippert.com/2019/02/19/fixing-random-part-6/)
+1. [Fixing Random, part 7](https://ericlippert.com/2019/02/21/fixing-random-part-7/)
 
 ## Runtime
 
@@ -48,6 +56,7 @@
 1. [call and callvirt in CIL](http://www.levibotelho.com/development/call-and-callvirt-in-cil/)
 1. [The difference in how the 'this' pointer works in a method call for 'classes' compared to 'structs'](https://stackoverflow.com/questions/5895458/method-invocation-on-a-struct/5900308#5900308)
 1. [Add APIs for some threading metrics](https://github.com/dotnet/corefx/issues/35500)
+1. [Heap vs stack, value type vs reference type](http://tooslowexception.com/heap-vs-stack-value-type-vs-reference-type/)
 
 ## Other
 
