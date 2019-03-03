@@ -7,6 +7,7 @@
 1. [We Analyzed 13 Billion Log Entries – Here’s What We Learned](https://kinsta.com/blog/analyzing-log-entries/)
 1. [I created the same app with Vuex and Redux. Here are the differences](https://medium.com/javascript-in-plain-english/similarities-and-differences-between-vuex-and-redux-by-developing-an-application-be3df0164b22)
 1. [How-To Understand Developing Native, Hybrid & Progressive Web Apps](https://creatorsneverdie.com/blog/item?q=the-cost-of-developing-native-hyrbid-progressive-web-apps)
+1. [Tips and tricks for ASP.NET Core applications](https://dusted.codes/advanced-tips-and-tricks-for-aspnet-core-applications)
 
 ## Tooling & Libraries
 
@@ -18,6 +19,8 @@
 1. [VueJS - Class API proposal](https://github.com/vuejs/rfcs/pull/17)
 1. [VueJS v2.6.8](https://github.com/vuejs/vue/releases/tag/v2.6.8)
 1. [Wireshark 3.0.0 Release Notes](https://www.wireshark.org/docs/relnotes/wireshark-3.0.0.html)
+1. [Akka.NET vs. Kafka, RabbitMQ, and Other Messaging Systems](https://petabridge.com/blog/akkadotnet-vs-kafka/)
+1. [Visual Studio 2019 Release Candidate (RC) now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-release-candidate-rc-now-available/)
 
 ## Architecture & Databases
 
@@ -27,13 +30,18 @@
 1. [Taming the front-end monolith](https://blog.logrocket.com/taming-the-front-end-monolith-dbaede402c39)
 1. [Journey to Event Driven – Part 3 - The Affinity Between Events, Streams and Serverless](https://www.confluent.io/blog/journey-to-event-driven-part-3-affinity-between-events-streams-serverless)
 1. [Indexes in PostgreSQL — 1](https://habr.com/en/company/postgrespro/blog/441962/)
+1. [Introduction to SQL Server Security — Part 3](https://www.red-gate.com/simple-talk/sysadmin/data-protection-and-privacy/introduction-to-sql-server-security-part-3/)
 
 ## Programming Languages
 
 1. [An example of interaction-based testing in C#](http://blog.ploeh.dk/2019/02/25/an-example-of-interaction-based-testing-in-c/)
 1. [A story of fixing a memory leak in MiniDumper](https://lowleveldesign.org/2019/02/22/a-story-of-fixing-a-memory-leak-in-minidumper/)
 1. [Fearless concurrency - how Clojure, Rust, Pony, Erlang and Dart let you achieve that](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/fearlessconcurrencyhowclojurerustponyerlanganddartletyouachievethat)
+1. [Fixing Random, part 8](https://ericlippert.com/2019/02/26/fixing-random-part-8/)
 1. [Fixing Random, part 9](https://ericlippert.com/2019/02/28/fixing-random-part-9/)
+1. [Using EF Core's InMemory Provider To Store A Database In Memory](https://exceptionnotfound.net/ef-core-inmemory-asp-net-core-store-database)
+1. [C# Async Antipatterns](https://markheath.net/post/async-antipatterns)
+1. [An Introduction to Optimising Code Using Span of T](https://www.stevejgordon.co.uk/an-introduction-to-optimising-code-using-span-t)
 
 ## Runtime
 
