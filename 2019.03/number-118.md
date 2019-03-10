@@ -8,6 +8,9 @@
 1. [Stop Wasting Connections, Use HTTP Keep-Alive](https://lob.com/blog/use-http-keep-alive)
 1. [Handling complexity in lambda functions](https://medium.com/dazn-tech/handling-complexity-in-lambda-functions-e7acfbeb920a)
 1. [Lambda Concurrency Limits and SQS Triggers Don’t Mix Well](https://medium.com/@zaccharles/lambda-concurrency-limits-and-sqs-triggers-dont-mix-well-sometimes-eb23d90122e0)
+1. [How Does Razor Pages Differ From MVC In ASP.NET Core?](https://exceptionnotfound.net/razor-pages-how-does-it-differ-from-mvc-in-asp-net-core)
+1. [IIS Hosting for ASP .NET Core Web Apps](https://wakeupandcode.com/iis-hosting-for-asp-net-core-web-apps/)
+1. [Elegant way of producing HTTP responses in ASP.NET Core outside of MVC controllers](https://www.strathweb.com/2019/03/elegant-way-of-producing-http-responses-in-asp-net-core-outside-of-mvc-controllers/)
 
 ## Tooling & Libraries
 
@@ -28,6 +31,7 @@
 1. [Why you should use a relational database instead of NoSQL for your IoT application](https://blog.timescale.com/use-relational-database-instead-of-nosql-for-iot-application/)
 1. [Transactional Data Operations in PostgreSQL Using Common Table Expressions](https://rob.conery.io/2018/08/13/transactional-data-operations-in-postgresql-using-common-table-expressions/)
 1. [A generalised solution to distributed consensus](https://blog.acolyer.org/2019/03/08/a-generalised-solution-to-distributed-consensus/)
+1. [Benchmarking Managed PostgreSQL Cloud Solutions - Part One, Amazon Aurora](https://severalnines.com/blog/benchmarking-managed-postgresql-cloud-solutions-part-one-amazon-aurora)
 
 ## Programming Languages
 
@@ -40,6 +44,7 @@
 1. [What I Enjoyed — and Suffered from — Writing ReasonML Code as a Junior Engineer](https://medium.com/@yukims19/journey-with-reasonml-as-a-junior-developer-17ee53a25fa7)
 1. [TypeScript 3.4 Iteration Plan](https://github.com/Microsoft/TypeScript/issues/30281)
 1. [Async Enumerables with Cancellation](http://blog.monstuff.com/archives/2019/03/async-enumerables-with-cancellation.html)
+1. [C# 8.x is introducing Records](http://www.devsanon.com/c/c-8-is-introducing-records/)
 
 ## Runtime
 
