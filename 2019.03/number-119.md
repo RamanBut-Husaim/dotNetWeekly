@@ -9,6 +9,10 @@
 1. [The Definitive 2019 Guide to Cryptographic Key Sizes and Algorithm Recommendations](https://paragonie.com/blog/2019/03/definitive-2019-guide-cryptographic-key-sizes-and-algorithm-recommendations)
 1. [Dilemmas With React Hooks - Part 1 - States And Reducers](https://yearn2learn.netlify.com/dilemmas-with-react-hooks-1)
 1. [Hardware innovation for data growth challenges at cloud-scale](https://azure.microsoft.com/en-us/blog/hardware-innovation-for-data-growth-challenges-at-cloud-scale/)
+1. [Why isn't my session state working in ASP.NET Core? Session state, GDPR, and non-essential cookies](https://andrewlock.net/session-state-gdpr-and-non-essential-cookies/)
+1. [Creating a not-empty GUID validation attribute and a not-default validation attribute](https://andrewlock.net/creating-an-empty-guid-validation-attribute/)
+1. [Achieve more with Microsoft Game Stack](https://azure.microsoft.com/en-us/blog/achieve-more-with-microsoft-game-stack/)
+1. [ASP.NET Core InProcess Hosting on IIS with ASP.NET Core 2.2](https://weblog.west-wind.com/posts/2019/Mar/16/ASPNET-Core-Hosting-on-IIS-with-ASPNET-Core-22)
 
 ## Tooling & Libraries
 
@@ -27,6 +31,7 @@
 1. [A Comparison of Scalable Database Isolation Levels](https://fauna.com/blog/a-comparison-of-scalable-database-isolation-levels)
 1. [Amazon Aurora ascendant - How we designed a cloud-native relational database](https://www.allthingsdistributed.com/2019/03/Amazon-Aurora-design-cloud-native-relational-database.html)
 1. [7 Commandments for Event-Driven Architecture](https://rjzaworski.com/2019/03/7-commandments-for-event-driven-architecture)
+1. [Why You Shouldn’t Hardcode the Current Database Name in Your Views, Functions, and Stored Procedures](https://www.red-gate.com/simple-talk/opinion/editorials/why-you-shouldnt-hardcode-the-current-database-name-in-your-views-functions-and-stored-procedures/)
 
 ## Programming Languages
 
@@ -34,6 +39,9 @@
 1. [Fixing Random, part 12](https://ericlippert.com/2019/03/11/fixing-random-part-12/)
 1. [Fixing Random, part 13](https://ericlippert.com/2019/03/14/fixing-random-part-13/)
 1. [Announcing TypeScript 3.4 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-3-4-rc/)
+1. [Demystifying HttpClient Internals](https://www.stevejgordon.co.uk/demystifying-httpclient-internals-sendasync-flow-for-httprequestmessage)
+1. [How Data Visibility Hurts Maintainability](https://www.yegor256.com/2019/03/12/data-and-maintainability.html)
+1. [Exceptions vs the Result type in F#](https://danielwertheim.se/exceptions-vs-the-result-type-in-fsharp/)
 
 ## Runtime
 
@@ -52,3 +60,4 @@
 1. [Open Source needs Open Source companies.](http://blog.jessitron.com/2019/03/open-source-needs-open-source-companies.html)
 1. [These Cookie Warning Shenanigans Have Got to Stop](https://www.troyhunt.com/these-cookie-warning-shenanigans-have-got-to-stop/)
 1. [Sustainability as a Service](https://blog.licensezero.com/2019/03/16/sustainability-as-a-service.html)
+1. [Developers, Blog More and Own Your Words](https://exceptionnotfound.net/developers-own-your-words-and-blog-more)
