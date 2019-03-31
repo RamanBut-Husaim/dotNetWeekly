@@ -8,6 +8,8 @@
 1. [Logging best practices to get the most out of application level logging – Slides](https://geshan.com.np/blog/2019/03/follow-these-logging-best-practices-to-get-the-most-out-of-application-level-logging-slides/)
 1. [New Amazon S3 Storage Class – Glacier Deep Archive](https://aws.amazon.com/blogs/aws/new-amazon-s3-storage-class-glacier-deep-archive/)
 1. [.NET Core Workers as Windows Services](https://devblogs.microsoft.com/aspnet/net-core-workers-as-windows-services/)
+1. [Exploring the .NET Core MCR Docker files (updated) - runtime vs aspnet vs sdk](https://andrewlock.net/exploring-the-net-core-mcr-docker-files-runtime-vs-aspnet-vs-sdk/)
+1. [High-Throughput with Azure Blob Storage](https://azure.microsoft.com/en-us/blog/high-throughput-with-azure-blob-storage/)
 
 ## Tooling & Libraries
 
@@ -20,6 +22,7 @@
 1. [Open Sourcing Peloton, Uber’s Unified Resource Scheduler](https://eng.uber.com/open-sourcing-peloton/)
 1. [Announcing Lucet - Fastly’s native WebAssembly compiler and runtime](https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime)
 1. [Vue.js developer tool, prototype your component architecture](https://prevue.io/)
+1. [AutoMapper's Design Philosophy](https://jimmybogard.com/automappers-design-philosophy/)
 
 ## Architecture & Databases
 
@@ -33,6 +36,7 @@
 1. [Timestamps and Time Zones in PostgreSQL](https://phili.pe/posts/timestamps-and-time-zones-in-postgresql/)
 1. [A health check playbook for your Postgres database](https://www.citusdata.com/blog/2019/03/29/health-checks-for-your-postgres-database/)
 1. [Calvin - fast distributed transactions for partitioned database systems](https://blog.acolyer.org/2019/03/29/calvin-fast-distributed-transactions-for-partitioned-database-systems/)
+1. [Introduction to SQL Server Security — Part 4](https://www.red-gate.com/simple-talk/sysadmin/data-protection-and-privacy/introduction-to-sql-server-security-part-4/)
 
 ## Programming Languages
 
@@ -43,6 +47,7 @@
 1. [The Programming Language Conundrum](http://evrl.com/programming/2019/03/28/the-language-conundrum.html)
 1. [Announcing TypeScript 3.4](https://devblogs.microsoft.com/typescript/announcing-typescript-3-4/)
 1. [F# Implementation of Scala ZIO](http://anthonylloyd.github.io/blog/2019/03/29/io)
+1. [An example of state based-testing in F#](https://blog.ploeh.dk/2019/03/25/an-example-of-state-based-testing-in-f/)
 
 ## Runtime
 
