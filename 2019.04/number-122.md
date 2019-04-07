@@ -8,6 +8,7 @@
 1. [Announcing the Azure Functions Premium plan for enterprise serverless workloads](https://azure.microsoft.com/en-us/blog/announcing-the-azure-functions-premium-plan-for-enterprise-serverless-workloads/)
 1. [Dilemmas With React Hooks - Part 2 - Persistence And Memoization](https://yearn2learn.netlify.com/dilemmas-with-react-hooks-2)
 1. [Demystifying Containers - Part I - Kernel Space](https://medium.com/@saschagrunert/demystifying-containers-part-i-kernel-space-2c53d6979504)
+1. [Comparing Nuclio and AWS Lambda](https://theburningmonk.com/2019/04/comparing-nuclio-and-aws-lambda/)
 
 ## Tooling & Libraries
 
@@ -32,6 +33,9 @@
 1. [AWS vs K8s is the new Windows vs Linux](https://zwischenzugs.com/2019/03/25/aws-vs-k8s-is-the-new-windows-vs-linux/)
 1. [Architecting UIs for Change](https://joreteg.com/blog/architecting-uis-for-change)
 1. [API Gateways Are Going Through an Identity Crisis](https://blog.christianposta.com/microservices/api-gateways-are-going-through-an-identity-crisis/)
+1. [Software Project Review Checklist](https://www.yegor256.com/2019/04/02/software-project-review-checklist.html)
+1. [An Introduction to Time Series Databases](https://severalnines.com/blog/introduction-time-series-databases)
+1. [Complex Event Flows in Distributed Systems](https://www.infoq.com/presentations/event-flow-systems)
 
 ## Programming Languages
 
@@ -44,6 +48,7 @@
 1. [Announcing F# 4.6](https://devblogs.microsoft.com/dotnet/announcing-f-4-6/)
 1. [Why NuGet Package Signing Is Not (Yet) for Me](https://haacked.com/archive/2019/04/03/nuget-package-signing/)
 1. [The Unreasonable Effectiveness of SQL](https://blog.couchbase.com/unreasonable-effectiveness-of-sql/)
+1. [Production ready code is much more than error handling](https://ayende.com/blog/186849-A/production-ready-code-is-much-more-than-error-handling)
 
 ## Runtime
 
@@ -62,3 +67,4 @@
 1. [Sonic - a minimalist alternative to Elasticsearch written in Rust](https://notamonadtutorial.com/sonic-a-minimalist-alternative-to-elasticsearch-written-in-rust-7f3612ecb47b)
 1. [Why I removed Grammarly chrome extension and deleted my Grammarly account](https://www.reddit.com/r/privacy/comments/b0y95z/why_i_removed_grammarly_chrome_extension_and/)
 1. [Ginseng - keeping secrets in registers when you distrust the operating system](https://blog.acolyer.org/2019/04/05/ginseng:-keeping-secrets-in-registers-when-you-distrust-the-operating-system/)
+1. [EverCrypt cryptographic provider offers developers greater security assurances](https://www.microsoft.com/en-us/research/blog/evercrypt-cryptographic-provider-offers-developers-greater-security-assurances/)
