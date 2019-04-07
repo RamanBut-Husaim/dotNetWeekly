@@ -36,3 +36,4 @@ This book contains news from the .NET world (and a bit more) for the past week. 
   - [January](2019.01/README.md)
   - [February](2019.02/README.md)
   - [March](2019.03/README.md)
+  - [April](2019.04/README.md)
