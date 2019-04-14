@@ -9,6 +9,8 @@
 1. [Distributed Vue.js Applications Part 1 - Loading Components via HTTP](https://markus.oberlehner.net/blog/distributed-vue-applications-loading-components-via-http/)
 1. [Web Components will replace your frontend framework](https://www.dannymoerkerke.com/blog/web-components-will-replace-your-frontend-framework)
 1. [The Web Developer's Guide to DNS](https://rjzaworski.com/2019/04/the-web-developers-guide-to-dns)
+1. [Using strongly-typed entity IDs to avoid primitive obsession (Part 1)](https://andrewlock.net/using-strongly-typed-entity-ids-to-avoid-primitive-obsession-part-1/)
+1. [Using strongly-typed entity IDs to avoid primitive obsession (Part 2)](https://andrewlock.net/using-strongly-typed-entity-ids-to-avoid-primitive-obsession-part-2/)
 
 ## Tooling & Libraries
 
@@ -33,6 +35,8 @@
 1. [How Skype modernized its backend infrastructure using Azure Cosmos DB – Part 3](https://azure.microsoft.com/en-us/blog/how-skype-modernized-its-backend-infrastructure-using-azure-cosmos-db-part-3/)
 1. [EdgeDB 1.0 Alpha 1](https://edgedb.com/blog/edgedb-1-0-alpha-1/)
 1. [Break functional and orchestration responsibilities for better testability](https://microservices-on-my-mind.blogspot.com/2019/04/break-functional-and-orchestration.html?m=1)
+1. [Designing Highly Scalable Database Architectures](https://www.red-gate.com/simple-talk/cloud/cloud-data/designing-highly-scalable-database-architectures/)
+1. [Shared database in microservices is a problem, yep](https://ayende.com/blog/186914-A/shared-database-in-microservices-is-a-problem-yep)
 
 ## Programming Languages
 
