@@ -8,6 +8,7 @@
 1. [Optimizing Performance With Resource Hints](https://www.smashingmagazine.com/2019/04/optimization-performance-resource-hints/)
 1. [Blazor now in official preview](https://devblogs.microsoft.com/aspnet/blazor-now-in-official-preview/)
 1. [Razor Pages - the Natural Successor to Web Forms](https://www.telerik.com/blogs/razor-pages-the-natural-successor-to-web-forms)
+1. [Using strongly-typed entity IDs to avoid primitive obsession (Part 3)](https://andrewlock.net/using-strongly-typed-entity-ids-to-avoid-primitive-obsession-part-3/)
 
 ## Tooling & Libraries
 
@@ -24,6 +25,7 @@
 1. [Improving Key Expiration in Redis](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/improving-key-expiration-in-redis.html)
 1. [Teaching rigorous distributed systems with efficient model checking](https://blog.acolyer.org/2019/04/17/teaching-rigorous-distributed-systems-with-efficient-model-checking/)
 1. [Tinder’s move to Kubernetes](https://medium.com/@tinder.engineering/tinders-move-to-kubernetes-cda2a6372f44)
+1. [On Microservice Architecture and 18 wheelers](https://ayende.com/blog/186977-C/on-microservice-architecture-and-18-wheelers)
 
 ## Programming Languages
 
@@ -34,6 +36,8 @@
 1. [The philosophies of software languages, from Go to Elixir](https://www.welcometothejungle.co/fr/articles/languages-software-go-elixir)
 1. [Interface Dispatch](https://lukasatkinson.de/2018/interface-dispatch/)
 1. [.NET Internals Cookbook Part 8 — C# gotchas](https://blog.adamfurmanek.pl/2019/04/06/net-internals-cookbook-part-8/)
+1. [Lazy monoids](https://blog.ploeh.dk/2019/04/15/lazy-monoids/)
+1. [8 Ways You can Cause Memory Leaks in .NET](https://michaelscodingspot.com/ways-to-cause-memory-leaks-in-dotnet/)
 
 ## Runtime
 
@@ -56,3 +60,4 @@
 1. [Writing a Technical Book for Manning](https://www.tunetheweb.com/blog/writing-a-technical-book-for-manning/)
 1. [Technical Skills Are Great, but Communication and Curiosity Are Better](https://blog.kylegalbraith.com/2019/04/11/technical-skills-are-great-but-communication-and-curiosity-are-better/)
 1. [Joe Armstrong, the father of Erlang, passed away](https://ferd.ca/goodbye-joe.html)
+1. [Be The Laziest Programmer You Can Be](https://exceptionnotfound.net/be-the-laziest-programmer-you-can-be)
