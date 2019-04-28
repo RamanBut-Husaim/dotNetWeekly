@@ -8,6 +8,7 @@
 1. [Why Turning on HTTP/2 Was a Mistake](https://www.lucidchart.com/techblog/2019/04/10/why-turning-on-http2-was-a-mistake/)
 1. [Thinking in components with Vue.js](https://medium.com/@_shirish/thinking-in-components-with-vue-js-a35b5af12df)
 1. [The moment when you realize every server in the world is vulnerable](https://medium.freecodecamp.org/hash-table-attack-8e4371fc5261)
+1. [Strongly-typed IDs in EF Core - Using strongly-typed entity IDs to avoid primitive obsession - Part 4](https://andrewlock.net/strongly-typed-ids-in-ef-core-using-strongly-typed-entity-ids-to-avoid-primitive-obsession-part-4/)
 
 ## Tooling & Libraries
 
@@ -20,6 +21,7 @@
 1. [Introducing Node.js 12](https://medium.com/@nodejs/introducing-node-js-12-76c41a1b3f3f)
 1. [Dynamic DNS Resolution in Nginx](https://medium.com/driven-by-code/dynamic-dns-resolution-in-nginx-22133c22e3ab)
 1. [NSec is a modern and easy-to-use cryptographic library for .NET Core based on libsodium](https://nsec.rocks/)
+1. [Challenge Accepted - Transposit](https://blog.jessfraz.com/post/challenge-accepted-transposit/)
 
 ## Architecture & Databases
 
@@ -28,6 +30,7 @@
 1. [6 Technical Challenges Developing a Distributed SQL Database](https://blog.yugabyte.com/6-technical-challenges-developing-a-distributed-sql-database/)
 1. [PostgreSQL Features You May Not Have Tried But Should](https://pgdash.io/blog/postgres-features.html)
 1. [Benchmarking the experimental Redis Multi-Threaded I/O](https://itnext.io/benchmarking-the-experimental-redis-multi-threaded-i-o-1bb28b69a314)
+1. [Introduction to SQL Server Security — Part 5](https://www.red-gate.com/simple-talk/sysadmin/data-protection-and-privacy/introduction-to-sql-server-security-part-5/)
 
 ## Programming Languages
 
@@ -49,6 +52,7 @@
 1. [A year with Spectre - a V8 perspective](https://v8.dev/blog/spectre)
 1. [Switch to workstation GC in case of constrained CPU resources](https://github.com/dotnet/coreclr/pull/24194)
 1. [System.GC.AllocateUninitializedArray](https://github.com/dotnet/coreclr/pull/24096)
+1. [.NET Internals Cookbook Part 11 — Various C# riddles](https://blog.adamfurmanek.pl/2019/04/27/net-internals-cookbook-part-11/)
 
 ## Other
 
