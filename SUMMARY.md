@@ -161,3 +161,5 @@
     - [.NET Weekly #123](2019.04/number-123.md)
     - [.NET Weekly #124](2019.04/number-124.md)
     - [.NET Weekly #125](2019.04/number-125.md)
+  - [May](2019.05/README.md)
+    - [.NET Weekly #126](2019.05/number-126.md)
