@@ -87,3 +87,4 @@
 1. [7 years as a developer - lessons learned](https://dev.to/tlakomy/7-years-as-a-developer-lessons-learned-29ic)
 1. [I charged \$18,000 for a Static HTML Page](https://idiallo.com/blog/18000-dollars-static-web-page)
 1. [The struggles of an open source maintainer](http://antirez.com/news/129)
+1. [Code Reviews at Microsoft - How Do Code Reviews Work at one of the Largest Software Companies](https://www.michaelagreiler.com/code-reviews-at-microsoft-how-to-code-review-at-a-large-software-company/)
