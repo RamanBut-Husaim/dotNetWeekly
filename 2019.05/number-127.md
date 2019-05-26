@@ -8,6 +8,8 @@
 1. [5M bid request/s, 2ms Max Response Time - The Road to Damascus](https://github.com/eloraiby/fs-pacer/blob/master/fs-pacer.md)
 1. [5 Easy ways to drastically improve your VueJS app’s speed](https://medium.com/@vaibhav_35703/5-easy-ways-to-drastically-improve-your-vuejs-apps-speed-f9a57943b5)
 1. [Does open-source cryptographic software work correctly](https://cr.yp.to/talks/2019.05.16/slides-djb-20190516-correctly-4x3.pdf)
+1. [How to log timed out Lambda invocations](https://theburningmonk.com/2019/05/how-to-log-timed-out-lambda-invocations/)
+1. [Creating a Quartz.NET hosted service with ASP.NET Core](https://andrewlock.net/creating-a-quartz-net-hosted-service-with-asp-net-core/)
 
 ## Tooling & Libraries
 
@@ -18,6 +20,7 @@
 1. [Announcing Terraform 0.12](https://www.hashicorp.com/blog/announcing-terraform-0-12)
 1. [Dependabot is joining GitHub](https://dependabot.com/blog/hello-github/)
 1. [Ionide 4.0 roadmap](https://github.com/ionide/ionide-vscode-fsharp/issues/1108)
+1. [Visual Studio Code Remote Development may change everything](https://www.hanselman.com/blog/VisualStudioCodeRemoteDevelopmentMayChangeEverything.aspx)
 
 ## Architecture & Databases
 
@@ -30,6 +33,7 @@
 1. [Hello Service Mesh Interface (SMI) - A specification for service mesh interoperability](https://cloudblogs.microsoft.com/opensource/2019/05/21/service-mesh-interface-smi-release/)
 1. [PostgreSQL 12 Beta 1 Released](https://www.postgresql.org/about/news/1943/)
 1. [Apache Kafka is not for Event Sourcing](https://medium.com/serialized-io/apache-kafka-is-not-for-event-sourcing-81735c3cf5c)
+1. [An Overview of WiredTiger Storage Engine for MongoDB](https://severalnines.com/blog/overview-wiredtiger-storage-engine-mongodb)
 
 ## Programming Languages
 
@@ -40,9 +44,11 @@
 1. [Strict null checking Visual Studio Code](https://code.visualstudio.com/blogs/2019/05/23/strict-null)
 1. [Interpreting the .NET Core Memory Timeline in JetBrains dotMemory](https://www.stevejgordon.co.uk/interpreting-the-dotnet-core-memory-timeline-in-jetbrains-dotmemory)
 1. [Analysing the Large Object Heap in JetBrains dotMemory](https://www.stevejgordon.co.uk/analysing-the-large-object-heap-in-jetbrains-dotmemory)
-1. [Lying to the compiler](https://codeblog.jonskeet.uk/2019/05/25/lying-to-the-compiler/)
 
 ## Runtime
+
+1. [TypeScript and high CPU usage - watch don't stare](https://blog.johnnyreilly.com/2019/05/typescript-and-high-cpu-usage-watch.html)
+1. [Lying to the compiler](https://codeblog.jonskeet.uk/2019/05/25/lying-to-the-compiler/)
 
 ## Other
 
