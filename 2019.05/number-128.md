@@ -15,6 +15,7 @@
 1. [Layer 7 Observability with Consul Service Mesh](https://www.hashicorp.com/blog/layer-7-observability-with-consul-service-mesh)
 1. [Version 8 of Angular — Smaller bundles, CLI APIs, and alignment with the ecosystem](https://blog.angular.io/version-8-of-angular-smaller-bundles-cli-apis-and-alignment-with-the-ecosystem-af0261112a27)
 1. [Awesome Plugins for Rider - Language Support](https://blog.jetbrains.com/dotnet/2019/05/29/awesome-plugins-rider-language-support/)
+1. [Awesome Plugins for Rider - Code Editing/Analysis](https://blog.jetbrains.com/dotnet/2019/05/31/awesome-plugins-rider-code-editinganalysis/)
 1. [Time travel debugging - It’s a blast! (from the past)](https://blogs.technet.microsoft.com/srd/2019/05/29/time-travel-debugging-its-a-blast-from-the-past/)
 1. [DigitalOcean Killed Our Company](https://twitter.com/w3Nicolas/status/1134529316904153089)
 1. [GitHub open-sourced semantic - a library and command line tool for parsing, analyzing, and comparing source code](https://github.com/github/semantic)
@@ -28,6 +29,8 @@
 1. [Is High Quality Software Worth the Cost](https://martinfowler.com/articles/is-quality-worth-cost.html)
 1. [One SQL to Rule Them All](https://arxiv.org/abs/1905.12133)
 1. [Aurora Postgres - Disastrous experience](https://old.reddit.com/r/aws/comments/bv70k8/aurora_postgres_disastrous_experience/?st=jwf77hw8&sh=6fbf5497)
+1. [Introduction to SQL Server Security — Part 6](https://www.red-gate.com/simple-talk/sysadmin/data-protection-and-privacy/introduction-to-sql-server-security-part-6/)
+1. [Comparing Data Stores for PostgreSQL - MVCC vs InnoDB](https://severalnines.com/blog/comparing-data-stores-postgresql-mvcc-vs-innodb)
 
 ## Programming Languages
 
@@ -35,6 +38,10 @@
 1. [Porting desktop apps to .NET Core](https://devblogs.microsoft.com/dotnet/porting-desktop-apps-to-net-core/)
 1. [Announcing TypeScript 3.5](https://devblogs.microsoft.com/typescript/announcing-typescript-3-5/)
 1. [PowerShell 7 Road Map](https://devblogs.microsoft.com/powershell/powershell-7-road-map/)
+1. [Be careful of lazy dependencies](https://compiledexperience.com/blog/posts/lazy-dependencies)
+1. [8 Techniques to Avoid GC Pressure and Improve Performance in C# .NET](https://michaelscodingspot.com/avoid-gc-pressure/)
+1. [Unpacking hoisting](http://2ality.com/2019/05/unpacking-hoisting.html)
+1. [Build your own actors](https://bartoszsypytkowski.com/build-your-own-actor-model/)
 
 ## Runtime
 
