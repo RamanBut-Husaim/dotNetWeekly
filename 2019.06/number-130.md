@@ -9,6 +9,7 @@
 1. [Filtering action methods with feature flags](https://andrewlock.net/filtering-action-methods-with-feature-flags-adding-feature-flags-to-an-asp-net-core-app-part-2/)
 1. [The state of CSS - 2019](https://2019.stateofcss.com/)
 1. [High-performance logging with LoggerMessage in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/loggermessage?view=aspnetcore-2.2)
+1. [AWS Lambda vs Azure Functions for C# Serverless](https://developer.okta.com/blog/2019/05/20/azure-aws-lambda-functions-serverless-csharp)
 
 ## Tooling & Libraries
 
@@ -16,11 +17,11 @@
 1. [From Docker Container to Bootable Linux Disk Image](https://iximiuz.com/en/posts/from-docker-container-to-bootable-linux-disk-image/)
 1. [Observability Doesn’t Work in Dev](https://medium.com/windmill-engineering/observability-doesnt-work-in-dev-c214a9fb3e2d)
 1. [Visual Studio Code Remote Development over SSH to a Raspberry Pi is butter](https://www.hanselman.com/blog/VisualStudioCodeRemoteDevelopmentOverSSHToARaspberryPiIsButter.aspx)
-1. [Jump to definition in public repositories](https://github.blog/changelog/2019-06-11-jump-to-definition-in-public-repositories/)
 1. [Introducing Microsoft.FeatureManagement](https://andrewlock.net/introducing-the-microsoft-featuremanagement-library-adding-feature-flags-to-an-asp-net-core-app-part-1/)
 1. [Ionide 4.0 change log](https://github.com/ionide/ionide-vscode-fsharp/wiki/Ionide-4.0-change-log)
 1. [The shockingly fun diagram tool that will change your life as a programmer - PlantUML](http://monarchwadia.com/2019/06/11/the-shockingly-fun-diagram-tool-that-will-change-your-life-as-a-programmer-plantuml.html)
 1. [How we migrated to CommonMark](https://about.gitlab.com/2019/06/13/how-we-migrated-our-markdown-processing-to-commonmark)
+1. [Announcing ML.NET 1.1 and Model Builder updates](https://devblogs.microsoft.com/dotnet/announcing-ml-net-1-1-and-model-builder-updates-machine-learning-for-net/)
 
 ## Architecture & Databases
 
@@ -28,12 +29,17 @@
 1. [ejabberd & Nintendo Switch NPNS](https://blog.process-one.net/ejabberd-nintendo-switch-npns/)
 1. [Building Sentry - Symbolicator](https://blog.sentry.io/2019/06/13/building-a-sentry-symbolicator)
 1. [Making Direct Messages Reliable and Fast](https://instagram-engineering.com/making-direct-messages-reliable-and-fast-a152bdfd697f)
+1. [Monitor CPU usage on SQL Server and Azure SQL](https://techcommunity.microsoft.com/t5/Azure-SQL-Database/Monitor-CPU-usage-on-SQL-Server-and-Azure-SQL/ba-p/680777)
+1. [The Azure Architect Map](https://techcommunity.microsoft.com/t5/Azure-Developer-Community-Blog/The-Azure-Architect-Map/ba-p/689700)
 
 ## Programming Languages
 
 1. [Empty try with finally](https://www.tabsoverspaces.com/233786-empty-try-with-finally)
 1. [CQRS with MediatR (for Commands) and Odata (for Queries)](https://www.jannikbuschke.de/blog/cqrs-with-mediatr-and-odata/)
 1. [Trace .NET Core Applications on Linux with strace](https://gist.github.com/ninjarobot/851564aaf82d1fe2ef0cd3d2bbedf430#trace-net-core-applications-on-linux-with-strace)
+1. [Merging domain events before dispatching](https://enterprisecraftsmanship.com/2019/06/06/merging-domain-events-dispatching/)
+1. [Customize object displays in the Visual Studio debugger YOUR way](https://devblogs.microsoft.com/visualstudio/customize-object-displays-in-the-visual-studio-debugger-your-way/)
+1. [Try the new System.Text.Json APIs](https://devblogs.microsoft.com/dotnet/try-the-new-system-text-json-apis/)
 
 ## Runtime
 
@@ -49,3 +55,5 @@
 1. [Why black metal is great music for programming (but doom metal isn’t)](https://www.atlassian.com/blog/technology/metal-music-for-programming)
 1. [Software below the poverty line](https://staltz.com/software-below-the-poverty-line.html)
 1. [OCaml version 4.08.0](https://inbox.ocaml.org/caml-list/E2C57A5B-D770-426C-8DAF-514B6A369D2A@inria.fr/)
+1. [Where Do You Seek Help First](https://www.yegor256.com/2019/06/11/where-do-you-seek-help.html)
+1. [Jump to definition in public repositories](https://github.blog/changelog/2019-06-11-jump-to-definition-in-public-repositories/)
