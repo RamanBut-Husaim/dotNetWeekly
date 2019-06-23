@@ -8,7 +8,9 @@
 1. [A New State Management for Vue.js](https://medium.com/js-dojo/introducing-a-new-state-management-for-vue-js-b85be00b3299)
 1. [Running Containers in AWS, the Lowdown - ECS, Fargate, and EKS](https://blog.pulumi.com/running-containers-in-aws-the-lowdown-ecs-fargate-and-eks)
 1. [Why I don't use web components](https://dev.to/richharris/why-i-don-t-use-web-components-2cia)
-1. [Vue RFC - Expose logic-related component options via function-based APIs instead](https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md)
+1. [When should you be using Web Workers](https://dassur.ma/things/when-workers/)
+1. [Creating dynamic feature flags with feature filters Adding feature flags to an ASP.NET Core app - Part 3](https://andrewlock.net/creating-dynamic-feature-flags-with-feature-filters-adding-feature-flags-to-an-asp-net-core-app-part-3/)
+1. [Creating a custom feature filter Adding feature flags to an ASP.NET Core app - Part 4](https://andrewlock.net/creating-a-custom-feature-filter-adding-feature-flags-to-an-asp-net-core-app-part-4/)
 
 ## Tooling & Libraries
 
@@ -19,6 +21,7 @@
 1. [NuGet Spring 2019 Roadmap](https://devblogs.microsoft.com/nuget/nuget-spring-2019-roadmap/)
 1. [League of Entropy - Not All Heroes Wear Capes](https://blog.cloudflare.com/league-of-entropy/)
 1. [GitLab 12.0 released with Visual Reviews and Dependency List](https://about.gitlab.com/2019/06/22/gitlab-12-0-released/)
+1. [Vue RFC - Expose logic-related component options via function-based APIs instead](https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md)
 
 ## Architecture & Databases
 
@@ -31,6 +34,7 @@
 1. [Forget monoliths vs. microservices. Cognitive load is what matters](https://techbeacon.com/app-dev-testing/forget-monoliths-vs-microservices-cognitive-load-what-matters)
 1. [How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 1. [Stack History - A Timeline of Slack's Tech Stack Evolution](https://stackshare.io/stack-history-timeline-slack-tech-stack-evolution)
+1. [The End of SQL Server 2008 and 2008 R2 Extended Support](https://www.red-gate.com/simple-talk/sql/database-administration/the-end-of-sql-server-2008-and-2008-r2-extended-support/)
 
 ## Programming Languages
 
@@ -41,6 +45,7 @@
 1. [Now or Never - Migrating 300k LOC from Flow to TypeScript at Quizlet](https://medium.com/tech-quizlet/now-or-never-migrating-300k-loc-from-flow-to-typescript-at-quizlet-d3bae5830a1)
 1. [Using High-Performance Techniques to Base64 Encode a GUID](https://www.stevejgordon.co.uk/using-high-performance-dotnetcore-csharp-techniques-to-base64-encode-a-guid)
 1. [Understanding Worker Threads in Node.js](https://nodesource.com/blog/worker-threads-nodejs)
+1. [Composition Root location](https://blog.ploeh.dk/2019/06/17/composition-root-location/)
 
 ## Runtime
 
