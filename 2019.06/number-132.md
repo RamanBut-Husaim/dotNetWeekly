@@ -4,13 +4,14 @@
 
 1. [Proving security at scale with automated reasoning](https://www.allthingsdistributed.com/2019/05/proving-security-at-scale-with-automated-reasoning.html)
 1. [The cost of JavaScript in 2019](https://v8.dev/blog/cost-of-javascript-2019)
-1. [5 Reasons why AMP for email is bad](https://tutanota.com/blog/posts/amp-email-bad-idea/)
 1. [What does the Vue function API feel like](https://logaretm.com/blog/what-the-vue-function-api-feel-like/)
 1. [Using the BodyReader and BodyWriter in ASP.NET Core 3.0](https://www.stevejgordon.co.uk/using-the-bodyreader-and-bodywriter-in-asp-net-core-3-0)
 1. [Autoscaling AWS Step Functions Activities](https://engineeringblog.yelp.com/2019/06/autoscaling-aws-step-functions-activities.html)
 1. [Isolated ASP.NET Core MVC testing](http://thoughtsoncoding.net/2019/06/20/isolated-asp-net-core-mvc-testing/)
 1. [Hosting a Static Website on Azure with Pulumi](https://blog.pulumi.com/hosting-a-static-website-on-azure-with-pulumi)
 1. [Using Chained Certificates for Certificate Authentication in ASP.NET Core 3.0](https://damienbod.com/2019/06/27/using-chained-certificates-for-certificate-authentication-in-asp-net-core-3-0/)
+1. [Session state and session cookies best practices](https://techcommunity.microsoft.com/t5/IIS-Support-Blog/Session-state-and-session-cookies-best-practices/ba-p/714333)
+1. [The Azure Security Architect Map](https://techcommunity.microsoft.com/t5/Azure-Developer-Community-Blog/The-Azure-Security-Architect-Map/ba-p/714091)
 
 ## Tooling & Libraries
 
@@ -19,6 +20,8 @@
 1. [Introducing Elastic SIEM](https://www.elastic.co/blog/introducing-elastic-siem)
 1. [After 4 years with nginx, we switched to Caddy - Here is why](https://engineering.hashnode.com/after-4-years-with-nginx-we-switched-to-caddy-here-is-why-cjxbv8eb2001ke8s1yl7ndroz)
 1. [WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel)
+1. [Web.config transformations - The definitive syntax guide](https://blog.elmah.io/web-config-transformations-the-definitive-syntax-guide/)
+1. [Did Vue.js Just Blink](https://wildermuth.com/2019/06/24/Did-Vue-js-Just-Blink)
 
 ## Architecture & Databases
 
@@ -26,6 +29,7 @@
 1. [GraphQL Conf 2019 in a nutshell - Some Takeaways](https://time2hack.com/2019/06/graphql-conf-2019-in-a-nutshell-some-takeaways/)
 1. [Fuzzing vs property testing](https://www.tedinski.com/2018/12/11/fuzzing-and-property-testing.html)
 1. [SOLID Design Principles - The Guide to Becoming Better Developers](https://adevait.com/software/solid-design-principles-the-guide-to-becoming-better-developers)
+1. [Focus on Service Capabilities, not Entities](https://codeopinion.com/focus-on-service-capabilities-not-entities/)
 
 ## Programming Languages
 
@@ -36,6 +40,8 @@
 1. [Avoid Indirection in Code for human readability](http://matthewrocklin.com/blog/work/2019/06/23/avoid-indirection)
 1. [Making a tiny .NET Core 3.0 entirely self-contained single executable](https://www.hanselman.com/blog/MakingATinyNETCore30EntirelySelfcontainedSingleExecutable.aspx)
 1. [How we sped up random forest processing, lots of common performance patterns](http://cultureofdevelopment.com/blog/how-we-sped-up-random-forest-processing-lots-of-common-performance-patterns/)
+1. [Dynamic loading of native code with .NET](https://ericsink.com/entries/native_library.html)
+1. [Find, Fix, and Avoid Performance Problems in C# .NET - 10 Best Practices](https://michaelscodingspot.com/performance-problems-in-csharp-dotnet/)
 
 ## Runtime
 
@@ -53,3 +59,5 @@
 1. [Dark Patterns at Scale - Findings from a Crawl of 11K Shopping Websites](https://webtransparency.cs.princeton.edu/dark-patterns/)
 1. [How To Fix The Tech Hiring](https://medium.com/@fagnerbrack/how-to-fix-the-tech-hiring-f56ae8192d8c)
 1. [The secret to an enduring co-founder relationship? Have those crucial conversations](https://about.gitlab.com/2019/06/21/cofounder-relations/)
+1. [5 Reasons why AMP for email is bad](https://tutanota.com/blog/posts/amp-email-bad-idea/)
+1. [Scaling from 2,000 to 25,000 engineers on GitHub at Microsoft](https://www.jeff.wilcox.name/2019/06/scaling-25k/)
