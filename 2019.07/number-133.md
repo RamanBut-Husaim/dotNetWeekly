@@ -7,6 +7,9 @@
 1. [Vue.js functional components - What, Why, and When](https://stegosource.com/vue-js-functional-components-what-why-and-when/)
 1. [Vue without View - An Introduction to Renderless Components](https://dev.to/ycmjason/vue-without-view-an-introduction-to-renderless-components-23ld)
 1. [Migrating to GraphQL - A Practical Assessment](https://arxiv.org/abs/1906.07535)
+1. [Zero-Downtime Web Apps for ASP .NET Core](https://wakeupandcode.com/zero-downtime-web-apps-for-asp-net-core/)
+1. [Web Components in 2019 - Part 1](https://codeburst.io/web-components-in-2019-part-1-6bd7251edce5)
+1. [Web Components in 2019 - Part 2](https://codeburst.io/web-components-in-2019-part-2-a7de8c770c5a)
 
 ## Tooling & Libraries
 
@@ -30,6 +33,7 @@
 1. [The little legacy code that could - a fable of software ownership](https://circleci.com/blog/deploy-a-clojure-web-application-to-aws-using-terraform/)
 1. [Hypothetical Indexes in PostgreSQL](https://www.percona.com/blog/2019/06/21/hypothetical-indexes-in-postgresql/)
 1. [Client side caching in Redis 6](http://antirez.com/news/130)
+1. [Introducing UTF-8 support for SQL Server](https://techcommunity.microsoft.com/t5/SQL-Server/Introducing-UTF-8-support-for-SQL-Server/ba-p/734928)
 
 ## Programming Languages
 
@@ -43,6 +47,8 @@
 1. [Fighting complexity in software development](https://github.com/atsapura/CardManagement/blob/master/article/Fighting%20complexity%20in%20software%20development.md)
 1. [Programmer Test Principles](https://medium.com/@kentbeck_7670/programmer-test-principles-d01c064d7934)
 1. [Mistakes we make using JavaScript Promises](https://www.betamark.com/blog/mistakes-using-javascript-promises/)
+1. [TDD Misbeliefs](https://www.yegor256.com/2019/07/02/tdd-misbeliefs.html)
+1. [Understanding how to use Task and ValueTask](https://channel9.msdn.com/Shows/On-NET/Understanding-how-to-use-Task-and-ValueTask)
 
 ## Runtime
 
