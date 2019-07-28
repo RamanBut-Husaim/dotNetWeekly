@@ -174,3 +174,4 @@
     - [.NET Weekly #133](2019.07/number-133.md)
     - [.NET Weekly #134](2019.07/number-134.md)
     - [.NET Weekly #135](2019.07/number-135.md)
+    - [.NET Weekly #136](2019.07/number-136.md)

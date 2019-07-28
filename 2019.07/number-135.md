@@ -15,7 +15,7 @@
 
 1. [Upcoming Rider 2019.2 new features](https://blog.jetbrains.com/dotnet/2019/07/15/readme-txt-support-xdt-transforms-native-credential-providers-rider-2019-2-nuget-updates/)
 1. [Authentication and the Have I Been Pwned API](https://www.troyhunt.com/authentication-and-the-have-i-been-pwned-api/)
-1. [EF Core 3.0 Preview 6](https://github.com/aspnet/EntityFrameworkCore/issues/15403#issuecomment-512980741) 1.[Understanding Docker container escapes](https://blog.trailofbits.com/2019/07/19/understanding-docker-container-escapes/)
+1. [EF Core 3.0 Preview 6](https://github.com/aspnet/EntityFrameworkCore/issues/15403#issuecomment-512980741) 1. [Understanding Docker container escapes](https://blog.trailofbits.com/2019/07/19/understanding-docker-container-escapes/)
 1. [How to Monitor PostgreSQL Running Inside a Docker Container](https://severalnines.com/blog/how-monitor-postgresql-running-inside-docker-container)
 1. [RedisTimeSeries Module Adds Time Series Database Features to Redis](https://www.infoq.com/news/2019/07/redis-time-series-module/)
 
