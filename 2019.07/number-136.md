@@ -51,6 +51,7 @@
 
 1. [.NET Core Counters internals - how to integrate counters in your monitoring pipeline](https://medium.com/criteo-labs/net-core-counters-internals-how-to-integrate-counters-in-your-monitoring-pipeline-5354cd61b42e)
 1. [Announcing .NET Core 3.0 Preview 7](https://devblogs.microsoft.com/dotnet/announcing-net-core-3-0-preview-7/)
+1. [Announcing Entity Framework Core 3.0 Preview 7 and Entity Framework 6.3 Preview 7](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-3-0-preview-7-and-entity-framework-6-3-preview-7/)
 
 ## Other
 
