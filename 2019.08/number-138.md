@@ -8,6 +8,7 @@
 1. [Why is modern web development so complicated](https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/)
 1. [HTTP Desync Attacks - Request Smuggling Reborn](https://portswigger.net/blog/http-desync-attacks-request-smuggling-reborn)
 1. [IdentityServer and Signing Key Rotation](https://brockallen.com/2019/08/09/identityserver-and-signing-key-rotation/)
+1. [Zero Downtime Deployment for ASP.NET applications](https://www.dotnetcurry.com/aspnet-core/1503/zero-downtime-continuous-deployment-aspnet-apps)
 
 ## Tooling & Libraries
 
@@ -20,6 +21,7 @@
 1. [GitHub Actions now supports CI/CD, free for public repositories](https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/)
 1. [React v16.9.0 and the Roadmap Update](https://reactjs.org/blog/2019/08/08/react-v16.9.0.html)
 1. [VSCode 1.37](https://code.visualstudio.com/updates/v1_37)
+1. [Debug & Catch Exceptions in Visual Studio - The Complete Guide](https://michaelscodingspot.com/debugging-exceptions/)
 
 ## Architecture & Databases
 
@@ -27,6 +29,7 @@
 1. [Achieving High Availability with RabbitMQ](https://www.youtube.com/watch?v=MFH-GDYdxwQ)
 1. [The Cloud](https://txt.black/~jack/cloud.txt)
 1. [Build highly available MySQL applications using Amazon Aurora Multi-Master](https://aws.amazon.com/cn/blogs/database/building-highly-available-mysql-applications-using-amazon-aurora-mmsr/)
+1. [Introducing Distributed transaction functionality on SQL Server 2017 on Linux starting with CU16](https://techcommunity.microsoft.com/t5/SQL-Server/Introducing-Distributed-transaction-functionality-on-SQL-Server/ba-p/786632)
 
 ## Programming Languages
 
@@ -34,12 +37,17 @@
 1. [How Does the Development Mode Work](https://overreacted.io/how-does-the-development-mode-work/)
 1. [C# Records v2](https://github.com/dotnet/csharplang/blob/master/proposals/recordsv2.md)
 1. [Remainder operator vs. modulo operator](https://2ality.com/2019/08/remainder-vs-modulo.html)
-1. [Intl.NumberFormat](https://v8.dev/features/intl-numberformat)
+1. [Learn Advanced TypeScript](https://hackernoon.com/learn-advanced-typescript-4yl727e6)
+1. [Quick Sort - The Sorting Algorithm Family Reunion](https://exceptionnotfound.net/quick-sort-csharp-the-sorting-algorithm-family-reunion/)
+1. [Think Twice Before Returning null](https://odetocode.com/blogs/scott/archive/2019/08/07/think-twice-before-returning-null.aspx)
+1. [Heap Sort - The Sorting Algorithm Family Reunion](https://exceptionnotfound.net/heap-sort-csharp-the-sorting-algorithm-family-reunion/)
+1. [Immutability in Message Types](https://jimmybogard.com/immutability-in-message-types)
 
 ## Runtime
 
 1. [Optimize constant_string.Length](https://github.com/dotnet/coreclr/pull/26000)
 1. [Geting 4x Speedup With .NET Core 3.0 SIMD Intrinsics](https://medium.com/@alexyakunin/geting-4x-speedup-with-net-core-3-0-simd-intrinsics-5c9c31c47991)
+1. [Custom memory allocation in C# Part 12 — Hiding objects from GC](https://blog.adamfurmanek.pl/2019/08/10/custom-memory-allocation-in-c-part-12/)
 
 ## Other
 
