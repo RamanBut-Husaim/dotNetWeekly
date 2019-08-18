@@ -7,6 +7,7 @@
 1. [Getting Started with gRPC Client Factory](https://www.stevejgordon.co.uk/getting-started-with-grpc-client-factory-in-asp-net-core)
 1. [Fantastic Front-End Performance Tricks And Why We Do Them](https://buttercms.com/blog/front-end-performance-optimization-techniques)
 1. [High-performance input handling on the web](https://nolanlawson.com/2019/08/11/high-performance-input-handling-on-the-web/)
+1. [Your single source for Azure best practices](https://azure.microsoft.com/en-us/blog/your-single-source-for-azure-best-practices/)
 
 ## Tooling & Libraries
 
@@ -17,6 +18,7 @@
 1. [EF Core 3.0 Preview 8 and EF6.3 Preview 8 have shipped](https://github.com/aspnet/EntityFrameworkCore/issues/15403#issuecomment-521793360)
 1. [Find all references in public repositories](https://github.blog/changelog/2019-08-16-find-all-references-in-public-repositories/)
 1. [Highlights from Git 2.23](https://github.blog/2019-08-16-highlights-from-git-2-23)
+1. [AutoMapper 9.0 Released](https://jimmybogard.com/automapper-9-0-released/)
 
 ## Architecture & Databases
 
@@ -26,6 +28,7 @@
 1. [Documenting Software Architecture](https://herbertograca.com/2019/08/12/documenting-software-architecture/)
 1. [The (not so) hidden cost of sharing code between iOS and Android](https://blogs.dropbox.com/tech/2019/08/the-not-so-hidden-cost-of-sharing-code-between-ios-and-android/)
 1. [Why Atlassian uses an internal PaaS to regulate AWS access](https://blog.developer.atlassian.com/why-atlassian-uses-an-internal-paas-to-regulate-aws-access/)
+1. [How to choose the partition key](https://indexoutofrange.com//how-to-choose-a-partition-key/)
 
 ## Programming Languages
 
@@ -35,6 +38,10 @@
 1. [.NET Debugging - 6 techniques you need in your arsenal](https://raygun.com/blog/dot-net-debugging/)
 1. [The Order of the JSON](https://blog.almaer.com/the-order-of-the-json/)
 1. [Announcing TypeScript 3.6 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-3-6-rc/)
+1. [Cocktail Shaker Sort - The Sorting Algorithm Family Reunion](https://exceptionnotfound.net/cocktail-shaker-sort-csharp-the-sorting-algorithm-family-reunion/)
+1. [Bogosort - The Sorting Algorithm Family Reunion](https://exceptionnotfound.net/bogosort-csharp-the-sorting-algorithm-family-reunion/)
+1. [Transactional Memory and Tech Hype Waves](https://blog.jessfraz.com/post/transactional-memory-and-tech-hype-waves/)
+1. [Logging in C# .NET Modern-day Practices - The Complete Guide](https://michaelscodingspot.com/logging-in-dotnet/)
 
 ## Runtime
 
