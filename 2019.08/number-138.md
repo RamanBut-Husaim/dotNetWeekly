@@ -46,7 +46,7 @@
 ## Runtime
 
 1. [Optimize constant_string.Length](https://github.com/dotnet/coreclr/pull/26000)
-1. [Geting 4x Speedup With .NET Core 3.0 SIMD Intrinsics](https://medium.com/@alexyakunin/geting-4x-speedup-with-net-core-3-0-simd-intrinsics-5c9c31c47991)
+1. [Getting 4x Speedup With .NET Core 3.0 SIMD Intrinsics](https://medium.com/@alexyakunin/geting-4x-speedup-with-net-core-3-0-simd-intrinsics-5c9c31c47991)
 1. [Custom memory allocation in C# Part 12 — Hiding objects from GC](https://blog.adamfurmanek.pl/2019/08/10/custom-memory-allocation-in-c-part-12/)
 
 ## Other
