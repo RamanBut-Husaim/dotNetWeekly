@@ -10,6 +10,8 @@
 1. [AWS Lambda Cold Starts After 10 Minutes](https://mikhail.io/2019/08/aws-lambda-cold-starts-after-10-minutes/)
 1. [Dependency Injection in Vue.js Applications](https://markus.oberlehner.net/blog/dependency-injection-in-vue-applications/)
 1. [JWTs suck (for web auth and basically everything else)](https://speakerdeck.com/rdegges/jwts-suck)
+1. [Running PostgreSQL Using Amazon RDS](https://severalnines.com/database-blog/running-postgresql-using-amazon-rds)
+1. [The Cloud-native Azure Application Architect Map](https://techcommunity.microsoft.com/t5/Azure-Developer-Community-Blog/The-Cloud-native-Azure-Application-Architect-Map/ba-p/812242)
 
 ## Tooling & Libraries
 
@@ -39,8 +41,11 @@
 1. [Artifact Removal in C# with OpenCV](https://lostindetails.com/articles/Image-Artifact-removal-in-CSharp)
 1. [Hash table tradeoffs - CPU, memory, and variability](https://medium.com/@leventov/hash-table-tradeoffs-cpu-memory-and-variability-22dc944e6b9a)
 1. [Trying to Run RSocket Server with RSocket.NET and ASP.NET Core Primitives for Non-HTTP Servers](https://www.tpeczek.com/2019/08/trying-to-run-rsocket-server-with.html)
-1. [JavaScript - The Modern Parts](https://amontalenti.com/2019/08/10/javascript-the-modern-parts)
-1. [Robert Martin - Why Clojure](https://blog.cleancoder.com/uncle-bob/2019/08/22/WhyClojure.html)
+1. [Bubble Sort - The Sorting Algorithm Family Reunion](https://exceptionnotfound.net/bubble-sort-csharp-the-sorting-algorithm-family-reunion/)
+1. [Odd-Even Sort - The Sorting Algorithm Family Reunion](https://exceptionnotfound.net/odd-even-sort-csharp-the-sorting-algorithm-family-reunion/)
+1. [The state of software engineering](http://danielbachler.de/2019/08/11/the-state-of-software-engineering.html)
+1. [.NET Core and systemd Avatar](https://devblogs.microsoft.com/dotnet/net-core-and-systemd/)
+1. [Refactoring to Data Driven Tests](https://indexoutofrange.com//refactoring-to-data-driven-tests/)
 
 ## Runtime
 
