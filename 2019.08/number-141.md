@@ -59,4 +59,5 @@
 1. [Why Programmers Should Curb Their Enthusiasm, and Thinking About Computational Thinking](https://cacm.acm.org/magazines/2019/9/238957-why-programmers-should-curb-their-enthusiasm-and-thinking-about-computational-thinking/fulltext)
 1. [Things I Learnt from a Senior Software Engineer](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html)
 1. [The Myth of Consumer-Grade Security](https://www.schneier.com/blog/archives/2019/08/the_myth_of_con.html)
-1. [The Paxos Algorithm or How to Win a Turing Award](https://lamport.azurewebsites.net/tla/paxos-algorithm.html) 1.[exFAT in the Linux kernel? Yes](https://cloudblogs.microsoft.com/opensource/2019/08/28/exfat-linux-kernel)
+1. [The Paxos Algorithm or How to Win a Turing Award](https://lamport.azurewebsites.net/tla/paxos-algorithm.html)
+1. [exFAT in the Linux kernel? Yes](https://cloudblogs.microsoft.com/opensource/2019/08/28/exfat-linux-kernel)
