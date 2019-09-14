@@ -183,3 +183,4 @@
     - [.NET Weekly #141](2019.08/number-141.md)
   - [September](2019.09/README.md)
     - [.NET Weekly #142](2019.09/number-142.md)
+    - [.NET Weekly #143](2019.09/number-143.md)
