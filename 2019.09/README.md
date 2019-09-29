@@ -3,3 +3,4 @@
 - [.NET Weekly #142](number-142.md)
 - [.NET Weekly #143](number-143.md)
 - [.NET Weekly #144](number-144.md)
+- [.NET Weekly #145](number-145.md)
