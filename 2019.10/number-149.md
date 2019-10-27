@@ -9,6 +9,7 @@
 1. [Get Ready for New SameSite=None; Secure Cookie Settings](https://blog.chromium.org/2019/10/developers-get-ready-for-new.html)
 1. [RDS database migration with Lambda](https://blog.codecentric.de/en/2019/10/rds-database-migration-with-lambda/)
 1. [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
+1. [Building Messaging Endpoints in Azure: Functions](https://jimmybogard.com/building-messaging-endpoints-in-azure-functions/)
 
 ## Tooling & Libraries
 
@@ -31,18 +32,24 @@
 1. [Storing 50 million events per second in Elasticsearch - How we did it](https://datadome.co/bot-protection-engineering/store-50-million-event-per-second-in-elasticsearch/)
 1. [How YugabyteDB Scales to More than 1 Million Inserts Per Sec](https://blog.yugabyte.com/how-yugabytedb-scales-to-more-than-1-million-inserts-per-sec/)
 1. [RabbitMQ Mirrored Queues Gotchas](https://www.erlang-solutions.com/blog/rabbitmq-mirrored-queues-gotchas.html)
+1. [What's New in PostgreSQL 12](https://severalnines.com/database-blog/whats-new-postgresql-12)
 
 ## Programming Languages
 
 1. [Pros and cons of different ways of storing Enum values in the database](https://zubialevich.blogspot.com/2019/08/enum-vaues-in-the-database.html)
 1. [Experimenting on QUIC and HTTP 3 in ASP.NET Core](https://github.com/aspnet/Announcements/issues/393)
 1. [Options for .NET’s versioning issues](https://codeblog.jonskeet.uk/2019/10/25/options-for-nets-versioning-issues/)
+1. [RavenDB. Two years of pain and joy](https://ayende.com/blog/188769-A/re-ravendb-two-years-of-pain-and-joy)
+1. [Eight Tips to Make Code Reviews Suck Less](https://exceptionnotfound.net/eight-tips-to-make-code-reviews-suck-less/)
+1. [A red-green-refactor checklist](https://blog.ploeh.dk/2019/10/21/a-red-green-refactor-checklist/)
+1. [The problems of shared mutable state and how to avoid them](https://2ality.com/2019/10/shared-mutable-state.html)
 
 ## Runtime
 
 1. [Update breaking change rules for default interface methods](https://github.com/dotnet/corefx/pull/41949)
 1. [Research based on the .NET Runtime](https://mattwarren.org/2019/10/25/Research-based-on-the-.NET-Runtime/)
 1. [vectorization of a manually unrolled loop](https://github.com/dotnet/coreclr/issues/27412)
+1. [.NET Vector Performance](https://praeclarum.org/2019/10/15/vector-performance.html)
 
 ## Other
 
