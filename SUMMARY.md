@@ -191,3 +191,4 @@
     - [.NET Weekly #147](2019.10/number-147.md)
     - [.NET Weekly #148](2019.10/number-148.md)
     - [.NET Weekly #149](2019.10/number-149.md)
+    - [.NET Weekly #150](2019.10/number-150.md)
