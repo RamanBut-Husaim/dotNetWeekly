@@ -9,6 +9,7 @@
 1. [Azure Functions 3.0 go-live release is now available](https://azure.microsoft.com/en-us/updates/announcing-go-live-release-for-azure-functions-v3/)
 1. [Converting integration tests to .NET Core 3.0](https://andrewlock.net/converting-integration-tests-to-net-core-3/)
 1. [WebAssembly 1.0 Becomes a W3C Recommendation and the Fourth Language to Run Natively in Browsers](https://www.infoq.com/news/2019/12/webassembly-w3c-recommendation/)
+1. [Demystifying the new .NET Core 3 Worker Service](https://devblogs.microsoft.com/premier-developer/demystifying-the-new-net-core-3-worker-service/)
 
 ## Tooling & Libraries
 
