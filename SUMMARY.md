@@ -199,3 +199,4 @@
   - [December](2019.12/README.md)
     - [.NET Weekly #154](2019.12/number-154.md)
     - [.NET Weekly #155](2019.12/number-155.md)
+    - [.NET Weekly #156](2019.12/number-156.md)
