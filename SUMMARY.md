@@ -200,3 +200,6 @@
     - [.NET Weekly #154](2019.12/number-154.md)
     - [.NET Weekly #155](2019.12/number-155.md)
     - [.NET Weekly #156](2019.12/number-156.md)
+- 2020
+  - [January](2020.01/README.md)
+    - [.NET Weekly #157](2020.01/number-157.md)
