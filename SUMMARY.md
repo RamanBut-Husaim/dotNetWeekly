@@ -204,3 +204,4 @@
   - [January](2020.01/README.md)
     - [.NET Weekly #157](2020.01/number-157.md)
     - [.NET Weekly #158](2020.01/number-158.md)
+    - [.NET Weekly #159](2020.01/number-159.md)
