@@ -5,6 +5,8 @@
 1. [Endpoint Debugging in ASP.NET Core 3 Applications](https://khalidabuhakmeh.com/endpoint-debugging-in-asp-dot-net-core-3-applications)
 1. [OAuth 2.0 - The long Road to Proof-of-Possession Access Tokens](https://leastprivilege.com/2020/01/15/oauth-2-0-the-long-road-to-proof-of-possession-access-tokens/)
 1. [Deploy your side-projects at scale for basically nothing - Google Cloud Run](https://alexolivier.me/posts/deploy-container-stateless-cheap-google-cloud-run-serverless)
+1. [Logging MVC properties with Serilog.AspNetCore](https://andrewlock.net/using-serilog-aspnetcore-in-asp-net-core-3-logging-mvc-propertis-with-serilog/)
+1. [ASP.NET Core IIS InProcess Hosting Issue in .NET Core 3.1](https://weblog.west-wind.com/posts/2020/Jan/14/ASPNET-Core-IIS-InProcess-Hosting-Issues-in-NET-Core-31)
 
 ## Tooling & Libraries
 
@@ -29,12 +31,16 @@
 1. [Introducing EF Core 5 Features - Using ToQueryString to get generated SQL](https://blog.oneunicorn.com/2020/01/12/toquerystring/)
 1. [C# 8.0 - Understanding Using Declarations](https://www.stevejgordon.co.uk/csharp-8-understanding-using-declarations)
 1. [A class-based enum pattern for JavaScript](https://2ality.com/2020/01/enum-pattern.html)
+1. [Keeping secrets from yourself](https://ayende.com/blog/189633-C/keeping-secrets-from-yourself)
+1. [Updating my ASP.NET podcast site to System.Text.Json from Newtonsoft.Json](https://www.hanselman.com/blog/UpdatingMyASPNETPodcastSiteToSystemTextJsonFromNewtonsoftJson.aspx)
+1. [How to Lead a Project - as a Software Engineer](https://blog.pragmaticengineer.com/how-to-lead-a-project-in-software-development/)
 
 ## Runtime
 
 1. [Microsoft Security Advisory CVE-2020-0605 - .NET Core Remote Code Execution Vulnerability](https://github.com/dotnet/announcements/issues/148)
 1. [Microsoft Security Advisory CVE-2020-0606 - .NET Core Remote Code Execution Vulnerability](https://github.com/dotnet/announcements/issues/149)
 1. [NET Core 3.1.1 - January 14, 2020](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.1/3.1.1.md)
+1. [Add Mono to the runtime repository](https://github.com/dotnet/runtime/pull/1912)
 
 ## Other
 
@@ -45,3 +51,4 @@
 1. [Project Verona - research programming language for concurrent ownership](https://github.com/microsoft/verona)
 1. [A sad day for Rust](https://words.steveklabnik.com/a-sad-day-for-rust)
 1. [NIST Releases Version 1.0 of Privacy Framework](https://www.nist.gov/news-events/news/2020/01/nist-releases-version-10-privacy-framework)
+1. [How to manage a program in a product-mode organization](https://martinfowler.com/articles/programs-in-product-mode.html)
