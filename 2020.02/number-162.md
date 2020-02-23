@@ -33,6 +33,7 @@
 1. [Structuring Your Teams for Software Reliability](https://www.blameless.com/structuring-team-software-reliability/)
 1. [Useless Vacuuming](https://rhaas.blogspot.com/2020/02/useless-vacuuming.html)
 1. [Making your monolith more reliable](https://cloud.google.com/blog/products/management-tools/sre-for-single-tiered-software-applications)
+1. [3 things that will make or break your project](https://enterprisecraftsmanship.com/posts/3-things-that-will-make-or-break-your-project/)
 
 ## Programming Languages
 
@@ -48,6 +49,8 @@
 1. [Intro To Pattern Matching - Covers C# 9](https://www.c-sharpcorner.com/article/intro-to-pattern-matching-covers-c-sharp-9/)
 1. [Announcing TypeScript 3.8](https://devblogs.microsoft.com/typescript/announcing-typescript-3-8/)
 1. [Debugging Wednesday at Criteo — Cancel this task](https://medium.com/@chnasarre/debugging-wednesday-cancel-this-task-53ca5bea5bc8)
+1. [The design and implementation of a better ThreadLocal](https://ayende.com/blog/189793-A/the-design-and-implementation-of-a-better-threadlocal-t)
+1. [The Pyramid of Unit Testing Benefits](https://blog.pragmaticengineer.com/unit-testing-benefits-pyramid/)
 
 ## Runtime
 
@@ -57,6 +60,7 @@
 1. [Binding Redirects](https://nickcraver.com/blog/2020/02/11/binding-redirects/)
 1. [Building your own Java-like GC logs in .NET](https://medium.com/criteo-labs/c-building-your-own-java-like-gc-logs-in-net-992205fd8d4f)
 1. [Delete System.Data.SqlClient package](https://github.com/dotnet/runtime/commit/722cf301becb56ffe53c9a36f42a6cd08b71c45b)
+1. [Under the hood of "Default Interface Methods"](https://mattwarren.org/2020/02/19/Under-the-hood-of-Default-Interface-Methods/)
 
 ## Other
 
