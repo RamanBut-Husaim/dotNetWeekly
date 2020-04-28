@@ -219,3 +219,4 @@
     - [.NET Weekly #168](2020.04/number-168.md)
     - [.NET Weekly #169](2020.04/number-169.md)
     - [.NET Weekly #170](2020.04/number-170.md)
+    - [.NET Weekly #171](2020.04/number-171.md)
