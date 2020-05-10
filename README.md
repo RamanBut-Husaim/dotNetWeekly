@@ -50,3 +50,4 @@ This book contains news from the .NET world (and a bit more) for the past week. 
   - [February](2020.02/README.md)
   - [March](2020.03/README.md)
   - [April](2020.04/README.md)
+  - [May](2020.05/README.md)
